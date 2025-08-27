@@ -1,0 +1,78 @@
+{
+  "contact.title": {
+    "message": "Contact",
+    "description": "Contact page title"
+  },
+  "contact.description": {
+    "message": "Lunascape for Mobile contact form",
+    "description": "Contact page description"
+  },
+  "contact.heading": {
+    "message": "Contact Us",
+    "description": "Contact page heading"
+  },
+  "contact.subtitle": {
+    "message": "We're here to help! Please use the contact form below to get in touch with our support team.",
+    "description": "Contact page subtitle"
+  },
+  "contact.support.title": {
+    "message": "Lunascape for Mobile Support",
+    "description": "Support section title"
+  },
+  "contact.support.description": {
+    "message": "If you have questions or need assistance with Lunascape for Mobile, please fill out the form below:",
+    "description": "Support section description"
+  },
+  "contact.alternative.title": {
+    "message": "Alternative Contact Methods",
+    "description": "Alternative contact methods title"
+  },
+  "contact.alternative.email": {
+    "message": "Email:",
+    "description": "Email label"
+  },
+  "contact.alternative.email.value": {
+    "message": "support@lunascape.com",
+    "description": "Email address"
+  },
+  "contact.alternative.hours": {
+    "message": "Support Hours:",
+    "description": "Support hours label"
+  },
+  "contact.alternative.hours.value": {
+    "message": "Monday - Friday, 9:00 AM - 6:00 PM (JST)",
+    "description": "Support hours value"
+  },
+  "contact.alternative.response": {
+    "message": "Response Time:",
+    "description": "Response time label"
+  },
+  "contact.alternative.response.value": {
+    "message": "We typically respond within 24 hours",
+    "description": "Response time value"
+  },
+  "contact.before.title": {
+    "message": "Before Contacting Support",
+    "description": "Before contacting support title"
+  },
+  "contact.before.item1": {
+    "message": "Check our documentation - Your question might already be answered in our guides",
+    "description": "Before contacting support item 1"
+  },
+  "contact.before.item2": {
+    "message": "Include relevant details - Version numbers, error messages, and steps to reproduce",
+    "description": "Before contacting support item 2"
+  },
+  "contact.before.item3": {
+    "message": "Attach screenshots - If applicable, include screenshots of any error messages",
+    "description": "Before contacting support item 3"
+  },
+  "contact.note.label": {
+    "message": "Note:",
+    "description": "Contact page note label"
+  },
+  "contact.note": {
+    "message": "This contact form is for Lunascape for Mobile support. For other Lunascape products, please visit our main support page.",
+    "description": "Contact page note"
+  }
+}

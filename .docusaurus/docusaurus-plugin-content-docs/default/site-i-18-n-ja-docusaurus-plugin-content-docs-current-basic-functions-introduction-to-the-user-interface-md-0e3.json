@@ -1,0 +1,28 @@
+{
+  "id": "basic-functions/introduction-to-the-user-interface",
+  "title": "インターフェース紹介",
+  "description": "Lunascape Mobileのインターフェースを紹介します。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/basic-functions/introduction-to-the-user-interface.md",
+  "sourceDirName": "basic-functions",
+  "slug": "/basic-functions/introduction-to-the-user-interface",
+  "permalink": "/ja/basic-functions/introduction-to-the-user-interface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "category": "基本機能",
+    "sidebar_position": 1,
+    "title": "インターフェース紹介"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "なぞり検索、コピー",
+    "permalink": "/ja/basic-functions/highlighted-search-and-translate"
+  },
+  "next": {
+    "title": "ブックマークを開く",
+    "permalink": "/ja/basic-functions/opening-bookmarks"
+  }
+}

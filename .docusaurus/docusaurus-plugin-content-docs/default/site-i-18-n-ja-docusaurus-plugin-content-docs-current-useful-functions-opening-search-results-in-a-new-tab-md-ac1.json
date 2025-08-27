@@ -1,0 +1,28 @@
+{
+  "id": "useful-functions/opening-search-results-in-a-new-tab",
+  "title": "新しいタブで検索",
+  "description": "次の手順で、新しいタブで検索することができます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/useful-functions/opening-search-results-in-a-new-tab.md",
+  "sourceDirName": "useful-functions",
+  "slug": "/useful-functions/opening-search-results-in-a-new-tab",
+  "permalink": "/ja/useful-functions/opening-search-results-in-a-new-tab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "category": "便利な機能",
+    "sidebar_position": 1,
+    "title": "新しいタブで検索"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "お気に入りを新しいタブで開く",
+    "permalink": "/ja/useful-functions/opening-bookmarks-in-a-new-tab"
+  },
+  "next": {
+    "title": "Picture-in-Picture (For iOS)",
+    "permalink": "/ja/useful-functions/picture-in-picture-for-ios"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "useful-functions/saving-images-in-the-photo-album",
+  "title": "画像を写真アルバムに保存",
+  "description": "次の手順で、画像をiOS標準の写真アルバムに保存することができます。（本機能がオフの場合は、Lunascapeモバイルの「ファイル」メニュー内に保存されています）",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/useful-functions/saving-images-in-the-photo-album.md",
+  "sourceDirName": "useful-functions",
+  "slug": "/useful-functions/saving-images-in-the-photo-album",
+  "permalink": "/ja/useful-functions/saving-images-in-the-photo-album",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "category": "便利な機能",
+    "sidebar_position": 1,
+    "title": "画像を写真アルバムに保存"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ページ保存、閲覧",
+    "permalink": "/ja/useful-functions/saving-and-viewing-pages"
+  },
+  "next": {
+    "title": "上部タップで先頭にスクロール",
+    "permalink": "/ja/useful-functions/scrolling-to-the-top-of-a-page"
+  }
+}

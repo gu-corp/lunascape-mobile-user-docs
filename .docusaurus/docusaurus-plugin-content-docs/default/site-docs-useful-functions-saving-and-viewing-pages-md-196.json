@@ -1,0 +1,28 @@
+{
+  "id": "useful-functions/saving-and-viewing-pages",
+  "title": "Saving and viewing pages",
+  "description": "Pages can be saved and viewed later in the following way.",
+  "source": "@site/docs/useful-functions/saving-and-viewing-pages.md",
+  "sourceDirName": "useful-functions",
+  "slug": "/useful-functions/saving-and-viewing-pages",
+  "permalink": "/useful-functions/saving-and-viewing-pages",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Saving and viewing pages",
+    "category": "Introduction to Useful Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Restoring tabs",
+    "permalink": "/useful-functions/restoring-tabs"
+  },
+  "next": {
+    "title": "Saving images in the photo album",
+    "permalink": "/useful-functions/saving-images-in-the-photo-album"
+  }
+}

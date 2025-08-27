@@ -1,0 +1,28 @@
+{
+  "id": "useful-functions/restoring-tabs",
+  "title": "Restoring tabs",
+  "description": "Tabs can be restored from the previous session. That is, after you exit Lunascape and then start it again, the tabs that were open last time will appear as they were when you closed Lunascape.",
+  "source": "@site/docs/useful-functions/restoring-tabs.md",
+  "sourceDirName": "useful-functions",
+  "slug": "/useful-functions/restoring-tabs",
+  "permalink": "/useful-functions/restoring-tabs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Restoring tabs",
+    "category": "Introduction to Useful Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Picture-in-Picture (For iOS)",
+    "permalink": "/useful-functions/picture-in-picture-for-ios"
+  },
+  "next": {
+    "title": "Saving and viewing pages",
+    "permalink": "/useful-functions/saving-and-viewing-pages"
+  }
+}

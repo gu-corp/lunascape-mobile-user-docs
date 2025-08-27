@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Lunascape Mobile ユーザーマニュアル",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Lunascape Mobile ユーザーマニュアル ロゴ",
+    "description": "The alt text of navbar logo"
+  }
+}

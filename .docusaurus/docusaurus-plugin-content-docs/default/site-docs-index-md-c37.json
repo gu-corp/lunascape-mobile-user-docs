@@ -1,0 +1,23 @@
+{
+  "id": "index",
+  "title": "Introduction",
+  "description": "Welcome to the Lunascape Mobile Browser user guide. This guide is designed to comprehensively support you from basic operations to advanced features when using the Lunascape browser on mobile devices.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Clearing the history, cache and cookies",
+    "permalink": "/useful-functions/clearing-the-history-cache-and-cookies"
+  }
+}

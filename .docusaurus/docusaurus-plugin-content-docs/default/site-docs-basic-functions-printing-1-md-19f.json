@@ -1,0 +1,28 @@
+{
+  "id": "basic-functions/printing_1",
+  "title": "Printing",
+  "description": "1. Tap the \"Menu\" button at the bottom of the screen",
+  "source": "@site/docs/basic-functions/printing_1.md",
+  "sourceDirName": "basic-functions",
+  "slug": "/basic-functions/printing_1",
+  "permalink": "/basic-functions/printing_1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Printing",
+    "category": "Basic Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Opening URLs",
+    "permalink": "/basic-functions/opening-urls"
+  },
+  "next": {
+    "title": "Saving images",
+    "permalink": "/basic-functions/saving-images"
+  }
+}

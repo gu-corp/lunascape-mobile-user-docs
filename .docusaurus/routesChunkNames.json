@@ -1,0 +1,180 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/contact-abe": {
+    "__comp": "__comp---site-src-pages-contact-js-83-e-320",
+    "__context": {
+      "plugin": "plugin---contacta-74-4e6"
+    },
+    "config": "config---contact-5-e-9-d2a"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---contacta-74-4e6"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/-710": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-e3d": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-f97": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/basic-functions/adding-bookmarks-6a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-adding-bookmarksfb-9-146"
+  },
+  "/basic-functions/adding-removing-and-switching-tabs-753": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-adding-removing-and-switching-tabs-439-c71"
+  },
+  "/basic-functions/back-forward-and-refresh-buttons-472": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-back-forward-and-refresh-buttons-7-e-6-73a"
+  },
+  "/basic-functions/browsing-history-937": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-browsing-history-1-d-1-b0d"
+  },
+  "/basic-functions/deleting-and-editing-bookmarks-5a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-deleting-and-editing-bookmarks-5-fd-7ae"
+  },
+  "/basic-functions/highlighted-search-and-translate-771": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-highlighted-search-and-translate-9-ae-5df"
+  },
+  "/basic-functions/introduction-to-the-user-interface-a06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-introduction-to-the-user-interfacec-84-29f"
+  },
+  "/basic-functions/opening-bookmarks-6ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-opening-bookmarksbce-92f"
+  },
+  "/basic-functions/opening-urls-887": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-opening-urls-325-aee"
+  },
+  "/basic-functions/printing_1-e99": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-printing-119-f-2c6"
+  },
+  "/basic-functions/saving-images-18b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-saving-images-8-cd-e3d"
+  },
+  "/basic-functions/web-search-a7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basic-functions-web-searcha-63-5cf"
+  },
+  "/faq/about-known-issues-159": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-about-known-issues-015-97d"
+  },
+  "/faq/about-url-schema-of-lunascape-e42": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-about-url-schema-of-lunascape-882-848"
+  },
+  "/support/contact-a44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---support-contact-5-d-6-76a"
+  },
+  "/useful-functions/clearing-the-history-cache-and-cookies-88f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-clearing-the-history-cache-and-cookiesf-50-88a"
+  },
+  "/useful-functions/find-in-page-7ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-find-in-page-3-d-8-ed9"
+  },
+  "/useful-functions/how-to-start-lunascape-wallet-9b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-how-to-start-lunascape-wallet-4-b-0-3f6"
+  },
+  "/useful-functions/lock-rotation-857": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-lock-rotation-3-d-4-35f"
+  },
+  "/useful-functions/opening-bookmarks-in-a-new-tab-4a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-opening-bookmarks-in-a-new-tabe-4-e-875"
+  },
+  "/useful-functions/opening-search-results-in-a-new-tab-cd5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-opening-search-results-in-a-new-tab-8-bd-10a"
+  },
+  "/useful-functions/picture-in-picture-for-ios-6f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-picture-in-picture-for-ios-537-8b2"
+  },
+  "/useful-functions/restoring-tabs-eb1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-restoring-tabs-4-b-3-a36"
+  },
+  "/useful-functions/saving-and-viewing-pages-000": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-saving-and-viewing-pages-196-e34"
+  },
+  "/useful-functions/saving-images-in-the-photo-album-cd7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-saving-images-in-the-photo-album-000-cf6"
+  },
+  "/useful-functions/scrolling-to-the-top-of-a-page-ad1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---useful-functions-scrolling-to-the-top-of-a-page-648-184"
+  },
+  "/-efb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
+  }
+}

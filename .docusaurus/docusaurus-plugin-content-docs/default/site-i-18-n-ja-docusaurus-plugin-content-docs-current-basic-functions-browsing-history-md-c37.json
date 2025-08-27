@@ -1,0 +1,28 @@
+{
+  "id": "basic-functions/browsing-history",
+  "title": "閲覧履歴の表示",
+  "description": "◆お気に入りボタンから表示する方法",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/basic-functions/browsing-history.md",
+  "sourceDirName": "basic-functions",
+  "slug": "/basic-functions/browsing-history",
+  "permalink": "/ja/basic-functions/browsing-history",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "category": "基本機能",
+    "sidebar_position": 1,
+    "title": "閲覧履歴の表示"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ページの更新、戻る、進む",
+    "permalink": "/ja/basic-functions/back-forward-and-refresh-buttons"
+  },
+  "next": {
+    "title": "ブックマークの削除、編集",
+    "permalink": "/ja/basic-functions/deleting-and-editing-bookmarks"
+  }
+}

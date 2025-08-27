@@ -1,0 +1,163 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "latest",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "basic-functions/adding-bookmarks",
+              "path": "/basic-functions/adding-bookmarks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/adding-removing-and-switching-tabs",
+              "path": "/basic-functions/adding-removing-and-switching-tabs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/back-forward-and-refresh-buttons",
+              "path": "/basic-functions/back-forward-and-refresh-buttons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/browsing-history",
+              "path": "/basic-functions/browsing-history",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/deleting-and-editing-bookmarks",
+              "path": "/basic-functions/deleting-and-editing-bookmarks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/highlighted-search-and-translate",
+              "path": "/basic-functions/highlighted-search-and-translate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/introduction-to-the-user-interface",
+              "path": "/basic-functions/introduction-to-the-user-interface",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/opening-bookmarks",
+              "path": "/basic-functions/opening-bookmarks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/opening-urls",
+              "path": "/basic-functions/opening-urls",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/printing_1",
+              "path": "/basic-functions/printing_1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/saving-images",
+              "path": "/basic-functions/saving-images",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basic-functions/web-search",
+              "path": "/basic-functions/web-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/about-known-issues",
+              "path": "/faq/about-known-issues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/about-url-schema-of-lunascape",
+              "path": "/faq/about-url-schema-of-lunascape",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "support/contact",
+              "path": "/support/contact",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/clearing-the-history-cache-and-cookies",
+              "path": "/useful-functions/clearing-the-history-cache-and-cookies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/find-in-page",
+              "path": "/useful-functions/find-in-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/how-to-start-lunascape-wallet",
+              "path": "/useful-functions/how-to-start-lunascape-wallet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/lock-rotation",
+              "path": "/useful-functions/lock-rotation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/opening-bookmarks-in-a-new-tab",
+              "path": "/useful-functions/opening-bookmarks-in-a-new-tab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/opening-search-results-in-a-new-tab",
+              "path": "/useful-functions/opening-search-results-in-a-new-tab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/picture-in-picture-for-ios",
+              "path": "/useful-functions/picture-in-picture-for-ios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/restoring-tabs",
+              "path": "/useful-functions/restoring-tabs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/saving-and-viewing-pages",
+              "path": "/useful-functions/saving-and-viewing-pages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/saving-images-in-the-photo-album",
+              "path": "/useful-functions/saving-images-in-the-photo-album",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "useful-functions/scrolling-to-the-top-of-a-page",
+              "path": "/useful-functions/scrolling-to-the-top-of-a-page",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "contact.title": {
+    "message": "お問い合わせ",
+    "description": "Contact page title"
+  },
+  "contact.description": {
+    "message": "Lunascape for Mobileのお問い合わせフォーム",
+    "description": "Contact page description"
+  },
+  "contact.heading": {
+    "message": "お問い合わせ",
+    "description": "Contact page heading"
+  },
+  "contact.subtitle": {
+    "message": "サポートチームにお気軽にお問い合わせください。以下のフォームをご利用いただけます。",
+    "description": "Contact page subtitle"
+  },
+  "contact.support.title": {
+    "message": "Lunascape for Mobile サポート",
+    "description": "Support section title"
+  },
+  "contact.support.description": {
+    "message": "Lunascape for Mobileについてご質問やサポートが必要な場合は、以下のフォームにご記入ください：",
+    "description": "Support section description"
+  },
+  "contact.alternative.title": {
+    "message": "その他のお問い合わせ方法",
+    "description": "Alternative contact methods title"
+  },
+  "contact.alternative.email": {
+    "message": "メール:",
+    "description": "Email label"
+  },
+  "contact.alternative.email.value": {
+    "message": "support@lunascape.com",
+    "description": "Email address"
+  },
+  "contact.alternative.hours": {
+    "message": "サポート時間:",
+    "description": "Support hours label"
+  },
+  "contact.alternative.hours.value": {
+    "message": "月曜日〜金曜日 9:00〜18:00（JST）",
+    "description": "Support hours value"
+  },
+  "contact.alternative.response": {
+    "message": "回答時間:",
+    "description": "Response time label"
+  },
+  "contact.alternative.response.value": {
+    "message": "通常24時間以内に回答いたします",
+    "description": "Response time value"
+  },
+  "contact.before.title": {
+    "message": "サポートにお問い合わせする前に",
+    "description": "Before contacting support title"
+  },
+  "contact.before.item1": {
+    "message": "ドキュメントをご確認ください - ご質問の回答が既にガイドに記載されている可能性があります",
+    "description": "Before contacting support item 1"
+  },
+  "contact.before.item2": {
+    "message": "関連する詳細を含めてください - バージョン番号、エラーメッセージ、再現手順など",
+    "description": "Before contacting support item 2"
+  },
+  "contact.before.item3": {
+    "message": "スクリーンショットを添付してください - 該当する場合は、エラーメッセージのスクリーンショットを含めてください",
+    "description": "Before contacting support item 3"
+  },
+  "contact.note.label": {
+    "message": "注意：",
+    "description": "Contact page note label"
+  },
+  "contact.note": {
+    "message": "このお問い合わせフォームはLunascape for Mobileのサポート用です。他のLunascape製品については、メインのサポートページをご覧ください。",
+    "description": "Contact page note"
+  }
+}

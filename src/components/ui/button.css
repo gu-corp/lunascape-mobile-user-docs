@@ -1,0 +1,139 @@
+/* shadcn/ui Button Component Styles */
+.shadcn-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  border-radius: calc(var(--radius) - 2px);
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  text-decoration: none !important;
+  position: relative;
+  min-height: 2.5rem;
+  line-height: 1;
+}
+
+.shadcn-button:focus-visible {
+  outline: 2px solid hsl(var(--ring));
+  outline-offset: 2px;
+}
+
+.shadcn-button:disabled {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+/* Size variants */
+.shadcn-button--default {
+  height: 2.5rem;
+  padding: 0.5rem 1rem;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.shadcn-button--sm {
+  height: 2.25rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: calc(var(--radius) - 2px);
+}
+
+.shadcn-button--lg {
+  height: 2.75rem;
+  padding: 0.5rem 2rem;
+  border-radius: calc(var(--radius) - 2px);
+}
+
+.shadcn-button--icon {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+/* Variant styles */
+.shadcn-button--default {
+  background-color: hsl(var(--primary));
+  color: hsl(var(--primary-foreground));
+}
+
+.shadcn-button--default:hover {
+  background-color: hsl(var(--primary) / 0.9);
+}
+
+.shadcn-button--destructive {
+  background-color: hsl(var(--destructive));
+  color: hsl(var(--destructive-foreground));
+}
+
+.shadcn-button--destructive:hover {
+  background-color: hsl(var(--destructive) / 0.9);
+}
+
+.shadcn-button--outline {
+  border: 1px solid hsl(var(--input));
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+.shadcn-button--outline:hover {
+  background-color: hsl(var(--accent));
+  color: hsl(var(--accent-foreground));
+}
+
+.shadcn-button--secondary {
+  background-color: hsl(var(--secondary));
+  color: hsl(var(--secondary-foreground));
+}
+
+.shadcn-button--secondary:hover {
+  background-color: hsl(var(--secondary) / 0.8);
+}
+
+.shadcn-button--ghost {
+  background-color: transparent;
+  color: hsl(var(--foreground));
+}
+
+.shadcn-button--ghost:hover {
+  background-color: hsl(var(--accent));
+  color: hsl(var(--accent-foreground));
+}
+
+.shadcn-button--link {
+  background-color: transparent;
+  color: hsl(var(--primary));
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.shadcn-button--link:hover {
+  text-decoration: underline;
+}
+
+/* Ensure proper centering for anchor tags */
+a.shadcn-button {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-decoration: none !important;
+  vertical-align: middle;
+}
+
+/* Fix anchor tag styling inside Button component */
+.shadcn-button a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+/* Ensure proper styling for asChild Button */
+.shadcn-button[data-as-child="true"] {
+  text-decoration: none !important;
+}
+
+.shadcn-button[data-as-child="true"] a {
+  text-decoration: none !important;
+  color: inherit !important;
+}

@@ -1,0 +1,28 @@
+{
+  "id": "basic-functions/saving-images",
+  "title": "Saving images",
+  "description": "1. Hold down on the image you wish to save",
+  "source": "@site/docs/basic-functions/saving-images.md",
+  "sourceDirName": "basic-functions",
+  "slug": "/basic-functions/saving-images",
+  "permalink": "/basic-functions/saving-images",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Saving images",
+    "category": "Basic Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Printing",
+    "permalink": "/basic-functions/printing_1"
+  },
+  "next": {
+    "title": "Web search",
+    "permalink": "/basic-functions/web-search"
+  }
+}

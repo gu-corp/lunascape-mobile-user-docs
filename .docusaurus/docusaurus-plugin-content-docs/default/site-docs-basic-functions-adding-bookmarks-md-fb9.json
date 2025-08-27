@@ -1,0 +1,28 @@
+{
+  "id": "basic-functions/adding-bookmarks",
+  "title": "Adding bookmarks",
+  "description": "To add a bookmark via the Address Bar:",
+  "source": "@site/docs/basic-functions/adding-bookmarks.md",
+  "sourceDirName": "basic-functions",
+  "slug": "/basic-functions/adding-bookmarks",
+  "permalink": "/basic-functions/adding-bookmarks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Adding bookmarks",
+    "category": "Basic Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrolling to the top of a page",
+    "permalink": "/useful-functions/scrolling-to-the-top-of-a-page"
+  },
+  "next": {
+    "title": "Adding, removing and switching tabs",
+    "permalink": "/basic-functions/adding-removing-and-switching-tabs"
+  }
+}

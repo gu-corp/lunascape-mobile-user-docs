@@ -1,0 +1,28 @@
+{
+  "id": "basic-functions/adding-removing-and-switching-tabs",
+  "title": "Adding, removing and switching tabs",
+  "description": "To add a tab:",
+  "source": "@site/docs/basic-functions/adding-removing-and-switching-tabs.md",
+  "sourceDirName": "basic-functions",
+  "slug": "/basic-functions/adding-removing-and-switching-tabs",
+  "permalink": "/basic-functions/adding-removing-and-switching-tabs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Adding, removing and switching tabs",
+    "category": "Basic Functions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding bookmarks",
+    "permalink": "/basic-functions/adding-bookmarks"
+  },
+  "next": {
+    "title": "Back, Forward and Refresh buttons",
+    "permalink": "/basic-functions/back-forward-and-refresh-buttons"
+  }
+}

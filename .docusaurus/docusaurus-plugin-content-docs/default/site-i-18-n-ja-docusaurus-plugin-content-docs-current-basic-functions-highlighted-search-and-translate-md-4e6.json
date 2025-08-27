@@ -1,0 +1,28 @@
+{
+  "id": "basic-functions/highlighted-search-and-translate",
+  "title": "なぞり検索、コピー",
+  "description": "次の手順で、なぞり検索やいくつかの動作を行うことができます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/basic-functions/highlighted-search-and-translate.md",
+  "sourceDirName": "basic-functions",
+  "slug": "/basic-functions/highlighted-search-and-translate",
+  "permalink": "/ja/basic-functions/highlighted-search-and-translate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "category": "基本機能",
+    "sidebar_position": 1,
+    "title": "なぞり検索、コピー"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ブックマークの削除、編集",
+    "permalink": "/ja/basic-functions/deleting-and-editing-bookmarks"
+  },
+  "next": {
+    "title": "インターフェース紹介",
+    "permalink": "/ja/basic-functions/introduction-to-the-user-interface"
+  }
+}

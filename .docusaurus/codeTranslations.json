@@ -1,0 +1,21 @@
+{
+  "contact.title": "Contact",
+  "contact.description": "Lunascape for Mobile contact form",
+  "contact.heading": "Contact Us",
+  "contact.subtitle": "We're here to help! Please use the contact form below to get in touch with our support team.",
+  "contact.support.title": "Lunascape for Mobile Support",
+  "contact.support.description": "If you have questions or need assistance with Lunascape for Mobile, please fill out the form below:",
+  "contact.alternative.title": "Alternative Contact Methods",
+  "contact.alternative.email": "Email:",
+  "contact.alternative.email.value": "support@lunascape.com",
+  "contact.alternative.hours": "Support Hours:",
+  "contact.alternative.hours.value": "Monday - Friday, 9:00 AM - 6:00 PM (JST)",
+  "contact.alternative.response": "Response Time:",
+  "contact.alternative.response.value": "We typically respond within 24 hours",
+  "contact.before.title": "Before Contacting Support",
+  "contact.before.item1": "Check our documentation - Your question might already be answered in our guides",
+  "contact.before.item2": "Include relevant details - Version numbers, error messages, and steps to reproduce",
+  "contact.before.item3": "Attach screenshots - If applicable, include screenshots of any error messages",
+  "contact.note.label": "Note:",
+  "contact.note": "This contact form is for Lunascape for Mobile support. For other Lunascape products, please visit our main support page."
+}

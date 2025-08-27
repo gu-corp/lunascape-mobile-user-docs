@@ -1,0 +1,24 @@
+{
+  "id": "support/contact",
+  "title": "お問い合わせ",
+  "description": "サポートチームにお気軽にお問い合わせください。以下のフォームをご利用いただけます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/support/contact.md",
+  "sourceDirName": "support",
+  "slug": "/support/contact",
+  "permalink": "/ja/support/contact",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "category": "サポート",
+    "sidebar_position": 1,
+    "title": "お問い合わせ"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URLスキームの使用方法（他のアプリからLunascapeを立ち上げるには？）",
+    "permalink": "/ja/faq/about-url-schema-of-lunascape"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "index",
+  "title": "はじめに",
+  "description": "Lunascapeモバイルブラウザのユーザーガイドへようこそ。このガイドは、モバイルデバイスでLunascapeブラウザを使用する際の基本的な操作方法から高度な機能まで、包括的にサポートすることを目的としています。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/ja/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "履歴、Cookie、キャッシュの削除",
+    "permalink": "/ja/useful-functions/clearing-the-history-cache-and-cookies"
+  }
+}

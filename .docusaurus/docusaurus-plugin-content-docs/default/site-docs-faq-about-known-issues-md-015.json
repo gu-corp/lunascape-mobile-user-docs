@@ -1,0 +1,28 @@
+{
+  "id": "faq/about-known-issues",
+  "title": "About known issues",
+  "description": "You can access our list of known issues at the User Forum. If you search for appropriate keywords in the forum, you might find that your problem is already registered.",
+  "source": "@site/docs/faq/about-known-issues.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/about-known-issues",
+  "permalink": "/faq/about-known-issues",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "About known issues",
+    "category": "FAQ"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web search",
+    "permalink": "/basic-functions/web-search"
+  },
+  "next": {
+    "title": "About URL schema of Lunascape",
+    "permalink": "/faq/about-url-schema-of-lunascape"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "useful-functions/find-in-page",
+  "title": "ページ内検索",
+  "description": "次の手順で、ページ内検索を行うことができます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/useful-functions/find-in-page.md",
+  "sourceDirName": "useful-functions",
+  "slug": "/useful-functions/find-in-page",
+  "permalink": "/ja/useful-functions/find-in-page",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "category": "便利な機能",
+    "sidebar_position": 1,
+    "title": "ページ内検索"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "履歴、Cookie、キャッシュの削除",
+    "permalink": "/ja/useful-functions/clearing-the-history-cache-and-cookies"
+  },
+  "next": {
+    "title": "Lunascape Walletの始め方",
+    "permalink": "/ja/useful-functions/how-to-start-lunascape-wallet"
+  }
+}

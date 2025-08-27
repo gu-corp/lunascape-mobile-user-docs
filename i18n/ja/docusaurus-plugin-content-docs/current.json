@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "latest",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.basic-functions": {
+    "message": "基本機能",
+    "description": "The label for category basic-functions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.faq": {
+    "message": "FAQ",
+    "description": "The label for category faq in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.support": {
+    "message": "サポート",
+    "description": "The label for category support in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.useful-functions": {
+    "message": "便利な機能",
+    "description": "The label for category useful-functions in sidebar tutorialSidebar"
+  }
+}

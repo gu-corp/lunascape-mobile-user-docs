@@ -1,0 +1,28 @@
+{
+  "id": "faq/about-url-schema-of-lunascape",
+  "title": "About URL schema of Lunascape",
+  "description": "The URL scheme of Lunascape mobile supports Lunascape and iLunascape.",
+  "source": "@site/docs/faq/about-url-schema-of-lunascape.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/about-url-schema-of-lunascape",
+  "permalink": "/faq/about-url-schema-of-lunascape",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "About URL schema of Lunascape",
+    "category": "FAQ"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About known issues",
+    "permalink": "/faq/about-known-issues"
+  },
+  "next": {
+    "title": "Contact",
+    "permalink": "/support/contact"
+  }
+}
