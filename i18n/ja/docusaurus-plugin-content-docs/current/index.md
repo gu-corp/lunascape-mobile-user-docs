@@ -46,17 +46,15 @@ Lunascapeモバイルブラウザの機能を最大限に活用し、快適な�
 - [画面回転のロック](./useful-functions/lock-rotation)
 - [ブックマークを新しいタブで開く](./useful-functions/opening-bookmarks-in-a-new-tab)
 - [検索結果を新しいタブで開く](./useful-functions/opening-search-results-in-a-new-tab)
-- [iOS用ピクチャーインピクチャー](./useful-functions/picture-in-picture-ios)
+- [iOS用ピクチャーインピクチャー](./useful-functions/picture-in-picture-for-ios)
 - [タブの復元](./useful-functions/restoring-tabs)
 - [ページの保存と閲覧](./useful-functions/saving-and-viewing-pages)
 - [写真アルバムへの画像保存](./useful-functions/saving-images-in-the-photo-album)
 - [ページの最上部へのスクロール](./useful-functions/scrolling-to-the-top-of-a-page)
-- [ユーザーエージェントの切り替え](./useful-functions/user-agent-switching)
 
 ### よくある質問
 - [既知の問題について](./faq/about-known-issues)
 - [LunascapeのURLスキーマについて](./faq/about-url-schema-of-lunascape)
-- [Lunascapeモバイル環境](./faq/lunascape-mobile-environment)
 
 ### サポート
 - [お問い合わせ](./support/contact)

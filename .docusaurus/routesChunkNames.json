@@ -1,180 +1,137 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/ja/contact-80e": {
+    "__comp": "83e9e333",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "a7456010"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+    "config": "5e9f5e1a"
   },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/ja/markdown-page-0eb": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/contact-abe": {
-    "__comp": "__comp---site-src-pages-contact-js-83-e-320",
-    "__context": {
-      "plugin": "plugin---contacta-74-4e6"
+      "plugin": "a7456010"
     },
-    "config": "config---contact-5-e-9-d2a"
+    "content": "393be207"
   },
-  "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/ja/-2a3": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---contacta-74-4e6"
-    },
-    "content": "content---markdown-page-393-028"
-  },
-  "/-710": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---aba-d70"
+      "plugin": "aba21aa0"
     }
   },
-  "/-e3d": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---22-d-307"
+  "/ja/-e9a": {
+    "__comp": "a7bd4aaa",
+    "__props": "3a48dd49"
   },
-  "/-f97": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/ja/-db2": {
+    "__comp": "a94703ab"
   },
-  "/basic-functions/adding-bookmarks-6a2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-adding-bookmarksfb-9-146"
+  "/ja/basic-functions/adding-bookmarks-117": {
+    "__comp": "17896441",
+    "content": "9658830d"
   },
-  "/basic-functions/adding-removing-and-switching-tabs-753": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-adding-removing-and-switching-tabs-439-c71"
+  "/ja/basic-functions/adding-removing-and-switching-tabs-a90": {
+    "__comp": "17896441",
+    "content": "7db6a0ef"
   },
-  "/basic-functions/back-forward-and-refresh-buttons-472": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-back-forward-and-refresh-buttons-7-e-6-73a"
+  "/ja/basic-functions/back-forward-and-refresh-buttons-28f": {
+    "__comp": "17896441",
+    "content": "a3848f86"
   },
-  "/basic-functions/browsing-history-937": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-browsing-history-1-d-1-b0d"
+  "/ja/basic-functions/browsing-history-8f9": {
+    "__comp": "17896441",
+    "content": "c37bc5cc"
   },
-  "/basic-functions/deleting-and-editing-bookmarks-5a8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-deleting-and-editing-bookmarks-5-fd-7ae"
+  "/ja/basic-functions/deleting-and-editing-bookmarks-1e2": {
+    "__comp": "17896441",
+    "content": "efcd844f"
   },
-  "/basic-functions/highlighted-search-and-translate-771": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-highlighted-search-and-translate-9-ae-5df"
+  "/ja/basic-functions/highlighted-search-and-translate-b08": {
+    "__comp": "17896441",
+    "content": "4e67e2bc"
   },
-  "/basic-functions/introduction-to-the-user-interface-a06": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-introduction-to-the-user-interfacec-84-29f"
+  "/ja/basic-functions/introduction-to-the-user-interface-6bd": {
+    "__comp": "17896441",
+    "content": "0e3f517f"
   },
-  "/basic-functions/opening-bookmarks-6ef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-opening-bookmarksbce-92f"
+  "/ja/basic-functions/opening-bookmarks-3a3": {
+    "__comp": "17896441",
+    "content": "53a0f3ad"
   },
-  "/basic-functions/opening-urls-887": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-opening-urls-325-aee"
+  "/ja/basic-functions/opening-urls-3c2": {
+    "__comp": "17896441",
+    "content": "670fc4af"
   },
-  "/basic-functions/printing_1-e99": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-printing-119-f-2c6"
+  "/ja/basic-functions/printing_1-08b": {
+    "__comp": "17896441",
+    "content": "412c76fa"
   },
-  "/basic-functions/saving-images-18b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-saving-images-8-cd-e3d"
+  "/ja/basic-functions/saving-images-515": {
+    "__comp": "17896441",
+    "content": "1c7f6065"
   },
-  "/basic-functions/web-search-a7a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---basic-functions-web-searcha-63-5cf"
+  "/ja/basic-functions/web-search-b43": {
+    "__comp": "17896441",
+    "content": "e7584d29"
   },
-  "/faq/about-known-issues-159": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faq-about-known-issues-015-97d"
+  "/ja/faq/about-known-issues-d98": {
+    "__comp": "17896441",
+    "content": "c0ae5312"
   },
-  "/faq/about-url-schema-of-lunascape-e42": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faq-about-url-schema-of-lunascape-882-848"
+  "/ja/faq/about-url-schema-of-lunascape-dbf": {
+    "__comp": "17896441",
+    "content": "51440b97"
   },
-  "/support/contact-a44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---support-contact-5-d-6-76a"
+  "/ja/support/contact-719": {
+    "__comp": "17896441",
+    "content": "a9b66524"
   },
-  "/useful-functions/clearing-the-history-cache-and-cookies-88f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-clearing-the-history-cache-and-cookiesf-50-88a"
+  "/ja/useful-functions/clearing-the-history-cache-and-cookies-d6f": {
+    "__comp": "17896441",
+    "content": "0507198a"
   },
-  "/useful-functions/find-in-page-7ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-find-in-page-3-d-8-ed9"
+  "/ja/useful-functions/find-in-page-aee": {
+    "__comp": "17896441",
+    "content": "b03d6d04"
   },
-  "/useful-functions/how-to-start-lunascape-wallet-9b1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-how-to-start-lunascape-wallet-4-b-0-3f6"
+  "/ja/useful-functions/how-to-start-lunascape-wallet-7e4": {
+    "__comp": "17896441",
+    "content": "b3cfe5ee"
   },
-  "/useful-functions/lock-rotation-857": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-lock-rotation-3-d-4-35f"
+  "/ja/useful-functions/lock-rotation-088": {
+    "__comp": "17896441",
+    "content": "6a2f2700"
   },
-  "/useful-functions/opening-bookmarks-in-a-new-tab-4a6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-opening-bookmarks-in-a-new-tabe-4-e-875"
+  "/ja/useful-functions/opening-bookmarks-in-a-new-tab-864": {
+    "__comp": "17896441",
+    "content": "474575c3"
   },
-  "/useful-functions/opening-search-results-in-a-new-tab-cd5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-opening-search-results-in-a-new-tab-8-bd-10a"
+  "/ja/useful-functions/opening-search-results-in-a-new-tab-28e": {
+    "__comp": "17896441",
+    "content": "ac16daa0"
   },
-  "/useful-functions/picture-in-picture-for-ios-6f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-picture-in-picture-for-ios-537-8b2"
+  "/ja/useful-functions/picture-in-picture-for-ios-be4": {
+    "__comp": "17896441",
+    "content": "537dfbbe"
   },
-  "/useful-functions/restoring-tabs-eb1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-restoring-tabs-4-b-3-a36"
+  "/ja/useful-functions/restoring-tabs-2fe": {
+    "__comp": "17896441",
+    "content": "1e069abc"
   },
-  "/useful-functions/saving-and-viewing-pages-000": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-saving-and-viewing-pages-196-e34"
+  "/ja/useful-functions/saving-and-viewing-pages-ee0": {
+    "__comp": "17896441",
+    "content": "ad1d027c"
   },
-  "/useful-functions/saving-images-in-the-photo-album-cd7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-saving-images-in-the-photo-album-000-cf6"
+  "/ja/useful-functions/saving-images-in-the-photo-album-d5d": {
+    "__comp": "17896441",
+    "content": "2458086b"
   },
-  "/useful-functions/scrolling-to-the-top-of-a-page-ad1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---useful-functions-scrolling-to-the-top-of-a-page-648-184"
+  "/ja/useful-functions/scrolling-to-the-top-of-a-page-e50": {
+    "__comp": "17896441",
+    "content": "e2ab91c7"
   },
-  "/-efb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---c-37-d02"
+  "/ja/-3ba": {
+    "__comp": "17896441",
+    "content": "2b975244"
   }
 }

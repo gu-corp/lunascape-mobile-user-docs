@@ -45,17 +45,15 @@ Please refer to the following guides for how to use the **Lunascape Mobile Brows
 - [Lock Rotation](./useful-functions/lock-rotation)
 - [Opening Bookmarks in a New Tab](./useful-functions/opening-bookmarks-in-a-new-tab)
 - [Opening Search Results in a New Tab](./useful-functions/opening-search-results-in-a-new-tab)
-- [Picture-in-Picture for iOS](./useful-functions/picture-in-picture-ios)
+- [Picture-in-Picture for iOS](./useful-functions/picture-in-picture-for-ios)
 - [Restoring Tabs](./useful-functions/restoring-tabs)
 - [Saving and Viewing Pages](./useful-functions/saving-and-viewing-pages)
 - [Saving Images to Photo Album](./useful-functions/saving-images-in-the-photo-album)
 - [Scrolling to Top of Page](./useful-functions/scrolling-to-the-top-of-a-page)
-- [User Agent Switching](./useful-functions/user-agent-switching)
 
 ### FAQ
 - [About Known Issues](./faq/about-known-issues)
 - [About URL Schema of Lunascape](./faq/about-url-schema-of-lunascape)
-- [Lunascape Mobile Environment](./faq/lunascape-mobile-environment)
 
 ### Support
 - [Contact](./support/contact)

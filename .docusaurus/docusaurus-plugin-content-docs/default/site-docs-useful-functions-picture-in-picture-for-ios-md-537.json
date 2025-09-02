@@ -5,7 +5,7 @@
   "source": "@site/docs/useful-functions/picture-in-picture-for-ios.md",
   "sourceDirName": "useful-functions",
   "slug": "/useful-functions/picture-in-picture-for-ios",
-  "permalink": "/useful-functions/picture-in-picture-for-ios",
+  "permalink": "/ja/useful-functions/picture-in-picture-for-ios",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Opening search results in a new tab",
-    "permalink": "/useful-functions/opening-search-results-in-a-new-tab"
+    "title": "新しいタブで検索",
+    "permalink": "/ja/useful-functions/opening-search-results-in-a-new-tab"
   },
   "next": {
-    "title": "Restoring tabs",
-    "permalink": "/useful-functions/restoring-tabs"
+    "title": "前回のタブを復元",
+    "permalink": "/ja/useful-functions/restoring-tabs"
   }
 }
