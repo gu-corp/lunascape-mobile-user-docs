@@ -89,7 +89,7 @@ export default {
         "blog": false,
         "theme": {
           "customCss": [
-            "/Users/mitubacal/github/lunascape-mobile-user-docs/src/scss/custom.scss",
+            "/Users/mitubacal/github/lunascape-mobile-user-docs/src/css/custom.css",
             "/Users/mitubacal/github/lunascape-mobile-user-docs/src/css/hubspot-form.css"
           ]
         }
