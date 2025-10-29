@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gu-corp', // Usually your GitHub org/user name.
+  organizationName: 'G.U.Group, Inc.', // Usually your GitHub org/user name.
   projectName: 'lunascape-mobile-user-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
