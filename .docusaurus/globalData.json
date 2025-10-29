@@ -1,218 +1,218 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/ja/",
       "versions": [
         {
           "name": "current",
           "label": "latest",
           "isLast": true,
-          "path": "/",
+          "path": "/ja/",
           "mainDocId": "index",
           "docs": [
             {
               "id": "browser/ad-blocking",
-              "path": "/browser/ad-blocking",
+              "path": "/ja/browser/ad-blocking",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/bookmarks",
-              "path": "/browser/bookmarks",
+              "path": "/ja/browser/bookmarks",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/browser-tool-menu",
-              "path": "/browser/browser-tool-menu",
+              "path": "/ja/browser/browser-tool-menu",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/browsing-history",
-              "path": "/browser/browsing-history",
+              "path": "/ja/browser/browsing-history",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/download-file",
-              "path": "/browser/download-file",
+              "path": "/ja/browser/download-file",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/overview",
-              "path": "/browser/overview",
+              "path": "/ja/browser/overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/private-mode",
-              "path": "/browser/private-mode",
+              "path": "/ja/browser/private-mode",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/reading-list",
-              "path": "/browser/reading-list",
+              "path": "/ja/browser/reading-list",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/search",
-              "path": "/browser/search",
+              "path": "/ja/browser/search",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/share",
-              "path": "/browser/share",
+              "path": "/ja/browser/share",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/tab-operations",
-              "path": "/browser/tab-operations",
+              "path": "/ja/browser/tab-operations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "browser/web3-dapp-support",
-              "path": "/browser/web3-dapp-support",
+              "path": "/ja/browser/web3-dapp-support",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "home/browser-shortcuts",
-              "path": "/home/browser-shortcuts",
+              "path": "/ja/home/browser-shortcuts",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "home/news",
-              "path": "/home/news",
+              "path": "/ja/home/news",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "home/overview",
-              "path": "/home/overview",
+              "path": "/ja/home/overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "home/quick-search",
-              "path": "/home/quick-search",
+              "path": "/ja/home/quick-search",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "home/tool-menu",
-              "path": "/home/tool-menu",
+              "path": "/ja/home/tool-menu",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "home/wallets",
-              "path": "/home/wallets",
+              "path": "/ja/home/wallets",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "index",
-              "path": "/",
+              "path": "/ja/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "news/default-rss-sources",
-              "path": "/news/default-rss-sources",
+              "path": "/ja/news/default-rss-sources",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "news/news-setting",
-              "path": "/news/news-setting",
+              "path": "/ja/news/news-setting",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "news/news-sources-selection",
-              "path": "/news/news-sources-selection",
+              "path": "/ja/news/news-sources-selection",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "news/overview",
-              "path": "/news/overview",
+              "path": "/ja/news/overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/bookmarks",
-              "path": "/settings/bookmarks",
+              "path": "/ja/settings/bookmarks",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/default-browser",
-              "path": "/settings/default-browser",
+              "path": "/ja/settings/default-browser",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/display",
-              "path": "/settings/display",
+              "path": "/ja/settings/display",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/general",
-              "path": "/settings/general",
+              "path": "/ja/settings/general",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/history",
-              "path": "/settings/history",
+              "path": "/ja/settings/history",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/overview",
-              "path": "/settings/overview",
+              "path": "/ja/settings/overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/privacy",
-              "path": "/settings/privacy",
+              "path": "/ja/settings/privacy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/reset-to-default",
-              "path": "/settings/reset-to-default",
+              "path": "/ja/settings/reset-to-default",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/search",
-              "path": "/settings/search",
+              "path": "/ja/settings/search",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/support",
-              "path": "/settings/support",
+              "path": "/ja/settings/support",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "settings/wallet",
-              "path": "/settings/wallet",
+              "path": "/ja/settings/wallet",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallet/asset-list",
-              "path": "/wallet/asset-list",
+              "path": "/ja/wallet/asset-list",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallet/create-wallet",
-              "path": "/wallet/create-wallet",
+              "path": "/ja/wallet/create-wallet",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallet/overview",
-              "path": "/wallet/overview",
+              "path": "/ja/wallet/overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallet/wallet-dashboard",
-              "path": "/wallet/wallet-dashboard",
+              "path": "/ja/wallet/wallet-dashboard",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallet/wallet-operations",
-              "path": "/wallet/wallet-operations",
+              "path": "/ja/wallet/wallet-operations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallet/wallet-settings",
-              "path": "/wallet/wallet-settings",
+              "path": "/ja/wallet/wallet-settings",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallet/walletconnect",
-              "path": "/wallet/walletconnect",
+              "path": "/ja/wallet/walletconnect",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -220,7 +220,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/",
+                "path": "/ja/",
                 "label": "index"
               }
             }

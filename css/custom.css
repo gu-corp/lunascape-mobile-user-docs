@@ -308,39 +308,58 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #0093ff;
-  --ifm-color-primary-dark: #0082e6;
-  --ifm-color-primary-darker: #007acc;
-  --ifm-color-primary-darkest: #006bb3;
-  --ifm-color-primary-light: #1aa3ff;
-  --ifm-color-primary-lighter: #33b3ff;
-  --ifm-color-primary-lightest: #4dc3ff;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-background-color: #1a1a1a;
-  --ifm-background-surface-color: #2a2a2a;
-  --ifm-button-background-color: #0093ff;
-  --ifm-button-color: #FFFFFF;
+[data-theme=dark] {
+  --ifm-color-primary: #0093ff !important;
+  --ifm-color-primary-dark: #0082e6 !important;
+  --ifm-color-primary-darker: #007acc !important;
+  --ifm-color-primary-darkest: #006bb3 !important;
+  --ifm-color-primary-light: #1aa3ff !important;
+  --ifm-color-primary-lighter: #33b3ff !important;
+  --ifm-color-primary-lightest: #4dc3ff !important;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3) !important;
+  --ifm-background-color: #1a1a1a !important;
+  --ifm-background-surface-color: #2a2a2a !important;
+  --ifm-button-background-color: #0093ff !important;
+  --ifm-button-color: #FFFFFF !important;
   /* shadcn/ui Dark Mode CSS Variables */
-  --background: 0 0% 10%;
-  --foreground: 0 0% 98%;
-  --card: 0 0% 10%;
-  --card-foreground: 0 0% 98%;
-  --popover: 0 0% 10%;
-  --popover-foreground: 0 0% 98%;
-  --primary: 210 100% 50%;
-  --primary-foreground: 0 0% 100%;
-  --secondary: 0 0% 17%;
-  --secondary-foreground: 0 0% 98%;
-  --muted: 0 0% 17%;
-  --muted-foreground: 0 0% 65%;
-  --accent: 0 0% 17%;
-  --accent-foreground: 0 0% 98%;
-  --destructive: 0 62.8% 30.6%;
-  --destructive-foreground: 0 0% 98%;
-  --border: 0 0% 17%;
-  --input: 0 0% 17%;
-  --ring: 210 100% 50%;
+  --background: 0 0% 10% !important;
+  --foreground: 0 0% 98% !important;
+  --card: 0 0% 10% !important;
+  --card-foreground: 0 0% 98% !important;
+  --popover: 0 0% 10% !important;
+  --popover-foreground: 0 0% 98% !important;
+  --primary: 210 100% 50% !important;
+  --primary-foreground: 0 0% 100% !important;
+  --secondary: 0 0% 17% !important;
+  --secondary-foreground: 0 0% 98% !important;
+  --muted: 0 0% 17% !important;
+  --muted-foreground: 0 0% 65% !important;
+  --accent: 0 0% 17% !important;
+  --accent-foreground: 0 0% 98% !important;
+  --destructive: 0 62.8% 30.6% !important;
+  --destructive-foreground: 0 0% 98% !important;
+  --border: 0 0% 17% !important;
+  --input: 0 0% 17% !important;
+  --ring: 210 100% 50% !important;
+  /* Force dark mode styles */
+}
+[data-theme=dark] body {
+  background-color: #1a1a1a !important;
+  color: #ffffff !important;
+}
+[data-theme=dark] .navbar {
+  background-color: #2a2a2a !important;
+}
+[data-theme=dark] .theme-doc-markdown {
+  color: #ffffff !important;
+}
+[data-theme=dark] .card {
+  background-color: #2a2a2a !important;
+  border-color: #444444 !important;
+}
+[data-theme=dark] .button--primary {
+  background-color: #0093ff !important;
+  border-color: #0093ff !important;
 }
 
 .textlink {
@@ -353,10 +372,10 @@
   color: #000;
 }
 
-[data-theme='dark'] .textlink {
+[data-theme=dark] .textlink {
   color: #ffffff;
 }
-[data-theme='dark'] .textlink:hover {
+[data-theme=dark] .textlink:hover {
   color: #ffffff;
 }
 
@@ -390,7 +409,7 @@
   justify-content: center;
 }
 
-[data-theme='dark'] .tabs {
+[data-theme=dark] .tabs {
   border-bottom: 1px solid #444;
 }
 
@@ -444,7 +463,7 @@
   margin-left: var(--ifm-menu-link-padding-horizontal);
 }
 
-[data-theme='dark'] .theme-doc-sidebar-item-category-level-2 .menu__list {
+[data-theme=dark] .theme-doc-sidebar-item-category-level-2 .menu__list {
   border-left: 1px solid #444;
 }
 

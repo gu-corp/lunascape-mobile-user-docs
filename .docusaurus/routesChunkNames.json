@@ -1,236 +1,193 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/ja/contact-80e": {
+    "__comp": "83e9e333",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "a7456010"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+    "config": "5e9f5e1a"
   },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/ja/markdown-page-0eb": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/contact-abe": {
-    "__comp": "__comp---site-src-pages-contact-js-83-e-320",
-    "__context": {
-      "plugin": "plugin---contacta-74-4e6"
+      "plugin": "a7456010"
     },
-    "config": "config---contact-5-e-9-d2a"
+    "content": "393be207"
   },
-  "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/ja/-b48": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---contacta-74-4e6"
-    },
-    "content": "content---markdown-page-393-028"
-  },
-  "/-d9b": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---aba-d70"
+      "plugin": "aba21aa0"
     }
   },
-  "/-bb9": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---22-d-307"
+  "/ja/-f48": {
+    "__comp": "a7bd4aaa",
+    "__props": "3a48dd49"
   },
-  "/-026": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/ja/-75e": {
+    "__comp": "a94703ab"
   },
-  "/browser/ad-blocking-ba4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-ad-blockingb-6-f-645"
+  "/ja/browser/ad-blocking-de1": {
+    "__comp": "17896441",
+    "content": "88065065"
   },
-  "/browser/bookmarks-f1d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-bookmarks-0-a-1-166"
+  "/ja/browser/bookmarks-248": {
+    "__comp": "17896441",
+    "content": "a0c3fced"
   },
-  "/browser/browser-tool-menu-e84": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-browser-tool-menu-8-a-1-2c8"
+  "/ja/browser/browser-tool-menu-3cb": {
+    "__comp": "17896441",
+    "content": "2bdcfc6a"
   },
-  "/browser/browsing-history-63b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-browsing-historye-73-ea5"
+  "/ja/browser/browsing-history-625": {
+    "__comp": "17896441",
+    "content": "46e69fb4"
   },
-  "/browser/download-file-df9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-download-file-461-746"
+  "/ja/browser/download-file-a0f": {
+    "__comp": "17896441",
+    "content": "eb787699"
   },
-  "/browser/overview-481": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-overview-1-e-7-cb8"
+  "/ja/browser/overview-f67": {
+    "__comp": "17896441",
+    "content": "6aa649ec"
   },
-  "/browser/private-mode-07c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-private-modea-19-7de"
+  "/ja/browser/private-mode-d51": {
+    "__comp": "17896441",
+    "content": "6f76d10b"
   },
-  "/browser/reading-list-61e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-reading-list-7-a-1-8e5"
+  "/ja/browser/reading-list-894": {
+    "__comp": "17896441",
+    "content": "eeb66b4a"
   },
-  "/browser/search-91e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-search-7-dc-688"
+  "/ja/browser/search-1b0": {
+    "__comp": "17896441",
+    "content": "113a22a7"
   },
-  "/browser/share-3cd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-share-520-d80"
+  "/ja/browser/share-0be": {
+    "__comp": "17896441",
+    "content": "b6252061"
   },
-  "/browser/tab-operations-63b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-tab-operations-859-033"
+  "/ja/browser/tab-operations-09c": {
+    "__comp": "17896441",
+    "content": "33791ac6"
   },
-  "/browser/web3-dapp-support-d9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---browser-web-3-dapp-supportd-94-ecc"
+  "/ja/browser/web3-dapp-support-a34": {
+    "__comp": "17896441",
+    "content": "36cddde9"
   },
-  "/home/browser-shortcuts-6c0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---home-browser-shortcuts-75-c-6e7"
+  "/ja/home/browser-shortcuts-bbf": {
+    "__comp": "17896441",
+    "content": "720cb9ff"
   },
-  "/home/news-a46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---home-news-818-049"
+  "/ja/home/news-caf": {
+    "__comp": "17896441",
+    "content": "bc7d5592"
   },
-  "/home/overview-543": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---home-overview-4-e-6-7e3"
+  "/ja/home/overview-6ee": {
+    "__comp": "17896441",
+    "content": "2117c4ba"
   },
-  "/home/quick-search-5cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---home-quick-search-588-6ee"
+  "/ja/home/quick-search-185": {
+    "__comp": "17896441",
+    "content": "447f28ae"
   },
-  "/home/tool-menu-45a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---home-tool-menudf-4-9e1"
+  "/ja/home/tool-menu-16b": {
+    "__comp": "17896441",
+    "content": "491d75d7"
   },
-  "/home/wallets-6f9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---home-wallets-8-a-5-54d"
+  "/ja/home/wallets-11b": {
+    "__comp": "17896441",
+    "content": "92f0c102"
   },
-  "/news/default-rss-sources-ad3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---news-default-rss-sources-48-d-b32"
+  "/ja/news/default-rss-sources-535": {
+    "__comp": "17896441",
+    "content": "15971b3e"
   },
-  "/news/news-setting-b41": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---news-news-setting-5-f-4-e8b"
+  "/ja/news/news-setting-826": {
+    "__comp": "17896441",
+    "content": "d8833e57"
   },
-  "/news/news-sources-selection-73f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---news-news-sources-selectionfd-7-c1c"
+  "/ja/news/news-sources-selection-6e0": {
+    "__comp": "17896441",
+    "content": "d88d5f5c"
   },
-  "/news/overview-9d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---news-overview-4-e-2-48a"
+  "/ja/news/overview-c91": {
+    "__comp": "17896441",
+    "content": "04f3d3d3"
   },
-  "/settings/bookmarks-eab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-bookmarks-6-d-9-f43"
+  "/ja/settings/bookmarks-b20": {
+    "__comp": "17896441",
+    "content": "88f7d2f9"
   },
-  "/settings/default-browser-468": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-default-browser-00-a-f9e"
+  "/ja/settings/default-browser-7ee": {
+    "__comp": "17896441",
+    "content": "f33ca986"
   },
-  "/settings/display-be8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-display-21-b-705"
+  "/ja/settings/display-c61": {
+    "__comp": "17896441",
+    "content": "2bb6b54d"
   },
-  "/settings/general-fc5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-generalff-5-b52"
+  "/ja/settings/general-145": {
+    "__comp": "17896441",
+    "content": "ff80f8ee"
   },
-  "/settings/history-630": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-historyd-04-178"
+  "/ja/settings/history-ac3": {
+    "__comp": "17896441",
+    "content": "56bb4027"
   },
-  "/settings/overview-2a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-overview-7-b-6-dcf"
+  "/ja/settings/overview-48b": {
+    "__comp": "17896441",
+    "content": "00d78b54"
   },
-  "/settings/privacy-557": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-privacyeec-ca5"
+  "/ja/settings/privacy-45b": {
+    "__comp": "17896441",
+    "content": "62fa64e2"
   },
-  "/settings/reset-to-default-e23": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-reset-to-default-086-8c6"
+  "/ja/settings/reset-to-default-407": {
+    "__comp": "17896441",
+    "content": "7dc84758"
   },
-  "/settings/search-58d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-searchdd-7-3c3"
+  "/ja/settings/search-9b7": {
+    "__comp": "17896441",
+    "content": "a66d95e9"
   },
-  "/settings/support-af0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-support-92-c-5b3"
+  "/ja/settings/support-f79": {
+    "__comp": "17896441",
+    "content": "84d95fb2"
   },
-  "/settings/wallet-960": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---settings-wallet-00-d-d84"
+  "/ja/settings/wallet-968": {
+    "__comp": "17896441",
+    "content": "d938e110"
   },
-  "/wallet/asset-list-85b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wallet-asset-list-0-ff-a8c"
+  "/ja/wallet/asset-list-236": {
+    "__comp": "17896441",
+    "content": "1ca92d4b"
   },
-  "/wallet/create-wallet-aed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wallet-create-wallete-58-09c"
+  "/ja/wallet/create-wallet-3a4": {
+    "__comp": "17896441",
+    "content": "3fb7e445"
   },
-  "/wallet/overview-463": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wallet-overview-787-3f7"
+  "/ja/wallet/overview-f33": {
+    "__comp": "17896441",
+    "content": "8af25565"
   },
-  "/wallet/wallet-dashboard-8d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wallet-wallet-dashboardc-3-d-12c"
+  "/ja/wallet/wallet-dashboard-6bd": {
+    "__comp": "17896441",
+    "content": "d179ee39"
   },
-  "/wallet/wallet-operations-278": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wallet-wallet-operationsb-88-136"
+  "/ja/wallet/wallet-operations-033": {
+    "__comp": "17896441",
+    "content": "32ad8394"
   },
-  "/wallet/wallet-settings-a46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wallet-wallet-settings-91-f-2bc"
+  "/ja/wallet/wallet-settings-579": {
+    "__comp": "17896441",
+    "content": "3fb11aab"
   },
-  "/wallet/walletconnect-080": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wallet-walletconnect-91-b-c69"
+  "/ja/wallet/walletconnect-6ba": {
+    "__comp": "17896441",
+    "content": "4a757b55"
   },
-  "/-efb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---c-37-d02"
+  "/ja/-3ba": {
+    "__comp": "17896441",
+    "content": "2b975244"
   }
 }

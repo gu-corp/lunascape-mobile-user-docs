@@ -3,305 +3,270 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/ja/contact',
+    component: ComponentCreator('/ja/contact', '80e'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/ja/markdown-page',
+    component: ComponentCreator('/ja/markdown-page', '0eb'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
-    path: '/contact',
-    component: ComponentCreator('/contact', 'abe'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/',
-    component: ComponentCreator('/', 'd9b'),
+    path: '/ja/',
+    component: ComponentCreator('/ja/', 'b48'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', 'bb9'),
+        path: '/ja/',
+        component: ComponentCreator('/ja/', 'f48'),
         routes: [
           {
-            path: '/',
-            component: ComponentCreator('/', '026'),
+            path: '/ja/',
+            component: ComponentCreator('/ja/', '75e'),
             routes: [
               {
-                path: '/browser/ad-blocking',
-                component: ComponentCreator('/browser/ad-blocking', 'ba4'),
+                path: '/ja/browser/ad-blocking',
+                component: ComponentCreator('/ja/browser/ad-blocking', 'de1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/bookmarks',
-                component: ComponentCreator('/browser/bookmarks', 'f1d'),
+                path: '/ja/browser/bookmarks',
+                component: ComponentCreator('/ja/browser/bookmarks', '248'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/browser-tool-menu',
-                component: ComponentCreator('/browser/browser-tool-menu', 'e84'),
+                path: '/ja/browser/browser-tool-menu',
+                component: ComponentCreator('/ja/browser/browser-tool-menu', '3cb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/browsing-history',
-                component: ComponentCreator('/browser/browsing-history', '63b'),
+                path: '/ja/browser/browsing-history',
+                component: ComponentCreator('/ja/browser/browsing-history', '625'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/download-file',
-                component: ComponentCreator('/browser/download-file', 'df9'),
+                path: '/ja/browser/download-file',
+                component: ComponentCreator('/ja/browser/download-file', 'a0f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/overview',
-                component: ComponentCreator('/browser/overview', '481'),
+                path: '/ja/browser/overview',
+                component: ComponentCreator('/ja/browser/overview', 'f67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/private-mode',
-                component: ComponentCreator('/browser/private-mode', '07c'),
+                path: '/ja/browser/private-mode',
+                component: ComponentCreator('/ja/browser/private-mode', 'd51'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/reading-list',
-                component: ComponentCreator('/browser/reading-list', '61e'),
+                path: '/ja/browser/reading-list',
+                component: ComponentCreator('/ja/browser/reading-list', '894'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/search',
-                component: ComponentCreator('/browser/search', '91e'),
+                path: '/ja/browser/search',
+                component: ComponentCreator('/ja/browser/search', '1b0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/share',
-                component: ComponentCreator('/browser/share', '3cd'),
+                path: '/ja/browser/share',
+                component: ComponentCreator('/ja/browser/share', '0be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/tab-operations',
-                component: ComponentCreator('/browser/tab-operations', '63b'),
+                path: '/ja/browser/tab-operations',
+                component: ComponentCreator('/ja/browser/tab-operations', '09c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/browser/web3-dapp-support',
-                component: ComponentCreator('/browser/web3-dapp-support', 'd9e'),
+                path: '/ja/browser/web3-dapp-support',
+                component: ComponentCreator('/ja/browser/web3-dapp-support', 'a34'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/home/browser-shortcuts',
-                component: ComponentCreator('/home/browser-shortcuts', '6c0'),
+                path: '/ja/home/browser-shortcuts',
+                component: ComponentCreator('/ja/home/browser-shortcuts', 'bbf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/home/news',
-                component: ComponentCreator('/home/news', 'a46'),
+                path: '/ja/home/news',
+                component: ComponentCreator('/ja/home/news', 'caf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/home/overview',
-                component: ComponentCreator('/home/overview', '543'),
+                path: '/ja/home/overview',
+                component: ComponentCreator('/ja/home/overview', '6ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/home/quick-search',
-                component: ComponentCreator('/home/quick-search', '5cb'),
+                path: '/ja/home/quick-search',
+                component: ComponentCreator('/ja/home/quick-search', '185'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/home/tool-menu',
-                component: ComponentCreator('/home/tool-menu', '45a'),
+                path: '/ja/home/tool-menu',
+                component: ComponentCreator('/ja/home/tool-menu', '16b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/home/wallets',
-                component: ComponentCreator('/home/wallets', '6f9'),
+                path: '/ja/home/wallets',
+                component: ComponentCreator('/ja/home/wallets', '11b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/news/default-rss-sources',
-                component: ComponentCreator('/news/default-rss-sources', 'ad3'),
+                path: '/ja/news/default-rss-sources',
+                component: ComponentCreator('/ja/news/default-rss-sources', '535'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/news/news-setting',
-                component: ComponentCreator('/news/news-setting', 'b41'),
+                path: '/ja/news/news-setting',
+                component: ComponentCreator('/ja/news/news-setting', '826'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/news/news-sources-selection',
-                component: ComponentCreator('/news/news-sources-selection', '73f'),
+                path: '/ja/news/news-sources-selection',
+                component: ComponentCreator('/ja/news/news-sources-selection', '6e0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/news/overview',
-                component: ComponentCreator('/news/overview', '9d7'),
+                path: '/ja/news/overview',
+                component: ComponentCreator('/ja/news/overview', 'c91'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/bookmarks',
-                component: ComponentCreator('/settings/bookmarks', 'eab'),
+                path: '/ja/settings/bookmarks',
+                component: ComponentCreator('/ja/settings/bookmarks', 'b20'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/default-browser',
-                component: ComponentCreator('/settings/default-browser', '468'),
+                path: '/ja/settings/default-browser',
+                component: ComponentCreator('/ja/settings/default-browser', '7ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/display',
-                component: ComponentCreator('/settings/display', 'be8'),
+                path: '/ja/settings/display',
+                component: ComponentCreator('/ja/settings/display', 'c61'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/general',
-                component: ComponentCreator('/settings/general', 'fc5'),
+                path: '/ja/settings/general',
+                component: ComponentCreator('/ja/settings/general', '145'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/history',
-                component: ComponentCreator('/settings/history', '630'),
+                path: '/ja/settings/history',
+                component: ComponentCreator('/ja/settings/history', 'ac3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/overview',
-                component: ComponentCreator('/settings/overview', '2a9'),
+                path: '/ja/settings/overview',
+                component: ComponentCreator('/ja/settings/overview', '48b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/privacy',
-                component: ComponentCreator('/settings/privacy', '557'),
+                path: '/ja/settings/privacy',
+                component: ComponentCreator('/ja/settings/privacy', '45b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/reset-to-default',
-                component: ComponentCreator('/settings/reset-to-default', 'e23'),
+                path: '/ja/settings/reset-to-default',
+                component: ComponentCreator('/ja/settings/reset-to-default', '407'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/search',
-                component: ComponentCreator('/settings/search', '58d'),
+                path: '/ja/settings/search',
+                component: ComponentCreator('/ja/settings/search', '9b7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/support',
-                component: ComponentCreator('/settings/support', 'af0'),
+                path: '/ja/settings/support',
+                component: ComponentCreator('/ja/settings/support', 'f79'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/settings/wallet',
-                component: ComponentCreator('/settings/wallet', '960'),
+                path: '/ja/settings/wallet',
+                component: ComponentCreator('/ja/settings/wallet', '968'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/wallet/asset-list',
-                component: ComponentCreator('/wallet/asset-list', '85b'),
+                path: '/ja/wallet/asset-list',
+                component: ComponentCreator('/ja/wallet/asset-list', '236'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/wallet/create-wallet',
-                component: ComponentCreator('/wallet/create-wallet', 'aed'),
+                path: '/ja/wallet/create-wallet',
+                component: ComponentCreator('/ja/wallet/create-wallet', '3a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/wallet/overview',
-                component: ComponentCreator('/wallet/overview', '463'),
+                path: '/ja/wallet/overview',
+                component: ComponentCreator('/ja/wallet/overview', 'f33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/wallet/wallet-dashboard',
-                component: ComponentCreator('/wallet/wallet-dashboard', '8d0'),
+                path: '/ja/wallet/wallet-dashboard',
+                component: ComponentCreator('/ja/wallet/wallet-dashboard', '6bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/wallet/wallet-operations',
-                component: ComponentCreator('/wallet/wallet-operations', '278'),
+                path: '/ja/wallet/wallet-operations',
+                component: ComponentCreator('/ja/wallet/wallet-operations', '033'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/wallet/wallet-settings',
-                component: ComponentCreator('/wallet/wallet-settings', 'a46'),
+                path: '/ja/wallet/wallet-settings',
+                component: ComponentCreator('/ja/wallet/wallet-settings', '579'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/wallet/walletconnect',
-                component: ComponentCreator('/wallet/walletconnect', '080'),
+                path: '/ja/wallet/walletconnect',
+                component: ComponentCreator('/ja/wallet/walletconnect', '6ba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/',
-                component: ComponentCreator('/', 'efb'),
+                path: '/ja/',
+                component: ComponentCreator('/ja/', '3ba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
