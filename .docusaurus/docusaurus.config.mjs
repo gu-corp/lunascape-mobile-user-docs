@@ -29,7 +29,7 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/ja/",
+  "baseUrl": "/",
   "organizationName": "G.U.Group, Inc.",
   "projectName": "lunascape-mobile-user-docs",
   "onBrokenLinks": "throw",
@@ -98,10 +98,15 @@ export default {
   ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": false,
+      "respectPrefersColorScheme": true
+    },
     "navbar": {
-      "title": "Lunascape Mobile ユーザーマニュアル",
+      "title": "Lunascape Mobile User Manual",
       "logo": {
-        "alt": "Lunascape Mobile ユーザーマニュアル ロゴ",
+        "alt": "Lunascape Mobile User Manual Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -122,7 +127,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2025 Lunascape Mobile ユーザーマニュアル",
+      "copyright": "Copyright © 2025 Lunascape Mobile User Manual",
       "links": []
     },
     "prism": {
@@ -328,11 +333,6 @@ export default {
           }
         }
       ]
-    },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
     },
     "docs": {
       "versionPersistence": "localStorage",

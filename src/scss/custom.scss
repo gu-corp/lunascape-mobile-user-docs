@@ -365,6 +365,13 @@
     color: #000;
   }
 }
+
+[data-theme='dark'] .textlink {
+  color: #ffffff;
+  &:hover {
+    color: #ffffff;
+  }
+}
 .pc-only {
   display: none;
 }
@@ -396,6 +403,10 @@
     flex: 1;
     justify-content: center;
   }
+}
+
+[data-theme='dark'] .tabs {
+  border-bottom: 1px solid #444;
 }
 
 // .navbar__logo{
@@ -453,6 +464,10 @@
   border-left: 1px solid #eee;
   padding-left: 0;
   margin-left: var(--ifm-menu-link-padding-horizontal);
+}
+
+[data-theme='dark'] .theme-doc-sidebar-item-category-level-2 .menu__list {
+  border-left: 1px solid #444;
 }
 
 .menu__caret:before{
