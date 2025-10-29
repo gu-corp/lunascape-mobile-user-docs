@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "はじめに",
-  "description": "Lunascapeモバイルブラウザのユーザーガイドへようこそ。このガイドは、モバイルデバイスでLunascapeブラウザを使用する際の基本的な操作方法から高度な機能まで、包括的にサポートすることを目的としています。",
+  "description": "Lunascape Mobileは、従来のWebブラウジングと最先端のWeb3機能を組み合わせた、強力で機能豊富なモバイルブラウザです。パフォーマンスと革新性を求める現代のユーザー向けに構築され、ブロックチェーン技術、ニュース集約、高度なブラウジング機能を単一の直感的なインターフェースにシームレスに統合しています。",
   "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "履歴、Cookie、キャッシュの削除",
-    "permalink": "/ja/useful-functions/clearing-the-history-cache-and-cookies"
+    "title": "概要",
+    "permalink": "/ja/home/overview"
   }
 }

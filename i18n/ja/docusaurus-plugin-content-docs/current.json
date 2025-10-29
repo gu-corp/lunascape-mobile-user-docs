@@ -3,20 +3,172 @@
     "message": "latest",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.basic-functions": {
-    "message": "基本機能",
-    "description": "The label for category basic-functions in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Home": {
+    "message": "ホーム",
+    "description": "The label for category Home in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.faq": {
-    "message": "FAQ",
-    "description": "The label for category faq in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.News": {
+    "message": "ニュース",
+    "description": "The label for category News in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.support": {
+  "sidebar.tutorialSidebar.category.Browser": {
+    "message": "ブラウザ",
+    "description": "The label for category Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Settings": {
+    "message": "設定",
+    "description": "The label for category Settings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Wallet": {
+    "message": "ウォレット",
+    "description": "The label for category Wallet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Home": {
+    "message": "ホーム",
+    "description": "The label for link Home in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.News": {
+    "message": "ニュース",
+    "description": "The label for link News in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Browser": {
+    "message": "ブラウザ",
+    "description": "The label for link Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Settings": {
+    "message": "設定",
+    "description": "The label for link Settings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Wallet": {
+    "message": "ウォレット",
+    "description": "The label for link Wallet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Create Wallet": {
+    "message": "ウォレット作成",
+    "description": "The label for link Create Wallet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Wallet Dashboard": {
+    "message": "ウォレットダッシュボード",
+    "description": "The label for link Wallet Dashboard in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Asset List": {
+    "message": "アセット一覧",
+    "description": "The label for link Asset List in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Wallet Settings": {
+    "message": "ウォレット設定",
+    "description": "The label for link Wallet Settings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Quick Search": {
+    "message": "クイック検索",
+    "description": "The label for link Quick Search in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Tool Menu": {
+    "message": "ツールメニュー",
+    "description": "The label for link Tool Menu in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Browser Shortcuts": {
+    "message": "ブラウザショートカット",
+    "description": "The label for link Browser Shortcuts in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Wallets": {
+    "message": "ウォレット",
+    "description": "The label for link Wallets in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.News Setting": {
+    "message": "ニュース設定",
+    "description": "The label for link News Setting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.News Sources Selection": {
+    "message": "ニュースソース選択",
+    "description": "The label for link News Sources Selection in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Default RSS Sources": {
+    "message": "デフォルトRSSソース",
+    "description": "The label for link Default RSS Sources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Ad Blocking": {
+    "message": "広告ブロック",
+    "description": "The label for link Ad Blocking in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Search": {
+    "message": "検索",
+    "description": "The label for link Search in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Bookmarks": {
+    "message": "ブックマーク",
+    "description": "The label for link Bookmarks in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Reading List": {
+    "message": "リーディングリスト",
+    "description": "The label for link Reading List in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Browsing History": {
+    "message": "ブラウジング履歴",
+    "description": "The label for link Browsing History in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Tab Operations": {
+    "message": "タブ操作",
+    "description": "The label for link Tab Operations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Download File": {
+    "message": "ファイルダウンロード",
+    "description": "The label for link Download File in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Share": {
+    "message": "共有",
+    "description": "The label for link Share in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Web3 DApp Support": {
+    "message": "Web3 DAppサポート",
+    "description": "The label for link Web3 DApp Support in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Private Mode": {
+    "message": "プライベートモード",
+    "description": "The label for link Private Mode in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Browser Tool Menu": {
+    "message": "ブラウザツールメニュー",
+    "description": "The label for link Browser Tool Menu in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.General": {
+    "message": "一般",
+    "description": "The label for link General in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Default Browser": {
+    "message": "デフォルトブラウザ",
+    "description": "The label for link Default Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Display": {
+    "message": "表示",
+    "description": "The label for link Display in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.History": {
+    "message": "履歴",
+    "description": "The label for link History in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Wallet": {
+    "message": "ウォレット",
+    "description": "The label for link Wallet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Privacy": {
+    "message": "プライバシー",
+    "description": "The label for link Privacy in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Support": {
     "message": "サポート",
-    "description": "The label for category support in sidebar tutorialSidebar"
+    "description": "The label for link Support in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.useful-functions": {
-    "message": "便利な機能",
-    "description": "The label for category useful-functions in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.link.Reset to Default": {
+    "message": "デフォルトにリセット",
+    "description": "The label for link Reset to Default in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.WalletConnect": {
+    "message": "WalletConnect",
+    "description": "The label for link WalletConnect in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Wallet Operations": {
+    "message": "ウォレット操作",
+    "description": "The label for link Wallet Operations in sidebar tutorialSidebar"
   }
 }

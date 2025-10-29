@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Lunascape Mobile User Manual',
   tagline: 'Lunascape Mobile User Manual',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -64,6 +64,7 @@ const config = {
   plugins: [
     "docusaurus-plugin-sass",
     "docusaurus-plugin-image-zoom",
+    "./src/plugins/custom-search.js",
   ],
 
   presets: [
@@ -115,8 +116,9 @@ const config = {
             position: 'right',
           },
           {
-            type: 'search',
+            type: 'html',
             position: 'right',
+            value: '<div id="custom-search-container"></div>',
           },
         ],
       },

@@ -1,7 +1,7 @@
 {
   "id": "index",
-  "title": "Introduction",
-  "description": "Welcome to the Lunascape Mobile Browser user guide. This guide is designed to comprehensively support you from basic operations to advanced features when using the Lunascape browser on mobile devices.",
+  "title": "Getting Started",
+  "description": "Lunascape Mobile is a powerful, feature-rich mobile browser that combines traditional web browsing with cutting-edge Web3 capabilities. Built for modern users who demand both performance and innovation, Lunascape offers seamless integration of blockchain technology, news aggregation, and advanced browsing features in a single, intuitive interface.",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Clearing the history, cache and cookies",
-    "permalink": "/useful-functions/clearing-the-history-cache-and-cookies"
+    "title": "Overview",
+    "permalink": "/home/overview"
   }
 }

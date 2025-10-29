@@ -6,7 +6,7 @@
 export default {
   "title": "Lunascape Mobile User Manual",
   "tagline": "Lunascape Mobile User Manual",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/logo.svg",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
@@ -69,7 +69,8 @@ export default {
   ],
   "plugins": [
     "docusaurus-plugin-sass",
-    "docusaurus-plugin-image-zoom"
+    "docusaurus-plugin-image-zoom",
+    "./src/plugins/custom-search.js"
   ],
   "presets": [
     [
@@ -118,8 +119,9 @@ export default {
           "dropdownItemsAfter": []
         },
         {
-          "type": "search",
-          "position": "right"
+          "type": "html",
+          "position": "right",
+          "value": "<div id=\"custom-search-container\"></div>"
         }
       ],
       "hideOnScroll": false

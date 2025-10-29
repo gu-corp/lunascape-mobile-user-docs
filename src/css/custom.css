@@ -6,27 +6,35 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #0d347e;
+  --ifm-color-primary-dark: #0b2d6b;
+  --ifm-color-primary-darker: #0a285f;
+  --ifm-color-primary-darkest: #08214c;
+  --ifm-color-primary-light: #0f3a8b;
+  --ifm-color-primary-lighter: #103d91;
+  --ifm-color-primary-lightest: #1244a0;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-background-color: #FFFFFF;
+  --ifm-background-surface-color: #f6f6f6;
+  --ifm-button-background-color: #0093ff;
+  --ifm-button-color: #FFFFFF;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #0093ff;
+  --ifm-color-primary-dark: #0082e6;
+  --ifm-color-primary-darker: #007acc;
+  --ifm-color-primary-darkest: #006bb3;
+  --ifm-color-primary-light: #1aa3ff;
+  --ifm-color-primary-lighter: #33b3ff;
+  --ifm-color-primary-lightest: #4dc3ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #1a1a1a;
+  --ifm-background-surface-color: #2a2a2a;
+  --ifm-button-background-color: #0093ff;
+  --ifm-button-color: #FFFFFF;
 }
 
 /* shadcn/ui CSS Variables */
@@ -37,40 +45,65 @@
   --card-foreground: 222.2 84% 4.9%;
   --popover: 0 0% 100%;
   --popover-foreground: 222.2 84% 4.9%;
-  --primary: 222.2 47.4% 11.2%;
-  --primary-foreground: 210 40% 98%;
-  --secondary: 210 40% 96%;
+  --primary: 210 100% 50%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 0 0% 96%;
   --secondary-foreground: 222.2 84% 4.9%;
-  --muted: 210 40% 96%;
+  --muted: 0 0% 96%;
   --muted-foreground: 215.4 16.3% 46.9%;
-  --accent: 210 40% 96%;
+  --accent: 0 0% 96%;
   --accent-foreground: 222.2 84% 4.9%;
   --destructive: 0 84.2% 60.2%;
   --destructive-foreground: 210 40% 98%;
   --border: 214.3 31.8% 91.4%;
   --input: 214.3 31.8% 91.4%;
-  --ring: 222.2 84% 4.9%;
+  --ring: 210 100% 50%;
   --radius: 0.5rem;
 }
 
+/* Documentation Categories Icon Styling */
+.theme-doc-markdown h3 {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+}
+
+.theme-doc-markdown h3 svg {
+  color: var(--ifm-color-primary) !important;
+  background: linear-gradient(135deg, #0093ff 0%, var(--ifm-color-primary) 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  display: inline-block !important;
+  flex-shrink: 0 !important;
+}
+
+/* Dark mode adjustments for documentation categories icons */
+[data-theme='dark'] .theme-doc-markdown h3 svg {
+  background: linear-gradient(135deg, #0093ff 0%, var(--ifm-color-primary) 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+}
+
 [data-theme='dark'] {
-  --background: 222.2 84% 4.9%;
-  --foreground: 210 40% 98%;
-  --card: 222.2 84% 4.9%;
-  --card-foreground: 210 40% 98%;
-  --popover: 222.2 84% 4.9%;
-  --popover-foreground: 210 40% 98%;
-  --primary: 210 40% 98%;
-  --primary-foreground: 222.2 47.4% 11.2%;
-  --secondary: 217.2 32.6% 17.5%;
-  --secondary-foreground: 210 40% 98%;
-  --muted: 217.2 32.6% 17.5%;
-  --muted-foreground: 215 20.2% 65.1%;
-  --accent: 217.2 32.6% 17.5%;
-  --accent-foreground: 210 40% 98%;
+  --background: 0 0% 10%;
+  --foreground: 0 0% 98%;
+  --card: 0 0% 10%;
+  --card-foreground: 0 0% 98%;
+  --popover: 0 0% 10%;
+  --popover-foreground: 0 0% 98%;
+  --primary: 210 100% 50%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 0 0% 17%;
+  --secondary-foreground: 0 0% 98%;
+  --muted: 0 0% 17%;
+  --muted-foreground: 0 0% 65%;
+  --accent: 0 0% 17%;
+  --accent-foreground: 0 0% 98%;
   --destructive: 0 62.8% 30.6%;
-  --destructive-foreground: 210 40% 98%;
-  --border: 217.2 32.6% 17.5%;
-  --input: 217.2 32.6% 17.5%;
-  --ring: 212.7 26.8% 83.9%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 0 0% 17%;
+  --input: 0 0% 17%;
+  --ring: 210 100% 50%;
 }
