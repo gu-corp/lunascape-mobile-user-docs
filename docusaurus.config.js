@@ -64,7 +64,7 @@ const config = {
   plugins: [
     "docusaurus-plugin-sass",
     "docusaurus-plugin-image-zoom",
-    "./src/plugins/custom-search.js",
+    // "./src/plugins/custom-search.js", // カスタムサーチを無効化（バックアップ済み）
   ],
 
   presets: [
@@ -115,11 +115,11 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
           },
-          {
-            type: 'html',
-            position: 'right',
-            value: '<div id="custom-search-container"></div>',
-          },
+          // {
+          //   type: 'html',
+          //   position: 'right',
+          //   value: '<div id="custom-search-container"></div>',
+          // }, // カスタムサーチコンテナを無効化（バックアップ済み）
         ],
       },
       footer: {

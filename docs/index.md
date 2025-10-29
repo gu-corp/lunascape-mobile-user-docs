@@ -24,7 +24,7 @@ Lunascape Mobile is a powerful, feature-rich mobile browser that combines tradit
       >
         <div className="card download-card">
           <div className="card__body text--center">
-            <h3>Download for iOS</h3>
+            <h3 className="text--center">Download for iOS</h3>
             <div className="margin-bottom--md"><span>Get Lunascape Mobile from the App Store</span></div>
             <div className="button button--primary button--lg download-button">
               <span>Get it on App Store</span>
@@ -42,7 +42,7 @@ Lunascape Mobile is a powerful, feature-rich mobile browser that combines tradit
       >
         <div className="card download-card">
           <div className="card__body text--center">
-            <h3>Download for Android</h3>
+            <h3 className="text--center">Download for Android</h3>
             <div className="margin-bottom--md"><span>Get Lunascape Mobile from Google Play</span></div>
             <div className="button button--primary button--lg download-button">
               <span>Get it on Google Play</span>
@@ -62,7 +62,7 @@ Lunascape Mobile is a powerful, feature-rich mobile browser that combines tradit
       <Icon name="shield" size={24} variant="gradient-border" />
     </div>
     <div className="feature-card__content">
-      <h4 className="feature-card__title feature-card__title--compact">Block video ads too</h4>
+      <h4 className="feature-card__title feature-card__title--compact text--center">Block video ads too</h4>
       <p className="feature-card__description feature-card__description--compact">Complete blocking of website and video advertisements</p>
     </div>
   </div>
@@ -72,7 +72,7 @@ Lunascape Mobile is a powerful, feature-rich mobile browser that combines tradit
       <Icon name="wallet" size={24} variant="gradient-border" />
     </div>
     <div className="feature-card__content">
-      <h4 className="feature-card__title feature-card__title--compact">Integrated Web3 wallet</h4>
+      <h4 className="feature-card__title feature-card__title--compact text--center">Integrated Web3 wallet</h4>
       <p className="feature-card__description feature-card__description--compact">EVM wallet supporting Ethereum, Japan Open Chain</p>
     </div>
   </div>
@@ -82,7 +82,7 @@ Lunascape Mobile is a powerful, feature-rich mobile browser that combines tradit
       <Icon name="rss" size={24} variant="gradient-border" />
     </div>
     <div className="feature-card__content">
-      <h4 className="feature-card__title feature-card__title--compact">Integrated RSS news reader</h4>
+      <h4 className="feature-card__title feature-card__title--compact text--center">Integrated RSS news reader</h4>
       <p className="feature-card__description feature-card__description--compact">Browse your favorite information all in one place within the browser</p>
     </div>
   </div>
@@ -92,7 +92,7 @@ Lunascape Mobile is a powerful, feature-rich mobile browser that combines tradit
       <Icon name="zap" size={24} variant="gradient-border" />
     </div>
     <div className="feature-card__content">
-      <h4 className="feature-card__title feature-card__title--compact">20+ years of experience</h4>
+      <h4 className="feature-card__title feature-card__title--compact text--center">20+ years of experience</h4>
       <p className="feature-card__description feature-card__description--compact">Japanese browser with over 20 million downloads</p>
     </div>
   </div>
@@ -102,7 +102,7 @@ Lunascape Mobile is a powerful, feature-rich mobile browser that combines tradit
       <Icon name="lock" size={24} variant="gradient-border" />
     </div>
     <div className="feature-card__content">
-      <h4 className="feature-card__title feature-card__title--compact">Privacy-focused</h4>
+      <h4 className="feature-card__title feature-card__title--compact text--center">Privacy-focused</h4>
       <p className="feature-card__description feature-card__description--compact">Secure design with no tracking or personal data collection</p>
     </div>
   </div>

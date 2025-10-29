@@ -69,8 +69,7 @@ export default {
   ],
   "plugins": [
     "docusaurus-plugin-sass",
-    "docusaurus-plugin-image-zoom",
-    "./src/plugins/custom-search.js"
+    "docusaurus-plugin-image-zoom"
   ],
   "presets": [
     [
@@ -117,11 +116,6 @@ export default {
           "position": "right",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
-        },
-        {
-          "type": "html",
-          "position": "right",
-          "value": "<div id=\"custom-search-container\"></div>"
         }
       ],
       "hideOnScroll": false

@@ -17,9 +17,9 @@
       "name": "@docusaurus/plugin-content-pages",
       "version": "3.8.1"
     },
-    "docusaurus-plugin-debug": {
+    "docusaurus-plugin-sitemap": {
       "type": "package",
-      "name": "@docusaurus/plugin-debug",
+      "name": "@docusaurus/plugin-sitemap",
       "version": "3.8.1"
     },
     "docusaurus-plugin-svgr": {
@@ -41,9 +41,6 @@
       "type": "package",
       "name": "docusaurus-plugin-image-zoom",
       "version": "3.0.1"
-    },
-    "custom-search-plugin": {
-      "type": "project"
     },
     "docusaurus-theme-mermaid": {
       "type": "package",

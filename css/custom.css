@@ -12,6 +12,31 @@
   align-items: center;
 }
 
+/* カスタムサーチを非表示（機能は残す） */
+#custom-search-container {
+  display: none !important;
+}
+
+/* デフォルトのDocusaurusサーチボックスを表示 */
+.navbarSearchContainer_Bca1 {
+  display: block !important;
+}
+
+/* カスタムサーチボックスを表示 */
+.navbar__search-pc {
+  display: flex !important;
+}
+
+.navbar__search-pc .navbar__search-input-container {
+  display: flex !important;
+}
+
+.navbar__search-pc .navbar__search-input {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
 .navbar__search-button {
   background: none;
   border: none;
