@@ -1,35 +1,36 @@
 ---
-title: History
+navigation:
+  title: "History"
+  order: 700
 ---
 
-# History Settings
+# History and website data
 
-Settings for History
+Open **Settings** > **History** to choose how history opens or to remove browsing data.
 
-![Screenshot 2025-09-11 at 16.31.31.png](img/Screenshot_2025-09-11_at_16.31.31.png)
+<img src="img/Screenshot_2025-09-11_at_16.31.31.png" alt="History and website data screen" width="560" />
 
-## Open History in New Tab
+## Choose where history items open
 
-When enabled, click on history, the website will be loaded on a new tab.
+**Open History in New Tab** opens a selected history item in a new tab when enabled. When disabled, it replaces the page in the current tab.
 
-When disabled, click on history, the website will be loaded on the current tab.
-
-*Default: enable*
+**Default:** On
 
 ## Clear History
 
-When the user performs the Clear History action, a confirmation dialog will be displayed, if agreed all browsing history will be deleted.
+Tap **Clear History**, then confirm to delete all browsing history.
 
 ## Delete Cookies
 
-When the user performs the Delete Cookies action, a confirmation dialog will be displayed, if agreed all web cookies will be deleted.
-
-Web cookies are components that support users when browsing the web.
-For example, when a user logs in to website A, a cookie will be saved by the browser. On subsequent visits to website A, the user will not have to log in, and will use the web with a logged in status. If this cookie is deleted from the browser, the user will have to log in to website A again.
+Tap **Delete Cookies**, then confirm to remove cookies saved by websites. This may sign you out of websites and reset site preferences.
 
 ## Clear Cache
 
-When the user performs the Clear Cache action, a confirmation dialog will be displayed, if agreed, the entire web cache will be deleted.
+Tap **Clear Cache**, then confirm to remove temporary website files such as images, HTML, and CSS. Websites may load more slowly on the next visit while these files are downloaded again.
 
-Web cache is a component that helps users browse the web faster. When browsing the web for the first time, web components will be newly loaded and cached. In the next web browsing, because the cached components do not need to be newly loaded, the web will load faster, saving more bandwidth.
-Cached components such as images, html, css.
+> **Important:** Cleared history, cookies, and cache cannot be restored. These actions do not delete bookmarks or downloaded files.
+
+## Related topics
+
+- [Browsing history](../browser/browsing-history.md)
+- [Privacy settings](privacy.md)

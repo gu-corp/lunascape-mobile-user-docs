@@ -1,87 +1,84 @@
 ---
-title: Wallet Settings
+navigation:
+  title: "Wallet Settings"
+  order: 500
 ---
 
 # Wallet Settings
 
+Open Wallet Settings to manage accounts, saved addresses, networks, display currency, connections, and security options.
+
+> **Important:** Back up the recovery phrase and any separately imported private keys before deleting accounts, replacing the wallet, or changing the master password.
+
 ## Account
 
-Displays a list of existing accounts and the currently selected account.
+The account list shows existing accounts and the currently selected account.
 
-![Screenshot 2025-09-24 at 17.41.46.png](img/Screenshot_2025-09-24_at_17.41.46.png)
+<img src="img/Screenshot_2025-09-24_at_17.41.46.png" alt="Wallet Settings screen 1" width="560" />
 
-Users can add one or more accounts to the wallet.
-Lunascape supports 2 forms of adding new accounts:
+You can add accounts in two ways:
 
-- Create Account: create a new account from the Seed phrase in use.
-- Import Secret Key: create a new account from private key.
+- **Create Account**: derives another account from the recovery phrase already in use.
+- **Import Secret Key**: adds an account from a separate private key.
 
-![Screenshot 2025-09-24 at 17.45.17.png](img/Screenshot_2025-09-24_at_17.45.17.png)
+<img src="img/Screenshot_2025-09-24_at_17.45.17.png" alt="Wallet Settings screen 2" width="560" />
 
-**Account Detail**
+### Account details
 
-Information displayed on the account details screen:
+The details screen shows the account name, address, and private key. Only the account name can be edited. The address and private key can be copied, and the account can be deleted.
 
-- Account Name
-- Address
-- Private Key
+<img src="img/Screenshot_2025-09-24_at_17.50.27.png" alt="Wallet Settings screen 3" width="360" />
 
-Users can only edit the Account Name field.
-
-The application supports Clipboard feature for the Address and Private Key fields for convenient use.
-
-Users can also perform Delete Account operation here.
-
-![Screenshot 2025-09-24 at 17.50.27.png](img/Screenshot_2025-09-24_at_17.50.27.png)
+> **Warning:** A private key gives full control of that account. Do not copy it unless necessary, and never paste it into a website, message, or support request. Deleting an imported account without backing up its private key can permanently remove your access.
 
 ## Address Book
 
-Display the Address Book list.
+The Address Book stores names and notes for frequently used addresses.
 
-Users can add familiar addresses such as friends' or account addresses on other wallets.
-With this feature, users can send tokens conveniently without worrying about confusion.
-
-![Screenshot 2025-09-24 at 18.05.31.png](img/Screenshot_2025-09-24_at_18.05.31.png)
+<img src="img/Screenshot_2025-09-24_at_18.05.31.png" alt="Wallet Settings screen 4" width="560" />
 
 **Add Contact**
 
-Supported fields:
+Enter:
 
-- Name: mnemonic name
+- Name
 - Address
 - Description: add detailed description for contact
 
-![Screenshot 2025-09-24 at 18.06.12.png](img/Screenshot_2025-09-24_at_18.06.12.png)
+<img src="img/Screenshot_2025-09-24_at_18.06.12.png" alt="Wallet Settings screen 5" width="560" />
+
+> **Caution:** A saved name does not prove that an address is still correct or belongs to the intended person. Verify the full address and network before every transfer.
 
 ## Network
 
-Displays the list of added networks, and the currently selected network.
+The network list shows configured networks and the currently selected network.
 
-![Screenshot 2025-09-25 at 14.20.08.png](img/Screenshot_2025-09-25_at_14.20.08.png)
+<img src="img/Screenshot_2025-09-25_at_14.20.08.png" alt="Wallet Settings screen 6" width="560" />
 
-Users can perform select/add/edit network operations.
+You can select, add, or edit a network.
 
-**Add network**
+### Add a network
 
-To be able to add a network, you need the following information:
+Obtain the following values from the network's official documentation:
 
-- Network name (required): can be the correct network name or optional
+- Network name (required)
 - RPC URL (required)
-- Chain ID (required): when you fill in the correct RPC URL, the Chain ID will be automatically obtained. You can still fill in manually.
-- Symbol (required): of the native token of the network
-- Token Name (required): of the native token of the network
+- Chain ID (required; it may be detected from the RPC URL)
+- Native-token symbol (required)
+- Native-token name (required)
 - Block Explorer URL (optional)
 
-![Simulator Screenshot - iPhone 16 - 2025-09-25 at 14.53.30.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-25_at_14.53.30.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-25_at_14.53.30.png" alt="Wallet Settings screen 7" width="360" />
 
-For already added networks, users can only edit the Block Explorer URL field.
+For an existing network, only the Block Explorer URL can be edited.
+
+> **Warning:** A malicious RPC endpoint can provide false blockchain data or track activity. Verify the RPC URL and chain ID with the network's official documentation.
 
 ## Currency Conversion
 
-Displays a list of supported fiat currencies.
-The converted value of the token balance will be displayed in the selected fiat currency.
+Select the fiat currency used for estimated balance values.
 
-Currently, Lunascape supports 9 fiat currencies:
+Available currencies:
 
 - USD
 - JPY
@@ -93,93 +90,80 @@ Currently, Lunascape supports 9 fiat currencies:
 - KRW
 - SGD
 
-![Screenshot 2025-09-25 at 15.53.37.png](img/Screenshot_2025-09-25_at_15.53.37.png)
+<img src="img/Screenshot_2025-09-25_at_15.53.37.png" alt="Wallet Settings screen 8" width="360" />
 
-Users can change their fiat currency selection here.
+Fiat values are estimates and may be delayed or unavailable.
 
 ## WalletConnect
 
-Displays a list of WalletConnect Sessions.
+This list shows active WalletConnect sessions. Tap **New Connection** to scan a DApp's QR code. You can also start the scanner from the Home screen or Wallet Dashboard.
 
-Users can connect to the DApp via WalletConnect by clicking the New Connection button. A QR code scanning screen will be displayed.
+Delete a session to disconnect that DApp. Remove sessions you no longer recognize or use.
 
-Additionally, users can also connect to DApps via WalletConnect by clicking on the button with the QR Code Scan icon in the Home App or Wallet Dashboard.
-
-At the WalletConnect screen, users can delete the currently connected session, by doing this the connection to the DApp via WalletConnect will also be canceled.
-
-![Screenshot 2025-09-25 at 16.52.44.png](img/Screenshot_2025-09-25_at_16.52.44.png)
+<img src="img/Screenshot_2025-09-25_at_16.52.44.png" alt="Wallet Settings screen 9" width="560" />
 
 ## Permitted websites
 
-Displays a list of websites allowed to connect to the wallet and groups them by account.
+This list shows websites allowed to connect to each wallet account.
 
-![Screenshot 2025-09-25 at 16.03.10.png](img/Screenshot_2025-09-25_at_16.03.10.png)
+<img src="img/Screenshot_2025-09-25_at_16.03.10.png" alt="Wallet Settings screen 10" width="560" />
 
-When a user is active on a web DApp, and connects to a wallet account, a connection confirmation popup will be displayed, asking the user to grant permission to the website or not. If the user accepts, the url of that DApp website will be automatically added to the list of permitted websites.
+After you approve a DApp connection, its URL is added here. On later visits, the listed site can reconnect to the approved account without another connection prompt. Remove sites you no longer use or trust. You can also add a site manually with **Add to List**.
 
-For websites already on this list, subsequent visits to the web DApp will automatically connect the wallet account without user confirmation.
-
-Therefore, users need to carefully confirm the DApp they want to connect to. If they find any insecurity, please remove that website from the list of Permitted websites.
-
-Users can also add manually using the Add to List feature here.
+> **Important:** Permission to connect does not by itself authorize every signature or transaction, but it exposes the account address and lets the site send requests. Verify the full domain, including spelling, before allowing it.
 
 ## Export Seed Phrase
 
-Shows the wallet Seed Phrase. So be very careful when opening this screen.
+Shows the wallet recovery phrase for backup.
 
-![Screenshot 2025-09-25 at 16.44.42.png](img/Screenshot_2025-09-25_at_16.44.42.png)
+<img src="img/Screenshot_2025-09-25_at_16.44.42.png" alt="Wallet Settings screen 11" width="560" />
+
+> **Danger:** Anyone who sees the recovery phrase can take the wallet's assets. View it only in private, record it offline in the correct order, and never share it with Lunascape support or enter it on a website.
 
 ## Change Master Password
 
-![Screenshot 2025-09-25 at 17.04.04.png](img/Screenshot_2025-09-25_at_17.04.04.png)
+<img src="img/Screenshot_2025-09-25_at_17.04.04.png" alt="Wallet Settings screen 12" width="560" />
 
-There are two ways to use this feature.
+Changing the master password recreates the wallet from a recovery phrase. It can be used to set a new password for the current wallet or to replace it with a different wallet.
 
-**Method 1: Use to reset your wallet password when you forget your wallet's current password.**
+### Reset the password for the current wallet
 
-Lunascape supports Face ID/Touch ID login. Therefore, users can forget their wallet password and still use the wallet as usual. In this case, users can use this feature to reset the wallet password. By taking the current Seed phrase (see Export Seed Phrase) fill in the Enter Seed Phrase field and create a new password.
+If biometric unlock still works, first export and securely back up the current recovery phrase and any separately imported private keys. Enter that recovery phrase and create a new password.
 
-Users need to pay close attention to the following:
+- The current account list, displayed tokens, custom networks, and local transaction history are deleted and rebuilt.
+- Accounts created with **Create Account** can be derived again from the same recovery phrase.
+- Accounts added with **Import Secret Key** are not part of that recovery phrase. Back up each private key separately.
 
-- The Change Master Password feature will recreate the wallet according to the filled Seed Phrase. Therefore, all data of the current wallet will be deleted including the wallet account list, token list, network list, transaction history. Please backup the necessary data before using this feature.
-- If the user uses the current Seed Phrase and resets the password. The wallet accounts created by the Account -> Create Account method can be recreated later with the filled Seed Phrase.
-- Wallet accounts created by the Account -> Import Secret Key method cannot be recreated from the Seed Phrase, so please carefully backup the private keys of these accounts.
+### Replace the wallet
 
-**Method 2: Use to create a new wallet with a new Seed Phrase.**
+Entering a different recovery phrase replaces the current wallet and sets a new password. Back up the current recovery phrase, imported private keys, addresses, and custom network details before continuing.
 
-Users can create a new wallet with a new Seed Phrase and reset the wallet password. But be careful to backup your current wallet data such as seed phrase, private key before doing so.
-
-The attention are the same as the attention given in method 1 above.
+> **Danger:** This operation removes current local wallet data. Do not proceed until you have tested that every required backup is complete and readable.
 
 ## Unlock with Face ID / Touch ID (iOS only)
 
-Lunascape supports users to open wallets using Face ID / Touch ID. This feature enhances security and enhance user experience.
+Allows the wallet to be unlocked with Face ID or Touch ID. Keep a valid wallet password and recovery backup even when biometrics are enabled.
 
 ## Send transaction with Face ID / Touch ID (iOS only)
 
-By default, every time a user makes a transaction, the user needs to enter the wallet password to confirm the transaction.
-
-Lunascape supports the feature of making transactions with Face ID / Touch ID to enhance security and enhance user experience.
+Allows transaction confirmation with Face ID or Touch ID instead of entering the wallet password each time. Always review the transaction details before authenticating.
 
 ## Enable ethereum.isMetaMask
 
-*Default: false*
+**Default:** Off
 
-For some DApps like Uniswap, web3 wallets can be detected automatically and allowed to connect.
+This compatibility option makes Lunascape identify itself through the provider flag commonly checked for MetaMask-compatible wallets.
 
-For such DApps, users can enable or disable ethereum.isMetaMask, it does not affect the connection of DApp and wallet.
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.08.19.png" alt="Wallet Settings screen 13" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-26 at 11.08.19.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.08.19.png)
+Some DApps do not list Lunascape directly and only show a MetaMask option.
 
-But for some DApps like Pancakeswap, it will usually only show connection options to well-known, verified wallets. And may not show connection options to Lunascape wallet, so users cannot connect DApp and wallet.
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.14.31.png" alt="Wallet Settings screen 14" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-26 at 11.14.31.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.14.31.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.15.34.png" alt="Wallet Settings screen 15" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-26 at 11.15.34.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.15.34.png)
+In that case, enable this setting and select MetaMask in the DApp. The connection and approval screens still belong to the Lunascape wallet.
 
-In this case, the user needs to enable ethereum.isMetaMask.
-The Lunascape wallet will now be detected by the DApp under the name of the MetaMask wallet. And can connect to DApp via MetaMask option shown above DApp.
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.18.21.png" alt="Wallet Settings screen 16" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-26 at 11.18.21.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.18.21.png)
-
-*MetaMask is a popular, verified and highly trusted web3 wallet, and is allowed to connect to most DApps.*
+> **Note:** This setting changes compatibility detection only. It does not install MetaMask, move your wallet, or make an untrusted DApp safe.

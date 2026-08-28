@@ -1,33 +1,27 @@
 ---
-title: Overview
+navigation:
+  title: "Overview"
+  order: 100
 ---
 
-# Settings Overview
+# Settings overview
 
-Configure various settings for the Lunascape browser to customize your browsing experience.
+Open **Settings** from the Home screen to change how Lunascape looks and behaves.
 
-## Table of Contents
+## Find a setting
 
-- [General](general) - Basic browser settings and preferences
-- [Default Browser](default-browser) - Set Lunascape as your default browser
-- [Display](display) - Customize appearance and display settings
-- [Bookmarks](bookmarks) - Configure bookmark settings and preferences
-- [Search](search) - Set up search engines and search preferences
-- [History](history) - Manage browsing history settings
-- [Wallet](wallet) - Configure wallet and Web3 settings
-- [Privacy](privacy) - Privacy and security settings
-- [Support](support) - Access support and help information
-- [Reset to Default](reset-to-default) - Reset all settings to default values
+| What you want to change | Go to |
+| --- | --- |
+| Tabs, shortcuts, ad blocking, News, or Home widgets | [General](general.md) |
+| App theme, website appearance, toolbars, or language | [Display](display.md) |
+| Default browser for links opened by other apps | [Default Browser](default-browser.md) |
+| Bookmark import and opening behavior | [Bookmarks](bookmarks.md) |
+| Search behavior and search provider | [Search](search.md) |
+| History, cookies, and cache | [History](history.md) |
+| Browser Wallet visibility and wallet preferences | [Wallet](wallet.md) |
+| App lock and automatic browsing-data deletion | [Privacy](privacy.md) |
+| Version information, release notes, and help | [Support](support.md) |
 
-## What This Section Covers
+If several settings are causing a problem, see [Reset to Default](reset-to-default.md).
 
-This section explains how to configure and customize Lunascape browser settings. You'll learn how to:
-
-- Set up general browser preferences and default browser settings
-- Customize the display and appearance of the browser
-- Configure bookmark, search, and history settings
-- Set up wallet and Web3 features
-- Manage privacy and security settings
-- Access support and reset settings when needed
-
-These settings allow you to personalize Lunascape to match your browsing habits and preferences.
+> **Tip:** The setting names in this guide match the labels shown in the app. Available settings may differ slightly by platform or app version.

@@ -1,29 +1,27 @@
 ---
-title: Overview
+navigation:
+  title: "Overview"
+  order: 100
 ---
 
 # News Overview
 
-## Table of Contents
+News collects articles from multiple RSS feeds and displays them in one place. Lunascape provides a default feed list based on the app language and device region, and you can add your own sources.
 
-- [News Setting](news-setting) - Add, remove, edit, and reset RSS feeds
-- [News Sources Selection](news-sources-selection) - Review and select news sources after updates
-- [Default RSS Sources](default-rss-sources) - Configure default RSS sources based on language and region
+<img src="img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.23.09.png" alt="News Overview screen" width="360" />
 
-## What This Section Covers
+## Use the News screen
 
-This section explains how to use the News features in Lunascape. You'll learn how to:
+1. Open **News** from the Home screen.
+2. Select a source or feed.
+3. Tap an article to open it in the browser.
 
-- Set up and configure news sources and RSS feeds
-- Select which news sources to follow
-- Manage default RSS sources for automatic news updates
-- Access and read news articles from various sources
+For best compatibility, add feeds that support RSS 2.0. A feed may remain empty if its address is unavailable or its format is unsupported.
 
-The News feature helps you stay informed by aggregating content from multiple RSS feeds and news sources in one convenient location.
+## News tasks
 
-
-Displays a list of articles and news from RSS sources installed in Settings. For each language there will be a default RSS list.
-
-You can add/remove RSS. It is recommended to use RSS version 2.0, if you use lower RSS versions the feature may not work properly or the news list will not be retrieved.
-
-![Simulator Screenshot - iPhone 14 Pro - 2025-10-01 at 17.23.09.png](img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.23.09.png)
+| Task | Help topic |
+| --- | --- |
+| Add, edit, remove, or reset a feed | [News Settings](news-setting.md) |
+| Review source changes after an app update | [News Source Selection](news-sources-selection.md) |
+| Understand how default sources are selected | [Default RSS Sources](default-rss-sources.md) |

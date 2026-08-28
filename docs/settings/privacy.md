@@ -1,23 +1,32 @@
 ---
-title: Privacy
+navigation:
+  title: "Privacy"
+  order: 900
 ---
 
-# Privacy Settings
+# Privacy settings
 
-Settings for Privacy
+Open **Settings** > **Privacy** to protect access to the app or automatically clear browsing data.
 
-![Screenshot 2025-09-11 at 17.08.09.png](img/Screenshot_2025-09-11_at_17.08.09.png)
+<img src="img/Screenshot_2025-09-11_at_17.08.09.png" alt="Privacy settings screen" width="560" />
 
 ## Enable Screen Lock (iOS only)
 
-When enabled, the application is protected by Screen Lock, the entire content of the application will be covered by Screen Lock. To bypass, the user needs to use the device's face id/touch id/passcode.
+When enabled, opening Lunascape requires authentication with Face ID, Touch ID, or the device passcode.
 
-Default: disable
+**Default:** Off
+
+> **Note:** Screen Lock helps prevent casual access to the app. It does not encrypt website traffic or replace the device's own security settings.
 
 ## Delete Privacy Data When Close
 
-When enabled, every time the application is closed, all user browsing data will be deleted.
+When enabled, Lunascape deletes browsing history, search history, website cookies, and cache whenever the app is closed.
 
-Affected data: browsing history, search history, web cookies, web cache.
+**Default:** Off
 
-Default: disable
+> **Important:** This can sign you out of websites and removes the affected data without a recovery option. Bookmarks and downloaded files are not listed as affected data.
+
+## Related topics
+
+- [History and website data](history.md)
+- [Private Mode](../browser/private-mode.md)

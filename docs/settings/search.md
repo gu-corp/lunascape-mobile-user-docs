@@ -1,52 +1,51 @@
 ---
-title: Search
+navigation:
+  title: "Search"
+  order: 600
 ---
 
-# Search Settings
+# Search settings
 
-Settings for Search
+Open **Settings** > **Search** to choose a search provider and control how suggestions and results behave.
 
-![Screenshot 2025-09-11 at 15.49.35.png](img/Screenshot_2025-09-11_at_15.49.35.png)
+<img src="img/Screenshot_2025-09-11_at_15.49.35.png" alt="Search settings screen 1" width="560" />
 
-## Open New Tab from SearchBar
+## Open results in a new tab
 
-When enabled, search results will open in a new tab.
+When **Open New Tab from Search Bar** is enabled, results open in a new tab. When disabled, results replace the current page.
 
-When disabled, search results will load directly in the current tab.
+**Default:** On
 
-*Default: enable*
+## Search when a suggestion is tapped
 
-## Search on suggestion's tap
+When enabled, tapping a suggestion starts the search immediately. When disabled, the suggestion is copied into the search field so you can edit it first.
 
-When enabled, when the user clicks on the search suggestions, the search action will be performed.
+**Default:** On
 
-When disabled, when the user clicks on the search suggestions, the search suggestion will be filled in the search input box but the search action will not be performed.
+## Clear the previous search term
 
-*Default: enable*
+Choose how long the previous search term remains in the search field. You can select from 0 to 60 minutes.
 
-## Time to remove previously searched words from the search bar (minute)
-
-Set the time that the search word exists in the search input. That is, during the set time, when the user opens the search input, the previous search word will still be filled there. If after the set time, the previous search word will be deleted, the search input will be empty.
-
-The maximum time value is 60 minutes. The minimum time value is 0 minutes.
-
-*Default: 10 minutes*
+**Default:** 10 minutes
 
 ## Search Engine
 
-Lunascape provides 8 search engines:
+Choose the provider used for searches. Lunascape includes:
 
 - Google
 - Bing
 - Amazon
-- Youtube
+- YouTube
 - Twitter/X
-- Wiki
+- Wikipedia
 - DeepL
-- ebay
+- eBay
 
-Search results will depend on the search engine the user chooses when searching.
+<img src="img/Screenshot_2025-09-11_at_16.29.06.png" alt="Search settings screen 2" width="360" />
 
-![Screenshot 2025-09-11 at 16.29.06.png](img/Screenshot_2025-09-11_at_16.29.06.png)
+**Default:** Google
 
-*Default: Google*
+## Related topics
+
+- [Search the web](../browser/search.md)
+- [Quick Search](../home/quick-search.md)

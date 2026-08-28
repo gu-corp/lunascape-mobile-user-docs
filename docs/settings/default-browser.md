@@ -1,11 +1,21 @@
 ---
-title: Default Browser
+navigation:
+  title: "Default Browser"
+  order: 300
 ---
 
-# Default Browser Settings
+# Set Lunascape as the default browser
 
-## Set Default Browser
+When Lunascape is the default browser, links opened from email, messages, and other apps open in Lunascape automatically.
 
-Instructions on how to set Lunascape as your phone's default Browser.
+## Change the default browser
 
-![Screenshot 2025-09-11 at 10.14.54.png](img/Screenshot_2025-09-11_at_10.14.54.png)
+1. Open **Settings** in Lunascape.
+2. Tap **Default Browser**.
+3. Tap **Set Default Browser**.
+4. On the system settings screen, select Lunascape as the default browser app.
+5. Return to Lunascape when finished.
+
+<img src="img/Screenshot_2025-09-11_at_10.14.54.png" alt="Set Lunascape as the default browser screen" width="560" />
+
+> **Note:** The system screen and wording differ between iOS and Android versions. If the option is unavailable, update the operating system and Lunascape, then try again.

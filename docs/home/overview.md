@@ -1,34 +1,29 @@
 ---
-title: Overview
+navigation:
+  title: "Overview"
+  order: 100
 ---
 
-# Overview
+# Home screen
 
-## Table of Contents
+The Home screen brings search, browser tools, news, shortcuts, and wallet information together in one place. Tap a widget to open it, or customize the layout so frequently used features appear first.
 
-- [Quick Search](quick-search) - Search using installed search engines and QR code scanning
-- [Tool Menu](tool-menu) - Quick access to Bookmarks, History, Wallet, Downloads, and Settings
-- [News](news) - RSS feed articles and news shortcuts
-- [Browser Shortcuts](browser-shortcuts) - Quick access to Shortcuts Setting and installed websites
-- [Wallets](wallets) - Web3 wallet with account balance and token information
+<img src="img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28.png" alt="Home screen screen 1" width="360" />
 
-## What This Section Covers
+## Customize the Home screen
 
-This section explains how to use the Home screen features of Lunascape. You'll learn how to:
+1. Open **Settings**.
+2. Open **General** > **Customize Home Widget**.
+3. Show or hide widgets and arrange them in the order you prefer.
 
-- Use the Quick Search widget for fast searching and QR code scanning
-- Access various browser functions through the Tool Menu
-- Stay updated with news through the News widget
-- Create and manage browser shortcuts
-- Use the built-in Web3 wallet features
+<img src="img/Screenshot_2025-09-08_at_16.33.33.png" alt="Home screen screen 2" width="560" />
 
-Each widget can be customized to match your preferences and usage patterns.
+## Home screen features
 
-
-The Home screen provides Widgets such as Quick Search, Tool menu, News, Shortcuts, Wallet for quick access to basic features.
-
-![Simulator Screenshot - iPhone 14 Pro - 2025-10-01 at 17.25.28.png](img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28.png)
-
-You can customize the position and display of each Widget.
-
-![Screenshot 2025-09-08 at 16.33.33.png](img/Screenshot_2025-09-08_at_16.33.33.png)
+| Feature | What you can do |
+| --- | --- |
+| [Quick Search](quick-search.md) | Search the web or scan a QR code. |
+| [Tool Menu](tool-menu.md) | Open bookmarks, history, downloads, settings, and other tools. |
+| [News](news.md) | Read articles from configured RSS feeds. |
+| [Browser Shortcuts](browser-shortcuts.md) | Open saved websites directly. |
+| [Wallet](wallets.md) | Check your account balance and assets. |

@@ -1,139 +1,136 @@
 ---
-title: Wallet Operations
+navigation:
+  title: "Wallet Operations"
+  order: 700
 ---
 
-# Wallet Operations with DApp
+# Wallet operations with DApps
+
+This page explains requests a DApp can send to Lunascape. Read every confirmation screen before approving it.
+
+> **Important:** Connecting a wallet identifies your account to the site. Signing a message can authorize actions, and sending a transaction can move assets. Verify the DApp URL, selected account, network, request details, and fee. Reject anything you do not understand.
 
 ## Connect Wallet
 
-In DApp, click on the Connect button to display the connection wallet options. Select Lunascape, a connection confirmation popup will be displayed, the user confirms the connection.
+1. Open the DApp and select its wallet connection button.
+2. Select **Lunascape** from the wallet list.
+3. In Lunascape, verify the DApp domain, account, and requested connection.
+4. Approve the request only if the details are correct.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-26 at 17.29.24.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.24.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.24.png" alt="Wallet operations with DApps screen 1" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-26 at 17.29.30.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.30.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.30.png" alt="Wallet operations with DApps screen 2" width="360" />
 
-On some DApps like Pancakeswap, the Lunascape wallet may not be shown in the list of connected wallets. Please enable ethereum.isMetaMask, and connect under the name of the Metamask wallet.
+If Lunascape is not listed, the DApp may only detect wallets that identify through the MetaMask-compatible provider. Enable **ethereum.isMetaMask** in [Wallet Settings](wallet-settings.md#enable-ethereumismetamask), then select the MetaMask option in the DApp.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-26 at 17.32.35.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.32.35.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.32.35.png" alt="Wallet operations with DApps screen 3" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-26 at 17.33.47.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.33.47.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.33.47.png" alt="Wallet operations with DApps screen 4" width="360" />
 
-## Add Token
+## Add a token
 
-There are 2 methods to add new tokens to the wallet.
+You can add a token manually or accept an add-token request from a DApp.
 
-### Method 1: add token manually
+### Add a token manually
 
-On the Asset List screen, click the Add button. The Add Assets screen will be displayed.
+1. On the Asset List screen, tap **Add**.
+2. Select the token type.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 10.49.21.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.49.21.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.49.21.png" alt="Wallet operations with DApps screen 5" width="360" />
 
-For Token Type is **Base Currency**, users just need to select **Network** to add the corresponding native token.
+For **Base Currency**, select the network to add its native token.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 10.52.47.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.52.47.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.52.47.png" alt="Wallet operations with DApps screen 6" width="360" />
 
-For Token Type is **ERC-20**, users fill in the **Contract Address** in the Address field. The QR code scanning feature is also supported.
-After filling in the Contract Address, the token information will be automatically displayed, including: Token Name, Symbol, Decimals.
+For **ERC-20**, select the matching EVM network and enter or scan the contract address. Lunascape then retrieves the token name, symbol, and decimals.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 10.56.57.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.56.57.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.56.57.png" alt="Wallet operations with DApps screen 7" width="360" />
 
-**Note**: an ERC-20 Token can have **one or more contract addresses**, each address will correspond to a network that this token is supported.
-For example: USC is supported on many networks such as: Ethereum, BNB Smart Chain, Solana, Polygon, ... And the corresponding contract addresses are:
+3. Verify the contract address against the token issuer's official source and make sure it belongs to the selected network. The same token can use different contract addresses on different networks.
+4. Check the detected token name, symbol, and decimals.
+5. Tap **Add Assets**.
 
-- Contract address on Ethereum: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
-- Contract address on BNB Smart Chain: 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d
-- Contract address on Solana: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+> **Caution:** Token names and symbols are not unique and can be copied by scam tokens. Do not add a token based only on its name, logo, or an address supplied in an unsolicited message.
 
-So if the user fills in the contract address incorrectly with the selected network, the correct token information will not be obtained.
+### Add a token from a DApp
 
-Finally, the user clicks the **Add Assets** button to complete the process of adding a new token.
+A DApp can request that a token be added. The following screens show one example using CoinMarketCap. Always verify the current site URL and contract information independently.
 
-### Method 2: add tokens from DApp
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.15.03.png" alt="Wallet operations with DApps screen 8" width="360" />
 
-Users can add new tokens from the DApp they are using.
+1. Find the contract address that matches the network selected in Lunascape.
+2. Select the wallet/add-token icon presented by the site.
 
-For example, users can search and add a lot of tokens from CoinMarketCap - this is a famous, legitimate and safe website. Here, users can search for the desired token, then go to the **Contracts** field.
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.16.03.png" alt="Wallet operations with DApps screen 9" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 11.15.03.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.15.03.png)
+3. If a connection request appears, check the domain and account before approving it.
 
-Next, navigate to the contract address that corresponds to the network selected in your wallet. If the Ethereum network is selected in your wallet, navigate to the Ethereum network contract address. Then, click on the MetaMask icon.
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.09.png" alt="Wallet operations with DApps screen 10" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 11.16.03.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.16.03.png)
+4. Check the token and network shown in the add-token request.
 
-Next, a popup asking for permission to connect to CoinMarketCap will be displayed. If you have connected before, the popup asking for permission to connect will not be displayed.
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.16.png" alt="Wallet operations with DApps screen 11" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 11.21.09.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.09.png)
+5. Tap **Add Tokens** only when the details match the official token information.
 
-After the user confirms the connection, a token add popup will be displayed.
+## Add a network
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 11.21.16.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.16.png)
+You can add a network manually from **Wallet Settings** > **Network** > **Add Network**. See [Wallet Settings](wallet-settings.md#network).
 
-Finally, the user clicks the **Add tokens** button to complete the token adding process.
+### Add a network requested by a DApp
 
-## Add Network
+When a DApp requests a network that is not yet available, Lunascape shows a confirmation. Verify the network name, RPC URL, chain ID, currency symbol, and block explorer before approving it.
 
-There are 2 ways to add network
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.12.png" alt="Wallet operations with DApps screen 12" width="360" />
 
-### Method 1: add network manually
+The network's native token is added at the same time.
 
-Check the instructions at Setting/Network/Add Network
+## Switch networks
 
-### Method 2: add network from DApp
+When a DApp requests a different network, Lunascape shows a confirmation before switching.
 
-In DApp, when a user performs a network conversion or adds a network and that network does not exist in the wallet, a popup confirming the addition of the network will be displayed, the user will confirm the addition of the network.
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.25.png" alt="Wallet operations with DApps screen 13" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 14.15.12.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.12.png)
+When you switch networks from the wallet, the connected DApp follows the selected network without an additional DApp confirmation.
 
-**Note**: when a new network is added, the native token (base currency) of that network will also be automatically added to the wallet.
+If the network exists but its native token was removed from the Asset List, Lunascape first asks to add that token and then asks to switch networks.
 
-## Switch Network
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.31.33.png" alt="Wallet operations with DApps screen 14" width="360" />
 
-When a user switches networks on the DApp, a network switch confirmation popup will be displayed.
+## Sign a message
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 14.15.25.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.25.png)
+Some DApps use a wallet signature to sign in or authorize an action. A signature is not always a blockchain transaction, but it can still grant permissions.
 
-Conversely, when a user switches networks on the wallet, the DApp will automatically switch to the corresponding network (no confirmation popup is displayed in this case)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.43.40.png" alt="Wallet operations with DApps screen 15" width="360" />
 
-In the following case: network A has been added to the wallet, but the native token (base currency) of network A has been removed from the wallet. When the user performs a network switching operation on the DApp, the popup confirming the addition of the network's native token will be displayed first, after the user confirms, the popup confirming the network switching will be displayed next.
+When you select **Sign** in the DApp, Lunascape displays the message and requesting site for confirmation.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 14.31.33.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.31.33.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.03.png" alt="Wallet operations with DApps screen 16" width="360" />
 
-## Sign the transaction
+Enter the wallet password to approve the signature.
 
-Many DApps support login via wallet, which means users can create active accounts on the DApp using their wallet information.
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.15.png" alt="Wallet operations with DApps screen 17" width="360" />
 
-After connecting the DApp to the wallet, the user will sign a transaction to confirm account creation or use of the DApp.
+Lunascape supports Personal Sign, Sign Typed Data, Sign Typed Data V3, and Sign Typed Data V4.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 14.43.40.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.43.40.png)
+> **Warning:** Do not sign an unreadable or unexpected message. A malicious signature can authorize asset access even when no transfer amount is shown.
 
-When the user clicks the Sign button on the DApp, a signing request popup will be displayed for the user to confirm.
+## Send a transaction
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 14.45.03.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.03.png)
+When a DApp requests a transfer or contract interaction, Lunascape displays a transaction confirmation.
 
-The user needs the wallet password to be able to sign.
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.30.png" alt="Wallet operations with DApps screen 18" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 14.45.15.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.15.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.46.png" alt="Wallet operations with DApps screen 19" width="360" />
 
-Lunascape supports 4 signing methods: Personal Sign, Sign Typed Data, Sign Typed Data V3, Sign Typed Data V4
+A swap also produces a transaction confirmation.
 
-## Send transaction
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.33.55.png" alt="Wallet operations with DApps screen 20" width="360" />
 
-When a user makes a send transaction on the DApp, a transaction confirmation popup will be displayed.
+Before confirming, verify the network, destination or contract, amount, token approval, and total fee. Choose **Slow**, **Average**, or **Fast**; **Average** is selected by default. Advanced Settings lets experienced users enter fee values manually.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 15.30.30.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.30.png)
+<img src="img/Screenshot_2025-09-29_at_15.39.10.png" alt="Wallet operations with DApps screen 21" width="360" />
 
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 15.30.46.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.46.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.36.47.png" alt="Wallet operations with DApps screen 22" width="360" />
 
-Or when the user performs a Swap operation, a transaction confirmation popup will also be displayed.
-
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 15.33.55.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.33.55.png)
-
-In the transaction confirmation popup, users can set the desired transaction fee.
-
-Lunascape has calculated 3 values: Slow, Average, Fast based on the selected network. By default, the Average value is selected.
-
-Users can also adjust the transaction fee manually by clicking the Advanced Settings button in the Transaction Fee Setting popup.
-
-![Screenshot 2025-09-29 at 15.39.10.png](img/Screenshot_2025-09-29_at_15.39.10.png)
-
-![Simulator Screenshot - iPhone 16 - 2025-09-29 at 15.36.47.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.36.47.png)
+> **Important:** A confirmed blockchain transaction usually cannot be canceled or reversed. An incorrect advanced fee can delay or fail a transaction.

@@ -1,137 +1,85 @@
 ---
-title: General
+navigation:
+  title: "General"
+  order: 200
 ---
 
-# General Settings
+# General settings
 
-General customizations for Home, Tab, Browser, Widget.
+Open **Settings** > **General** to configure app actions, tabs, shortcuts, ad blocking, News, and the Home screen.
 
-## Action
+## Actions
 
-![Screenshot 2025-09-10 at 16.45.03.png](img/Screenshot_2025-09-10_at_16.45.03.png)
+<img src="img/Screenshot_2025-09-10_at_16.45.03.png" alt="General settings screen 1" width="560" />
 
-**Lock Rotation**
+| Setting | What it does | Default |
+| --- | --- | --- |
+| **Lock Rotation** | Keeps Lunascape in portrait orientation. When off, Lunascape follows device rotation unless rotation is locked at the system level. | Off |
+| **Scroll to Top** (iOS only) | Scrolls the open page to the top when you tap the right side of the status bar. | On |
+| **Save Image in Photo Album/Gallery** | Saves images to Photos or Gallery when on. When off, images are saved in the **Downloads** folder. | Off |
 
-When enabled, the app is always in portrait mode.
+## Tabs
 
-When disabled, the app will change portrait/landscape mode when rotating the phone. But if the phone's system setting is Lock rotation, the app is always in portrait mode.
+<img src="img/Screenshot_2025-09-10_at_17.02.09.png" alt="General settings screen 2" width="560" />
 
-*Default: disable*
+| Setting | What it does | Default |
+| --- | --- | --- |
+| **Restore Tabs** | Reopens tabs from the previous session when Lunascape starts. | On |
+| **Open New Tab from Address Bar** | Opens a URL or search entered in the address bar in a new tab. When off, the current tab is reused. | On |
+| **Use the Sliding Tab Bar Version** | Lets you swipe the tab bar to switch tabs. When off, tabs appear in a horizontally scrolling list. | On |
+| **Set Maximum Tab** | Sets the number of tabs that can be open, from 6 to 30. | 12 |
 
-**Scroll to Top (iOS only)**
-
-When enabled, tap the status bar area on the right corner, the website will automatically scroll to the top of the page.
-
-*Default: enable*
-
-**Save Image in Photo Album/Gallery**
-
-When disabled, "Save image" will save the image to the /Downloads folder.
-When enabled, "Save image" will save the image to the Photo Album/Gallery.
-
-*Default: disable*
-
-## Tab
-
-![Screenshot 2025-09-10 at 17.02.09.png](img/Screenshot_2025-09-10_at_17.02.09.png)
-
-**Restore Tabs**
-
-When enabled, restarting the application will reopen previously opened tabs.
-
-When disabled, restarting the application will not reopen previously opened tabs.
-
-*Default: enable*
-
-**Open New Tab from AddressBar**
-
-When enabled, tap the Address bar of the current tab then type the search term or link, then press enter, the result/website will be opened in a new tab. 
-
-When disabled, tap the Address bar of the current tab then type the search term or link, then press enter, the result/website will be loaded in the current tab.
-
-*Default: enable*
-
-**Use the sliding Tabbar version**
-
-When enabled, the sliding tabbar is used, performing a swipe on the tabbar to select the displayed tab.
-
-When disabled, the normal tabbar is used, the tabbar will be in list form, performing a horizontal scroll to select the tab.
-
-*Default: enable*
-
-**Set Maximum Tab**
-
-Set the maximum number of tabs that can be opened at the same time.
-The minimum value that can be set is 6, the maximum value that can be set is 30.
-If the user sets a value greater than 12, a warning will be displayed. We do not recommend setting the value too large, it will affect the application performance and browsing experience.
-
-*Default: 12*
+> **Tip:** A warning appears above 12 tabs. A high limit can increase memory use and reduce browsing performance.
 
 ## Shortcuts
 
-![Screenshot 2025-09-10 at 17.27.51.png](img/Screenshot_2025-09-10_at_17.27.51.png)
+<img src="img/Screenshot_2025-09-10_at_17.27.51.png" alt="General settings screen 3" width="560" />
 
-**Edit Shortcuts List**
+Tap **Edit Shortcuts List** to create, reorder, or delete shortcuts, or to restore the default list.
 
-Open Shortcuts modal, users can perform the following operations:
+<img src="img/Screenshot_2025-09-10_at_17.33.21.png" alt="General settings screen 4" width="360" />
 
-- Create new shortcut
-- Reset the shortcut list to default
-- Change the location of shortcuts
-- Delete shortcut
+Tap **Add to Shortcuts** to create a shortcut for a website.
 
-![Screenshot 2025-09-10 at 17.33.21.png](img/Screenshot_2025-09-10_at_17.33.21.png)
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_17.34.35.png" alt="General settings screen 5" width="360" />
 
-**Add to Shortcuts**
+**Open Shortcuts in New Tab** opens shortcuts in a new tab when enabled. When disabled, the current tab is reused.
 
-Open the Add to Shortcuts screen, users can create new shortcuts here.
+**Default:** On
 
-![Simulator Screenshot - iPhone 15 - 2025-09-10 at 17.34.35.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_17.34.35.png)
+## Ad blocker
 
-**Open Shortcuts in New Tab**
+<img src="img/Screenshot_2025-09-10_at_17.37.26.png" alt="General settings screen 6" width="560" />
 
-When enabled, tap the shortcut, the website will be loaded in a new tab.
-When disabled, tap the shortcut, the website will be loaded in the current tab.
+Turn on **Enable AdBlocker** to block supported ads. The initial setting is off. Reload open pages after changing it.
 
-*Default: enable*
+Use **Allowlist** to add or remove websites where ads should remain visible.
 
-## Ad Blocker
+<img src="img/Screenshot_2025-09-11_at_09.31.59.png" alt="General settings screen 7" width="560" />
 
-![Screenshot 2025-09-10 at 17.37.26.png](img/Screenshot_2025-09-10_at_17.37.26.png)
+> **Note:** If a website does not display or work correctly, add it to the Allowlist and reload the page.
 
-**Enable AdBlocker**
+## News feeds
 
-When enabled, ad blocking will work, but will not work on websites on the Allowlist.
+Add, edit, delete, or reorder the RSS feeds shown on the News screen. **Reset Feeds** restores the default feeds for the app's current language.
 
-When disabled, ad blocking will not work.
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_10.03.33.png" alt="General settings screen 8" width="360" />
 
-*Default: disable*
+> **Important:** Resetting feeds replaces your customized feed list.
 
-**Allowlist**
+## Customize the Home screen
 
-Set a list of websites that the ad feature will not work on.
+Use **Customize Tool Menu** to reorder or show and hide the tools on the Home screen.
 
-Users can manually add/remove from the list.
+<img src="img/Screenshot_2025-09-11_at_10.10.18.png" alt="General settings screen 9" width="560" />
 
-![Screenshot 2025-09-11 at 09.31.59.png](img/Screenshot_2025-09-11_at_09.31.59.png)
+Use **Customize Home Widget** to reorder or show and hide Home screen widgets.
 
-## News
+<img src="img/Screenshot_2025-09-11_at_10.12.02.png" alt="General settings screen 10" width="560" />
 
-Set up the news list. Users can add/edit/delete RSS feeds.
-Each RSS feed corresponds to a news page on the News screen. Users can change the location of the news pages as they wish.
-Each language will have a different default RSS feed list.
-Reset Feeds will reset the RSS feed list to the default according to the current language.
+## Related topics
 
-![Simulator Screenshot - iPhone 15 - 2025-09-11 at 10.03.33.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_10.03.33.png)
-
-## Customize Tool Menu
-
-Set the position, hide/show of the Tool menu list displayed on the Home screen
-
-![Screenshot 2025-09-11 at 10.10.18.png](img/Screenshot_2025-09-11_at_10.10.18.png)
-
-## Customize Home Widget
-
-Set the position, hide/show of the Widgets displayed on the Home screen
-
-![Screenshot 2025-09-11 at 10.12.02.png](img/Screenshot_2025-09-11_at_10.12.02.png)
+- [Tab operations](../browser/tab-operations.md)
+- [Ad blocking](../browser/ad-blocking.md)
+- [Manage News feeds](../news/news-setting.md)
+- [Customize the Tool Menu](../home/tool-menu.md)

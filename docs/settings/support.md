@@ -1,29 +1,33 @@
 ---
-title: Support
+navigation:
+  title: "Support"
+  order: 1000
 ---
 
-# Support Settings
+# Help and app information
 
-![Screenshot 2025-09-11 at 17.16.34.png](img/Screenshot_2025-09-11_at_17.16.34.png)
+Open **Settings** > **Support** to get help or check information about your installed version.
+
+<img src="img/Screenshot_2025-09-11_at_17.16.34.png" alt="Help and app information screen 1" width="560" />
 
 ## Online Help
 
-Open the Lunascape app [FAQ](https://help.gu.net/lunascape-for-mobile-faq) page in your browser. Users can look up common issues here.
+Open the Lunascape [FAQ](https://help.gu.net/lunascape-for-mobile-faq) to find answers to common issues. When requesting support, include the app version, device model, operating-system version, and steps that reproduce the problem. Do not include passwords, recovery phrases, or private keys.
 
 ## About
 
-Introduce the current version of the application.
+Shows the installed Lunascape version and other app information.
 
-![Screenshot 2025-09-11 at 17.21.33.png](img/Screenshot_2025-09-11_at_17.21.33.png)
+<img src="img/Screenshot_2025-09-11_at_17.21.33.png" alt="Help and app information screen 2" width="560" />
 
-## Release Note
+## Release Notes
 
-Introduce all changes of current version compared to previous version.
+Shows new features, changes, and fixes for the installed version.
 
-![Simulator Screenshot - iPhone 15 - 2025-09-11 at 17.22.45.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.22.45.png)
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.22.45.png" alt="Help and app information screen 3" width="360" />
 
 ## Acknowledgements
 
-Lunascape is built on many open source libraries. This is a screen that shows the open source licenses of all the libraries Lunascape uses.
+Shows notices and licenses for the open-source software used by Lunascape.
 
-![Simulator Screenshot - iPhone 15 - 2025-09-11 at 17.24.47.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.24.47.png)
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.24.47.png" alt="Help and app information screen 4" width="360" />

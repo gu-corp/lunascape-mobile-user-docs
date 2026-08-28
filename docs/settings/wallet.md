@@ -1,19 +1,28 @@
 ---
-title: Wallet
+navigation:
+  title: "Wallet"
+  order: 800
 ---
 
 # Wallet Settings
 
-![Screenshot 2025-09-11 at 16.52.12.png](img/Screenshot_2025-09-11_at_16.52.12.png)
+Open **Settings** > **Wallet** to show or hide Browser Wallet features and open the detailed wallet settings.
 
-## Wallet Setting
+<img src="img/Screenshot_2025-09-11_at_16.52.12.png" alt="Wallet Settings screen" width="560" />
 
-Open Wallet Settings modal.
+## Open wallet settings
+
+Tap **Wallet Setting** to manage wallet-specific preferences.
 
 ## Enable Browser Wallet
 
-When enabled, the Web3 Wallet feature will be displayed, users can use the wallet functions.
+When enabled, Browser Wallet features are shown in the app. When disabled, those entry points are hidden and wallet functions cannot be used until the option is enabled again.
 
-When disabled, the Web3 Wallet feature will not be displayed, users cannot use the wallet functions.
+**Default:** On
 
-*Default: enable*
+> **Note:** Turning this option off does not delete an existing wallet. Never share a recovery phrase or private key.
+
+## Related topics
+
+- [Wallet overview](../wallet/overview.md)
+- [Wallet settings](../wallet/wallet-settings.md)

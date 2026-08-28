@@ -1,71 +1,70 @@
 ---
-title: Wallet Dashboard
+navigation:
+  title: "Wallet Dashboard"
+  order: 300
 ---
 
 # Wallet Dashboard
 
-The selected account's overview information is displayed such as Account Name, Network, Total Balance, Assets, Transaction History and Footer.
+The Dashboard summarizes the selected account, network, estimated balance, assets, and recent outgoing transactions.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-16 at 17.36.39.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-16_at_17.36.39.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-16_at_17.36.39.png" alt="Wallet Dashboard screen 1" width="360" />
 
-## Account Name
+## Switch or lock the account
 
-Account name is displayed at the top.
+Tap the account name at the top to switch accounts, add an account, or lock the wallet.
 
-Users can switch accounts, add new accounts or lock wallet by clicking here.
+<img src="img/Screenshot_2025-09-16_at_17.44.58.png" alt="Wallet Dashboard screen 2" width="560" />
 
-![Screenshot 2025-09-16 at 17.44.58.png](img/Screenshot_2025-09-16_at_17.44.58.png)
+## Switch networks
 
-## Network
+Tap the network icon at the top right to switch or add a network. The selected network determines which assets and DApps are available.
 
-The icon of the selected network is displayed on the right side of the top.
-User can switch networks or add new networks here.
-
-![Screenshot 2025-09-16 at 17.47.14.png](img/Screenshot_2025-09-16_at_17.47.14.png)
+<img src="img/Screenshot_2025-09-16_at_17.47.14.png" alt="Wallet Dashboard screen 3" width="360" />
 
 ## Total Balance
 
-Displays the total balance of the current account in the selected fiat currency. There are 9 fiat currencies supported.
-The user can hide/show this value for privacy.
+The estimated account total appears in the fiat currency selected in Wallet Settings. Tap the visibility control to hide or show the value.
 
 ## Assets
 
-Shows the list of tokens in the current account. By default the last used token will be shown at the top of the list.
+Recently used tokens appear first by default. Open the [Asset List](asset-list.md) to see and manage all displayed tokens.
 
-![Screenshot 2025-09-18 at 15.40.26.png](img/Screenshot_2025-09-18_at_15.40.26.png)
+<img src="img/Screenshot_2025-09-18_at_15.40.26.png" alt="Wallet Dashboard screen 4" width="560" />
 
 ## Transaction History
 
-The current account's latest transactions will be displayed. Only outgoing transactions are shown in this list. Incoming transactions are not supported.
+The latest outgoing transactions for the selected account are shown. Incoming transactions are not included in this list; use a trusted block explorer when you need complete on-chain history.
 
-![Screenshot 2025-09-18 at 15.42.43.png](img/Screenshot_2025-09-18_at_15.42.43.png)
+<img src="img/Screenshot_2025-09-18_at_15.42.43.png" alt="Wallet Dashboard screen 5" width="560" />
 
-## Send Transaction
+## Send assets
 
-Users can access the Send screen by clicking the Send button in the footer.
+1. Tap **Send** in the footer.
+2. Select the token and enter or scan the recipient address. You can also choose a saved Address Book entry.
+3. Enter the amount.
+4. Review the network, recipient, token, amount, and fee.
+5. Confirm with the wallet password or enabled biometric authentication.
 
-On the Send screen, users select the wallet address to receive and the token to send.
+<img src="img/Screenshot_2025-09-18_at_15.50.24.png" alt="Wallet Dashboard screen 6" width="360" />
 
-The application supports the Address Book feature - a place to store the wallet address contacts that users know, to help make transactions more convenient and accurate.
+Choose **Slow**, **Average**, or **Fast** for the transaction fee, or use the advanced settings when you understand the network's fee rules.
 
-Users can also scan the wallet address with QR code conveniently.
+<img src="img/Screenshot_2025-09-18_at_15.51.06.png" alt="Wallet Dashboard screen 7" width="360" />
 
-![Screenshot 2025-09-18 at 15.50.24.png](img/Screenshot_2025-09-18_at_15.50.24.png)
+## Receive assets
 
-Users can adjust the transaction fee. The application automatically supports 3 settings: Slow/Average/Fast, but users can still specify the desired value.
+1. Select the correct account and network.
+2. Tap **Receive**.
+3. Copy the address or show its QR code to the sender.
+4. Confirm that the sender will use the same compatible network.
 
-![Screenshot 2025-09-18 at 15.51.06.png](img/Screenshot_2025-09-18_at_15.51.06.png)
+<img src="img/Screenshot_2025-09-18_at_15.54.08.png" alt="Wallet Dashboard screen 8" width="360" />
 
-## Receive Transaction
+## Scan a QR code
 
-To display the current receiving wallet address, click the Receive button in the footer.
+Tap the QR icon in the footer to scan a recipient address or a WalletConnect connection code. Check the recognized action before continuing.
 
-The app supports both copying the wallet address and QR code of the wallet address.
+<img src="img/Screenshot_2025-09-24_at_17.09.42.png" alt="Wallet Dashboard screen 9" width="560" />
 
-![Screenshot 2025-09-18 at 15.54.08.png](img/Screenshot_2025-09-18_at_15.54.08.png)
-
-## Quick scan QR code
-
-You can click on the QR scan icon in the footer to perform actions like Connect wallet using WalletConnect, Transfer tokens to scanned wallet address.
-
-![Screenshot 2025-09-24 at 17.09.42.png](img/Screenshot_2025-09-24_at_17.09.42.png)
+> **Important:** Blockchain transactions are usually irreversible. Send a small test amount when using a new address or network, and never rely on the address label alone.

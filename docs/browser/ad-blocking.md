@@ -1,12 +1,28 @@
 ---
-title: Ad Blocking
+navigation:
+  title: "Ad Blocking"
+  order: 200
 ---
 
 # Ad Blocking
 
-Ad blocking is disabled by default. You need to enable it manually if you want to block ads.
-When ad blocking is enabled, web pages need to be reloaded for the feature to actually work.
+Ad blocking reduces advertisements shown on supported websites. It is disabled by default.
 
-![Simulator Screenshot - iPhone 15 - 2025-09-09 at 15.35.14.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_15.35.14.png)
+## Enable ad blocking
 
-We also provide an AllowList feature (Settings -> Ad Blocker -> Allowlist) for Ad Blocking. Ad Blocking will not work on sites added to this list.
+1. Open **Settings** > **General**.
+2. Find **Ad Blocker**.
+3. Turn on **Enable AdBlocker**.
+4. Return to the browser and reload any page that was already open.
+
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_15.35.14.png" alt="Ad Blocking screen" width="360" />
+
+## Allow ads on a website
+
+Use **Settings** > **General** > **Ad Blocker** > **Allowlist** to add or remove websites. Ad blocking remains disabled for every website on this list.
+
+> **Note:** Some advertisements or page elements may not be blocked. If a website stops working correctly, add it to the Allowlist and reload the page.
+
+## Related topics
+
+- [General Settings](../settings/general.md#ad-blocker)

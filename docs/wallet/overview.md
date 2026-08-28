@@ -1,34 +1,22 @@
 ---
-title: Overview
+navigation:
+  title: "Overview"
+  order: 100
 ---
 
-# Wallet Overview
+# Wallet overview
 
-Lunascape provides users with an EVM Wallet. Supports most EVM blockchains such as Ethereum, Binance Smart Chain, Polygon, Avalanche C-Chain, Fantom, Arbitrum, Optimism...
+Lunascape includes a self-custody wallet for EVM-compatible networks, including Ethereum and compatible networks added in Wallet Settings. It does not support non-EVM networks such as Bitcoin or Solana.
 
-The wallet does not support non-evm blockchains such as Bitcoin, Solana, Ripple, Cardano, Near...
+## Get started
 
-Users can interact with DApps DeFi, GameFi, NFT marketplace running on EVM.
+| Task | Help |
+| --- | --- |
+| Create a wallet or import a recovery phrase | [Create or import a wallet](create-wallet.md) |
+| Check balances and recent activity | [Wallet Dashboard](wallet-dashboard.md) |
+| View, add, or organize tokens | [Asset List](asset-list.md) |
+| Manage accounts, networks, and security | [Wallet Settings](wallet-settings.md) |
+| Connect to a DApp by QR code or deep link | [WalletConnect](walletconnect.md) |
+| Connect, sign, switch networks, or send from a DApp | [Wallet operations with DApps](wallet-operations.md) |
 
-## Table of Contents
-
-- [Create Wallet](create-wallet) - Create a new wallet or import an existing wallet
-- [Wallet Dashboard](wallet-dashboard) - Overview of account information and transactions
-- [Asset List](asset-list) - Manage and view all your tokens and assets
-- [Wallet Settings](wallet-settings) - Configure wallet accounts, networks, and security settings
-- [WalletConnect](walletconnect) - Connect to external wallets using WalletConnect protocol
-- [Wallet Operations](wallet-operations) - Perform various wallet operations and transactions
-
-## What This Section Covers
-
-This section explains how to use the built-in Web3 wallet features in Lunascape. You'll learn how to:
-
-- Create or import a wallet using seed phrases
-- Use the wallet dashboard to view balances and transactions
-- Manage your cryptocurrency assets and tokens
-- Configure wallet settings and security options
-- Connect to decentralized applications (DApps)
-- Use WalletConnect to connect external wallets
-- Perform various wallet operations and transactions
-
-The built-in wallet functionality makes it easy to access Web3 services directly from your browser without needing separate wallet applications.
+> **Important:** You control this wallet. Lunascape cannot recover a lost recovery phrase or reverse a blockchain transaction. Never share your recovery phrase, private key, or wallet password. Verify the network, address, token, amount, and fee before approving any request.

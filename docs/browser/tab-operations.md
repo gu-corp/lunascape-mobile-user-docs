@@ -1,21 +1,44 @@
 ---
-title: Tab Operations
+navigation:
+  title: "Tab Operations"
+  order: 700
 ---
 
 # Tab Operations
 
-The default maximum number of tabs opened is 12. Users can change the maximum number of tabs in Settings (Settings -> Tab -> Set Maximum Tab). We recommend that the maximum number should not be too large to avoid affecting browsing performance.
+Use tabs to keep multiple pages open and switch between them.
 
-The default Tab mode is Sliding Tabbar. Users can change the mode and other settings at Settings -> Tab
+## Open and switch tabs
 
-When scrolling down on a web page, the Tabbar will automatically hide (as will the Address bar). Users can change this setting at Settings -> Tool bar & Tab bar.
+- Tap the new-tab control to open another tab.
+- Tap a tab to switch to it.
+- Close tabs you no longer need to reduce memory use.
 
-To enhance the experience, using flexible tabs, Lunascape provides a series of quick actions on Tabs.
+The default maximum is 12 tabs. Change it from **Settings** > **General** > **Tab** > **Set Maximum Tab**. A large limit can reduce browsing performance.
 
-- Touch and hold for about 2 seconds on the Tab, the Quick Action Menu will be displayed. Supported actions: Close, Close other tabs, Add to Favorite (Bookmark), Reload this Tab.
+## Use the tab quick-action menu
 
-![Screenshot 2025-09-09 at 17.43.14.png](img/Screenshot_2025-09-09_at_17.43.14.png)
+Touch and hold a tab for about two seconds. Depending on the current tab, the menu provides actions such as:
 
-- Touch, hold and swipe up/left/right on the Home icon, gesture quick actions will be displayed. Supported gesture quick actions: Close, Back, Previous.
+- **Close**
+- **Close Other Tabs**
+- **Add to Bookmark**
+- **Reload This Tab**
 
-![Screenshot 2025-09-09 at 17.42.47.png](img/Screenshot_2025-09-09_at_17.42.47.png)
+<img src="img/Screenshot_2025-09-09_at_17.43.14.png" alt="Tab Operations screen 1" width="560" />
+
+## Use Home icon gestures
+
+Touch and hold the Home icon, then swipe in the displayed direction to use a gesture action such as **Close**, **Back**, or **Forward**.
+
+<img src="img/Screenshot_2025-09-09_at_17.42.47.png" alt="Tab Operations screen 2" width="560" />
+
+## Change tab appearance
+
+- Change the tab mode from **Settings** > **General** > **Tab**.
+- Change automatic toolbar and tab-bar hiding from **Settings** > **Display** > **Tool Bar & Tab Bar**.
+
+## Related topics
+
+- [General Settings](../settings/general.md#tabs)
+- [Display Settings](../settings/display.md#toolbar-and-tab-bar)

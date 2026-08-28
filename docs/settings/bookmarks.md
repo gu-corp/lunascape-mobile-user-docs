@@ -1,35 +1,42 @@
 ---
-title: Bookmarks
+navigation:
+  title: "Bookmarks"
+  order: 500
 ---
 
-# Bookmarks Settings
+# Bookmark settings
 
-Settings for Bookmarks
+Open **Settings** > **Bookmarks** to import, organize, or change how bookmarks open.
 
-![Screenshot 2025-09-11 at 14.33.17.png](img/Screenshot_2025-09-11_at_14.33.17.png)
+<img src="img/Screenshot_2025-09-11_at_14.33.17.png" alt="Bookmark settings screen 1" width="560" />
 
-## Edit Bookmarks List
+## Organize bookmarks
 
-Open Bookmarks modal, users can add/edit/delete bookmark list here.
+Tap **Edit Bookmarks List** to add, rename, move, or delete bookmarks and folders.
 
-![Screenshot 2025-09-11 at 14.35.29.png](img/Screenshot_2025-09-11_at_14.35.29.png)
+<img src="img/Screenshot_2025-09-11_at_14.35.29.png" alt="Bookmark settings screen 2" width="360" />
 
-## Import Bookmarks
+## Import bookmarks
 
-Users can import Bookmarks from browsers that support the Export Bookmarks feature such as Safari. Support users to move Bookmarks from other browsers quickly.
+1. Export bookmarks from Safari or another browser in a supported bookmark file format.
+2. In Lunascape, tap **Import Bookmarks**.
+3. Select the exported file and confirm the import.
 
-![Screenshot 2025-09-11 at 14.41.15.png](img/Screenshot_2025-09-11_at_14.41.15.png)
+<img src="img/Screenshot_2025-09-11_at_14.41.15.png" alt="Bookmark settings screen 3" width="560" />
 
-## Add Bookmarks
+## Add the open page
 
-Open Add Bookmarks modal, user can add open website to Bookmarks list.
+Tap **Add Bookmarks** to save the page that is currently open in the browser.
 
-![Screenshot 2025-09-11 at 14.42.55.png](img/Screenshot_2025-09-11_at_14.42.55.png)
+<img src="img/Screenshot_2025-09-11_at_14.42.55.png" alt="Bookmark settings screen 4" width="560" />
 
-## Open Bookmarks in New Tab
+## Choose where bookmarks open
 
-When enabled, click on bookmarks, the website will be opened in a new tab.
+**Open Bookmarks in New Tab** controls whether a bookmark opens in a new tab or replaces the page in the current tab.
 
-When disabled, click on bookmarks, the website will be loaded in the current tab.
+**Default:** On
 
-*Default: enable*
+## Related topics
+
+- [Use bookmarks](../browser/bookmarks.md)
+- [Browser shortcuts](../home/browser-shortcuts.md)

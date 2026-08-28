@@ -1,41 +1,29 @@
-# Website
+# Lunascape Mobile User Manual
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository contains the Lunascape Mobile user manual in the canonical Lunascape Docs format. Markdown and image files are the source of truth; no site generator or build step is required.
 
-## Installation
+## Content layout
 
-```bash
-yarn
+- `docs/` is the canonical English document root.
+- Each directory's `i18n/ja/` folder contains its Japanese counterparts. For example, `docs/browser/ad-blocking.md` is translated at `docs/browser/i18n/ja/ad-blocking.md`.
+- `docs/lunascape-docs.json` defines the Lunascape Docs workspace.
+- Each page owns its INDEX title and order in `navigation` front matter.
+- Smartphone screenshots use explicit, portable HTML widths: 360px for tall screens and 560px for wider crops.
+
+## Open in Lunascape Docs
+
+Open any Markdown file under `docs/` with Lunascape Docs. The extension detects `docs/lunascape-docs.json`, opens the complete manual, and provides the INDEX and locale switcher.
+
+English is the default locale. Select `ja` in the locale switcher to open the corresponding file from the nearest `i18n/ja/` folder.
+
+## Authoring
+
+- Add or move pages in the filesystem; no generated sidebar file is used.
+- Set `navigation.title` and a 100-spaced `navigation.order` on default-language pages.
+- Localized pages may override `navigation.title` but do not own `navigation.order`.
+- Keep translated files and images at the same relative paths under each directory's `i18n/ja/` folder.
+- Use a numeric HTML width for screenshots so the chosen size is preserved by Lunascape Docs and GitHub.
+
+```html
+<img src="img/example.png" alt="Screen description" width="360" />
 ```
-
-## Local Development
-
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

@@ -1,35 +1,30 @@
 ---
-title: Overview
+navigation:
+  title: "Overview"
+  order: 100
 ---
 
-# Overview
+# Browser overview
 
-Lunascape provides a fast and secure mobile browser. Enhance your experience with built-in ad blocking and Web3 DApp support.
+Lunascape includes the tools needed for everyday browsing, content organization, privacy, file handling, and Web3 DApp access.
 
-## Table of Contents
+## Common tasks
 
-- [Ad Blocking](ad-blocking) - Block ads and manage allowlist settings
-- [Search](search) - Use multiple search engines and view search history
-- [Bookmarks](bookmarks) - Save and organize your favorite websites
-- [Reading List](reading-list) - Track pages you're reading with read/unread status
-- [Browsing History](browsing-history) - View and search your browsing history
-- [Tab Operations](tab-operations) - Manage multiple tabs and private browsing
-- [Download File](download-file) - Download and manage files from the web
-- [Share](share) - Share web pages with other apps
-- [Web3 DApp Support](web3-dapp-support) - Connect to Web3 DApps using your wallet
-- [Private Mode](private-mode) - Browse privately without saving data (iOS only)
-- [Browser Tool Menu](browser-tool-menu) - Access browser tools and settings
+| Task | Help topic |
+| --- | --- |
+| Search the web or change search engines | [Search](search.md) |
+| Save and organize a website | [Bookmarks](bookmarks.md) |
+| Save a page to read later | [Reading List](reading-list.md) |
+| Review or clear visited pages | [Browsing History](browsing-history.md) |
+| Open, close, or switch tabs | [Tab Operations](tab-operations.md) |
+| Block advertisements | [Ad Blocking](ad-blocking.md) |
+| Download a file | [File Downloads](download-file.md) |
+| Share or print a page | [Sharing](share.md) |
+| Use page actions such as Find in Page or Text Zoom | [Browser Tool Menu](browser-tool-menu.md) |
 
-## What This Section Covers
+## Privacy and Web3
 
-This section explains all the browser features and functions available in Lunascape. You'll learn how to:
+- [Private Mode](private-mode.md) explains private browsing on iOS.
+- [Web3 DApp Support](web3-dapp-support.md) explains how websites connect to the built-in wallet.
 
-- Block ads and customize ad blocking settings
-- Search efficiently using multiple search engines
-- Organize bookmarks and create reading lists
-- Manage your browsing history and tabs
-- Download files and share content
-- Use Web3 features for decentralized applications
-- Browse privately and access browser tools
-
-Lunascape Browser provides many functions and utilities to enhance your mobile browsing experience.
+> **Tip:** If a page does not reflect a changed setting, reload the page or open it again.

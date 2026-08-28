@@ -1,11 +1,24 @@
 ---
-title: Private Mode
+navigation:
+  title: "Private Mode"
+  order: 1100
 ---
 
 # Private Mode
 
-Browse privately without saving history or cookies (iOS only).
+Private Mode opens a separate browsing session without adding visited pages to normal history. This feature is available on iOS only.
 
-![Simulator Screenshot - iPhone 15 - 2025-09-10 at 11.34.37.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.34.37.png)
+## Start private browsing
 
-Note: Private mode is only available on iOS devices.
+1. Open **Private Browser** from the Home screen Tool Menu.
+2. Browse or open tabs as usual.
+3. Close Private Mode when you finish.
+
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.34.37.png" alt="Private Mode screen" width="360" />
+
+> **Important:** Private Mode reduces data stored by Lunascape, but it does not make you anonymous to websites, network operators, or internet providers. Downloads and files you explicitly save remain on the device.
+
+## Related topics
+
+- [Browsing History](browsing-history.md)
+- [Privacy Settings](../settings/privacy.md)

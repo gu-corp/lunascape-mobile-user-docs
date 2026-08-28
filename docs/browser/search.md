@@ -1,21 +1,33 @@
 ---
-title: Search
+navigation:
+  title: "Search"
+  order: 300
 ---
 
 # Search
 
-Quick search using the provided search engines.
-Lunascape provides the following search engines:
+Search from the address bar or Quick Search. Lunascape can use the following search providers:
 
 - Google
 - Bing
 - Amazon
-- Youtube
+- YouTube
 - Twitter/X
 - Wiki
 - DeepL
-- ebay
+- eBay
 
-A list of the user's search history is also displayed, making searching faster.
+## Search the web
 
-![Simulator Screenshot - iPhone 15 - 2025-09-10 at 14.22.00.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_14.22.00.png)
+1. Tap the address bar or Home screen Quick Search field.
+2. Enter a keyword or web address.
+3. Select a suggestion or submit the search.
+
+Recent searches may appear as suggestions. Search history behavior and the default provider can be changed in **Settings** > **Search**.
+
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_14.22.00.png" alt="Search screen" width="360" />
+
+## Related topics
+
+- [Quick Search](../home/quick-search.md)
+- [Search Settings](../settings/search.md)

@@ -1,44 +1,46 @@
 ---
-title: Asset List
+navigation:
+  title: "Asset List"
+  order: 400
 ---
 
 # Asset List
 
-This is the screen that shows the balance information and all tokens of the currently selected wallet, and a few other features.
+The Asset List shows tokens and balances for the currently selected account and network.
 
-![Simulator Screenshot - iPhone 16 - 2025-09-24 at 17.16.01.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.16.01.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.16.01.png" alt="Asset List screen 1" width="360" />
 
-## Total Balance
+## Total balance
 
-Same as Dashboard/Total Balance
+The estimated total is shown in the fiat currency selected in Wallet Settings. Market-price data can be delayed or unavailable and should not be treated as an exact sale value.
 
 ## All Assets
 
-Lunascape supports two types of lists: card and list.
+Choose a card or list layout.
 
-Card
+Card layout:
 
-![Screenshot 2025-09-24 at 17.19.50.png](img/Screenshot_2025-09-24_at_17.19.50.png)
+<img src="img/Screenshot_2025-09-24_at_17.19.50.png" alt="Asset List screen 2" width="560" />
 
-List
+List layout:
 
-![Screenshot 2025-09-24 at 17.20.11.png](img/Screenshot_2025-09-24_at_17.20.11.png)
+<img src="img/Screenshot_2025-09-24_at_17.20.11.png" alt="Asset List screen 3" width="560" />
 
-Supported sorting types:
+You can sort assets by:
 
-- Default: last viewed tokens will be at the top of the list
+- Default: recently viewed tokens first
 - Alphabetically (A-Z)
-- Declining balance ($ high-low)
+- Balance: highest estimated fiat value first
 
-![Screenshot 2025-09-24 at 17.24.08.png](img/Screenshot_2025-09-24_at_17.24.08.png)
+<img src="img/Screenshot_2025-09-24_at_17.24.08.png" alt="Asset List screen 4" width="560" />
 
-Users can also perform Edit/Delete token operations
+You can edit or remove a token from the displayed list. Removing a token does not transfer or destroy it on the blockchain; you can add it again later.
 
-![Screenshot 2025-09-24 at 17.26.33.png](img/Screenshot_2025-09-24_at_17.26.33.png)
+<img src="img/Screenshot_2025-09-24_at_17.26.33.png" alt="Asset List screen 5" width="560" />
 
-## Token Detail
+## Token details
 
-Display token information:
+Tap a token to view:
 
 - Token name
 - Token symbol
@@ -47,19 +49,21 @@ Display token information:
 - Token network
 - Transaction history
 
-![Simulator Screenshot - iPhone 16 - 2025-09-24 at 17.28.58.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.28.58.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.28.58.png" alt="Asset List screen 6" width="360" />
 
-Users can also perform quick actions on the displayed token:
+You can also select **Send**, **Receive**, or **Scan to Send**.
 
 - Send
 - Receive
 - Scan to Send
 
-## Edit Token
+## Edit a token
 
-The application only allows users to edit 2 values:
+You can change:
 
 - Decimals for display
 - Card Color
 
-![Simulator Screenshot - iPhone 16 - 2025-09-24 at 17.33.59.png](img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.33.59.png)
+<img src="img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.33.59.png" alt="Asset List screen 7" width="360" />
+
+> **Caution:** Changing display decimals affects how the amount is shown. Confirm the token's official decimal value before changing it.

@@ -1,29 +1,42 @@
 ---
-title: Browser Tool Menu
+navigation:
+  title: "Browser Tool Menu"
+  order: 1200
 ---
 
 # Browser Tool Menu
 
-Provides a range of tools to enhance users' web browsing experience.
+The Browser Tool Menu contains actions for the page and tab currently open.
 
-![Simulator Screenshot - iPhone 15 - 2025-09-10 at 13.51.32.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.51.32.png)
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.51.32.png" alt="Browser Tool Menu screen 1" width="360" />
 
-- Add to Bookmark
-- Add to Reading List
-- Add to Shortcuts
-- Search in page: search for words on a web page
+## Save or find content
 
-![Simulator Screenshot - iPhone 15 - 2025-09-10 at 13.54.30.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.54.30.png)
+- **Add to Bookmark** saves the page to Bookmarks.
+- **Add to Reading List** saves it for later.
+- **Add to Shortcuts** adds a Home screen shortcut.
+- **Find in Page** searches for text on the current page.
 
-- Text zoom: resize text by percentage.
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.54.30.png" alt="Browser Tool Menu screen 2" width="360" />
 
-![Simulator Screenshot - iPhone 15 - 2025-09-10 at 13.57.22.png](img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.57.22.png)
+## Adjust the page
 
-- Capture page: take a screenshot of the current web page, the image will be stored in the /Downloads folder.
-- Download Page: downloads the html of the current web page. For direct PDF file links, will download the PDF file.
-- Desktop site / Mobile site: change desktop/mobile view of website.
-- Print: connect to the printer and print the current web page.
-- Share
-- Reload
-- Close: close current tab
-- Close other tabs: close all open tabs excluding the current tab.
+- **Text Zoom** changes the page's text size by percentage.
+- **Desktop Site / Mobile Site** requests the corresponding version of the website.
+- **Reload** loads the current page again.
+
+<img src="img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.57.22.png" alt="Browser Tool Menu screen 3" width="360" />
+
+## Capture, download, or share
+
+- **Capture Page** saves an image of the current page in Downloads.
+- **Download Page** saves the page HTML. When the current address is a direct PDF link, it downloads the PDF.
+- **Print** opens the system print controls.
+- **Share** opens the system share sheet.
+
+## Manage tabs
+
+- **Close** closes the current tab.
+- **Close Other Tabs** closes every tab except the current one.
+
+> **Note:** Available actions can vary by platform and page type.
