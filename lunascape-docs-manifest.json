@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T09:29:57.116Z",
+  "generatedAt": "2026-09-01T14:27:42.244Z",
   "title": "Lunascape Mobile User Manual",
   "root": "docs",
   "repository": "github:gu-corp/lunascape-mobile-user-docs@master/docs",
@@ -1551,15 +1551,15 @@
     },
     {
       "path": "i18n/ja/introduction.md",
-      "size": 679
+      "size": 634
     },
     {
       "path": "introduction.md",
-      "size": 505
+      "size": 481
     },
     {
       "path": "lunascape-docs.json",
-      "size": 476
+      "size": 448
     }
   ]
 }
