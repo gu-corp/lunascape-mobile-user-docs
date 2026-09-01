@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Getting Started"
   order: 100
 ---
 

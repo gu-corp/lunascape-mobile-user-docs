@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Browser Shortcuts"
   order: 500
 ---
 

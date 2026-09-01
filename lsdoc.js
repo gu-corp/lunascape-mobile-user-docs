@@ -6017,6 +6017,12 @@ where Intersecting(x, y) {
     const heading = stripFrontMatter(markdown).match(/^#\s+(.+?)\s*#*\s*$/m);
     return heading ? heading[1].replace(/[`*_]/g, "").trim() : fallback;
   }
+  function resolveIndexTitle(landingMarkdown, configuredIndexTitle = "") {
+    const source = typeof landingMarkdown === "string" ? landingMarkdown : "";
+    const navigation = readNavigationMetadata(source);
+    const title = navigation.title || extractTitle(source, "");
+    return title || nonEmptyString(configuredIndexTitle, "INDEX");
+  }
   function humanizeName(name) {
     const base = String(name || "").split("/").pop() || "";
     if (/^(readme|index)(\.[^.]+)?$/i.test(base)) return "INDEX";
@@ -6071,6 +6077,9 @@ where Intersecting(x, y) {
       lines.push(line);
     }
     return void 0;
+  }
+  function hasRenderableBody(markdown) {
+    return stripFrontMatter(String(markdown || "")).replace(/<!--[\s\S]*?-->/g, "").trim() !== "";
   }
   function parseNavigationTitle(raw) {
     if (typeof raw !== "string") return void 0;
@@ -6188,9 +6197,12 @@ where Intersecting(x, y) {
       if (parts.some((part) => ignored.has(part))) continue;
       const name = parts.pop();
       const parent = directoryFor(parts);
+      const translated = entry.path !== canonical;
+      const defaultContent = translated ? defaultLanguageContent.get(canonical) : entry.content;
       const navigation = readNavigationMetadata(entry.content);
-      const { order } = entry.path === canonical ? navigation : readNavigationMetadata(defaultLanguageContent.get(canonical));
-      const heading = extractTitle(entry.content, "") || void 0;
+      const { order } = translated ? readNavigationMetadata(defaultContent) : navigation;
+      const suppressHeading = translated && defaultContent !== void 0 && !hasRenderableBody(defaultContent);
+      const heading = suppressHeading ? void 0 : extractTitle(entry.content, "") || void 0;
       const file = {
         type: "file",
         name,
@@ -6202,10 +6214,14 @@ where Intersecting(x, y) {
       if (/^(readme|index)\./i.test(name)) {
         if (parent === root) parent.children.push(file);
         else {
-          parent.indexPath = entry.path;
-          const descriptorTitle = navigation.title || heading;
-          if (descriptorTitle) parent.title = descriptorTitle;
-          if (order !== void 0) parent.order = order;
+          const rank = /^readme\./i.test(name) ? 0 : 1;
+          if (parent.descriptorRank === void 0 || rank < parent.descriptorRank) {
+            parent.descriptorRank = rank;
+            parent.indexPath = entry.path;
+            parent.title = navigation.title || heading || humanizeName(parent.name);
+            if (order === void 0) delete parent.order;
+            else parent.order = order;
+          }
         }
       } else {
         parent.children.push(file);
@@ -6234,6 +6250,7 @@ where Intersecting(x, y) {
         return fallback();
       });
       delete node.directoryMap;
+      delete node.descriptorRank;
     }
     finalize(root);
     return root.children;
@@ -7765,8 +7782,16 @@ where Intersecting(x, y) {
     state.treeOverrides = loadTreeOverrides(state.workspacePreferenceKey);
     state.treePreferences = normalizeTreePreferences(state.treeOverrides, state.projectConfig.tree);
     loadTreeExpansion();
-    elements["index-title"].textContent = state.projectConfig.indexTitle;
     state.entryByPath = new Map(state.allEntries.map((entry) => [entry.path, entry]));
+    const landing = state.entryByPath.get(state.projectConfig.startPage);
+    let landingSource = typeof landing?.content === "string" ? landing.content : "";
+    if (!landingSource && typeof landing?.file?.text === "function") {
+      try {
+        landingSource = await landing.file.text();
+      } catch {
+      }
+    }
+    elements["index-title"].textContent = resolveIndexTitle(landingSource, state.projectConfig.indexTitle);
     state.locales = uniqueLocales([state.defaultLocale, ...configuredAndDiscovered]);
     state.locale = state.locales.includes(state.locale) ? state.locale : state.defaultLocale || state.locales[0] || "";
     state.history = [];

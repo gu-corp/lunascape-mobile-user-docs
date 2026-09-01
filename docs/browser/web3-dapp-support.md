@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Web3 DApp Support"
   order: 1000
 ---
 

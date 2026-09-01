@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Default RSS Sources"
   order: 400
 ---
 

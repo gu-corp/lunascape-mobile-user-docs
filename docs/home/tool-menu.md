@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Tool Menu"
   order: 300
 ---
 

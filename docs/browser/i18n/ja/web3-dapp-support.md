@@ -1,8 +1,3 @@
----
-navigation:
-  title: "Web3 DAppサポート"
----
-
 # Web3 DAppサポート
 
 対応するWeb3 DAppへウォレットを接続し、アカウントの確認やトランザクションの承認ができます。

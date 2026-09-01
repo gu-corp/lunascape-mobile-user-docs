@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Share"
   order: 900
 ---
 

@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Reset to Default"
   order: 1100
 ---
 

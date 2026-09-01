@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "News Sources Selection"
   order: 300
 ---
 

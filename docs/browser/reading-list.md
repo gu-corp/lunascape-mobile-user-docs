@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Reading List"
   order: 500
 ---
 

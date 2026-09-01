@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Bookmarks"
   order: 400
 ---
 

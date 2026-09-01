@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T07:22:22.033Z",
+  "generatedAt": "2026-09-01T07:48:37.840Z",
   "title": "Lunascape Mobile User Manual",
   "root": "docs",
   "repository": "github:gu-corp/lunascape-mobile-user-docs@master/docs",
   "files": [
     {
       "path": "browser/ad-blocking.md",
-      "size": 875
+      "size": 852
     },
     {
       "path": "browser/bookmarks.md",
-      "size": 881
+      "size": 860
     },
     {
       "path": "browser/browser-tool-menu.md",
-      "size": 1462
+      "size": 1433
     },
     {
       "path": "browser/browsing-history.md",
-      "size": 836
+      "size": 808
     },
     {
       "path": "browser/download-file.md",
@@ -27,19 +27,19 @@
     },
     {
       "path": "browser/i18n/ja/ad-blocking.md",
-      "size": 1251
+      "size": 1200
     },
     {
       "path": "browser/i18n/ja/bookmarks.md",
-      "size": 989
+      "size": 938
     },
     {
       "path": "browser/i18n/ja/browser-tool-menu.md",
-      "size": 2267
+      "size": 2201
     },
     {
       "path": "browser/i18n/ja/browsing-history.md",
-      "size": 993
+      "size": 936
     },
     {
       "path": "browser/i18n/ja/download-file.md",
@@ -123,11 +123,11 @@
     },
     {
       "path": "browser/i18n/ja/private-mode.md",
-      "size": 1033
+      "size": 973
     },
     {
       "path": "browser/i18n/ja/reading-list.md",
-      "size": 1206
+      "size": 1146
     },
     {
       "path": "browser/i18n/ja/README.md",
@@ -135,19 +135,19 @@
     },
     {
       "path": "browser/i18n/ja/search.md",
-      "size": 888
+      "size": 849
     },
     {
       "path": "browser/i18n/ja/share.md",
-      "size": 981
+      "size": 942
     },
     {
       "path": "browser/i18n/ja/tab-operations.md",
-      "size": 1580
+      "size": 1535
     },
     {
       "path": "browser/i18n/ja/web3-dapp-support.md",
-      "size": 1458
+      "size": 1404
     },
     {
       "path": "browser/img/Screenshot_2025-09-09_at_17.42.47.png",
@@ -227,11 +227,11 @@
     },
     {
       "path": "browser/private-mode.md",
-      "size": 812
+      "size": 788
     },
     {
       "path": "browser/reading-list.md",
-      "size": 822
+      "size": 798
     },
     {
       "path": "browser/README.md",
@@ -239,31 +239,31 @@
     },
     {
       "path": "browser/search.md",
-      "size": 741
+      "size": 723
     },
     {
       "path": "browser/share.md",
-      "size": 925
+      "size": 908
     },
     {
       "path": "browser/tab-operations.md",
-      "size": 1369
+      "size": 1343
     },
     {
       "path": "browser/web3-dapp-support.md",
-      "size": 1206
+      "size": 1177
     },
     {
       "path": "getting-started.md",
-      "size": 3488
+      "size": 3461
     },
     {
       "path": "home/browser-shortcuts.md",
-      "size": 731
+      "size": 702
     },
     {
       "path": "home/i18n/ja/browser-shortcuts.md",
-      "size": 1025
+      "size": 959
     },
     {
       "path": "home/i18n/ja/img/Screenshot_2025-09-08_at_14.42.33.png",
@@ -307,7 +307,7 @@
     },
     {
       "path": "home/i18n/ja/news.md",
-      "size": 929
+      "size": 884
     },
     {
       "path": "home/i18n/ja/overview.md",
@@ -323,7 +323,7 @@
     },
     {
       "path": "home/i18n/ja/tool-menu.md",
-      "size": 1242
+      "size": 1188
     },
     {
       "path": "home/i18n/ja/wallets.md",
@@ -379,7 +379,7 @@
     },
     {
       "path": "home/quick-search.md",
-      "size": 976
+      "size": 952
     },
     {
       "path": "home/README.md",
@@ -387,7 +387,7 @@
     },
     {
       "path": "home/tool-menu.md",
-      "size": 896
+      "size": 875
     },
     {
       "path": "home/wallets.md",
@@ -395,7 +395,7 @@
     },
     {
       "path": "i18n/ja/getting-started.md",
-      "size": 5076
+      "size": 5031
     },
     {
       "path": "lunascape-docs.json",
@@ -403,11 +403,11 @@
     },
     {
       "path": "news/default-rss-sources.md",
-      "size": 904
+      "size": 873
     },
     {
       "path": "news/i18n/ja/default-rss-sources.md",
-      "size": 1164
+      "size": 1104
     },
     {
       "path": "news/i18n/ja/img/IMG_3420_2.png",
@@ -439,7 +439,7 @@
     },
     {
       "path": "news/i18n/ja/news-sources-selection.md",
-      "size": 950
+      "size": 890
     },
     {
       "path": "news/i18n/ja/overview.md",
@@ -479,7 +479,7 @@
     },
     {
       "path": "news/news-sources-selection.md",
-      "size": 763
+      "size": 729
     },
     {
       "path": "news/overview.md",
@@ -695,7 +695,7 @@
     },
     {
       "path": "settings/i18n/ja/reset-to-default.md",
-      "size": 812
+      "size": 749
     },
     {
       "path": "settings/i18n/ja/search.md",
@@ -875,7 +875,7 @@
     },
     {
       "path": "settings/reset-to-default.md",
-      "size": 637
+      "size": 609
     },
     {
       "path": "settings/search.md",
@@ -891,7 +891,7 @@
     },
     {
       "path": "wallet/asset-list.md",
-      "size": 1911
+      "size": 1889
     },
     {
       "path": "wallet/create-wallet.md",
@@ -899,7 +899,7 @@
     },
     {
       "path": "wallet/i18n/ja/asset-list.md",
-      "size": 2436
+      "size": 2385
     },
     {
       "path": "wallet/i18n/ja/create-wallet.md",
@@ -1203,7 +1203,7 @@
     },
     {
       "path": "wallet/i18n/ja/wallet-dashboard.md",
-      "size": 3854
+      "size": 3785
     },
     {
       "path": "wallet/i18n/ja/wallet-operations.md",
@@ -1211,11 +1211,11 @@
     },
     {
       "path": "wallet/i18n/ja/wallet-settings.md",
-      "size": 9627
+      "size": 9573
     },
     {
       "path": "wallet/i18n/ja/walletconnect.md",
-      "size": 4598
+      "size": 4552
     },
     {
       "path": "wallet/img/IMG_0823.png",
@@ -1515,7 +1515,7 @@
     },
     {
       "path": "wallet/wallet-dashboard.md",
-      "size": 2908
+      "size": 2880
     },
     {
       "path": "wallet/wallet-operations.md",
@@ -1523,11 +1523,11 @@
     },
     {
       "path": "wallet/wallet-settings.md",
-      "size": 7364
+      "size": 7337
     },
     {
       "path": "wallet/walletconnect.md",
-      "size": 3725
+      "size": 3700
     }
   ]
 }

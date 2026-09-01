@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Search"
   order: 300
 ---
 

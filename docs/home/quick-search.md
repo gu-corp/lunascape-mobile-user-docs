@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Quick Search"
   order: 200
 ---
 

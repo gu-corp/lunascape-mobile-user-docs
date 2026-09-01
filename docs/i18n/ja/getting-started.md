@@ -1,8 +1,3 @@
----
-navigation:
-  title: "はじめに"
----
-
 # はじめに
 
 Lunascape Mobileは、日常的なWebブラウジングに広告ブロック、RSSニュースリーダー、Web3ウォレットを統合したモバイルブラウザです。
