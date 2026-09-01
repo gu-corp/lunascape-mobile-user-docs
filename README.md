@@ -29,8 +29,8 @@ Replace the contents of `gh-pages` with `dist-site/` and push. `--repo` is what 
 
 ## Content layout
 
-- `docs/` is the canonical English document root.
-- Each directory's `i18n/ja/` folder contains its Japanese counterparts. For example, `docs/browser/ad-blocking.md` is translated at `docs/browser/i18n/ja/ad-blocking.md`.
+- `docs/` is the canonical English document root. `introduction.md` opens the manual, `getting-started/` covers downloading and troubleshooting, and `features/` holds one folder per area of the app.
+- Each directory's `i18n/ja/` folder contains its Japanese counterparts. For example, `docs/features/browser/ad-blocking.md` is translated at `docs/features/browser/i18n/ja/ad-blocking.md`.
 - `docs/lunascape-docs.json` defines the Lunascape Docs workspace.
 - Each page owns its INDEX order, and where needed its title, in `navigation` front matter.
 - Smartphone screenshots use explicit, portable HTML widths: 360px for tall screens and 560px for wider crops.

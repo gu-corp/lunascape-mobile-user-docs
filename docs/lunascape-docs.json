@@ -2,7 +2,7 @@
   "id": "lunascape-mobile-user-manual",
   "title": "Lunascape Mobile User Manual",
   "indexTitle": "Contents",
-  "startPage": "getting-started.md",
+  "startPage": "introduction.md",
   "defaultLocale": "en",
   "locales": [
     "en",
