@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Introduction"
   order: 100
 ---
 
