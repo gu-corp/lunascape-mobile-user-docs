@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Asset List"
   order: 400
 ---
 

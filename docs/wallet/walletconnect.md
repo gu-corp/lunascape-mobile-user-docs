@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "WalletConnect"
   order: 600
 ---
 

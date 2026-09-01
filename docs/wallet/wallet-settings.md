@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Wallet Settings"
   order: 500
 ---
 

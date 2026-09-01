@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Browser Tool Menu"
   order: 1200
 ---
 

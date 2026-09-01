@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Wallet Dashboard"
   order: 300
 ---
 

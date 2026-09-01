@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Private Mode"
   order: 1100
 ---
 

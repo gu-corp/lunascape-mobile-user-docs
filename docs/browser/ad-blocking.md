@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Ad Blocking"
   order: 200
 ---
 

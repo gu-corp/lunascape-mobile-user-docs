@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Browsing History"
   order: 600
 ---
 

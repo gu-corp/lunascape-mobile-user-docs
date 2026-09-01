@@ -1,8 +1,3 @@
----
-navigation:
-  title: "WalletConnect"
----
-
 # WalletConnect
 
 WalletConnectは、QRコードまたはディープリンクを使い、ウォレットとDAppの間で接続、署名、取引の要求をやり取りするオープンプロトコルです。DAppに秘密鍵は渡りませんが、要求内容は利用者自身で確認する必要があります。

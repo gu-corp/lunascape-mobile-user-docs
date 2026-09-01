@@ -1,6 +1,5 @@
 ---
 navigation:
-  title: "Tab Operations"
   order: 700
 ---
 
