@@ -1,1533 +1,1565 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T08:28:29.472Z",
+  "generatedAt": "2026-09-01T09:29:57.116Z",
   "title": "Lunascape Mobile User Manual",
   "root": "docs",
   "repository": "github:gu-corp/lunascape-mobile-user-docs@master/docs",
   "files": [
     {
-      "path": "browser/ad-blocking.md",
+      "path": "features/browser/ad-blocking.md",
       "size": 852
     },
     {
-      "path": "browser/bookmarks.md",
+      "path": "features/browser/bookmarks.md",
       "size": 860
     },
     {
-      "path": "browser/browser-tool-menu.md",
+      "path": "features/browser/browser-tool-menu.md",
       "size": 1433
     },
     {
-      "path": "browser/browsing-history.md",
+      "path": "features/browser/browsing-history.md",
       "size": 808
     },
     {
-      "path": "browser/download-file.md",
+      "path": "features/browser/download-file.md",
       "size": 1277
     },
     {
-      "path": "browser/i18n/ja/ad-blocking.md",
+      "path": "features/browser/i18n/ja/ad-blocking.md",
       "size": 1200
     },
     {
-      "path": "browser/i18n/ja/bookmarks.md",
+      "path": "features/browser/i18n/ja/bookmarks.md",
       "size": 938
     },
     {
-      "path": "browser/i18n/ja/browser-tool-menu.md",
+      "path": "features/browser/i18n/ja/browser-tool-menu.md",
       "size": 2201
     },
     {
-      "path": "browser/i18n/ja/browsing-history.md",
+      "path": "features/browser/i18n/ja/browsing-history.md",
       "size": 936
     },
     {
-      "path": "browser/i18n/ja/download-file.md",
+      "path": "features/browser/i18n/ja/download-file.md",
       "size": 1668
     },
     {
-      "path": "browser/i18n/ja/img/Screenshot_2025-09-09_at_17.42.47.png",
+      "path": "features/browser/i18n/ja/img/Screenshot_2025-09-09_at_17.42.47.png",
       "size": 81631
     },
     {
-      "path": "browser/i18n/ja/img/Screenshot_2025-09-09_at_17.43.14.png",
+      "path": "features/browser/i18n/ja/img/Screenshot_2025-09-09_at_17.43.14.png",
       "size": 376499
     },
     {
-      "path": "browser/i18n/ja/img/Screenshot_2025-09-10_at_10.39.20.png",
+      "path": "features/browser/i18n/ja/img/Screenshot_2025-09-10_at_10.39.20.png",
       "size": 109821
     },
     {
-      "path": "browser/i18n/ja/img/Screenshot_2025-09-10_at_10.39.46.png",
+      "path": "features/browser/i18n/ja/img/Screenshot_2025-09-10_at_10.39.46.png",
       "size": 129630
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_15.35.14.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_15.35.14.png",
       "size": 188846
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_16.48.45.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_16.48.45.png",
       "size": 75958
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_16.55.19.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_16.55.19.png",
       "size": 112933
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_17.03.36.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_17.03.36.png",
       "size": 170963
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.39.20.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.39.20.png",
       "size": 0
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.39.46.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.39.46.png",
       "size": 0
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.54.16.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.54.16.png",
       "size": 875069
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.54.24.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.54.24.png",
       "size": 1829596
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.00.50.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.00.50.png",
       "size": 228936
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.34.37.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.34.37.png",
       "size": 306815
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.51.32.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.51.32.png",
       "size": 172048
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.54.30.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.54.30.png",
       "size": 168535
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.57.22.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.57.22.png",
       "size": 162661
     },
     {
-      "path": "browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_14.22.00.png",
+      "path": "features/browser/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_14.22.00.png",
       "size": 157179
     },
     {
-      "path": "browser/i18n/ja/overview.md",
+      "path": "features/browser/i18n/ja/overview.md",
       "size": 1421
     },
     {
-      "path": "browser/i18n/ja/private-mode.md",
+      "path": "features/browser/i18n/ja/private-mode.md",
       "size": 973
     },
     {
-      "path": "browser/i18n/ja/reading-list.md",
+      "path": "features/browser/i18n/ja/reading-list.md",
       "size": 1146
     },
     {
-      "path": "browser/i18n/ja/README.md",
+      "path": "features/browser/i18n/ja/README.md",
       "size": 44
     },
     {
-      "path": "browser/i18n/ja/search.md",
+      "path": "features/browser/i18n/ja/search.md",
       "size": 849
     },
     {
-      "path": "browser/i18n/ja/share.md",
+      "path": "features/browser/i18n/ja/share.md",
       "size": 942
     },
     {
-      "path": "browser/i18n/ja/tab-operations.md",
+      "path": "features/browser/i18n/ja/tab-operations.md",
       "size": 1535
     },
     {
-      "path": "browser/i18n/ja/web3-dapp-support.md",
+      "path": "features/browser/i18n/ja/web3-dapp-support.md",
       "size": 1404
     },
     {
-      "path": "browser/img/Screenshot_2025-09-09_at_17.42.47.png",
+      "path": "features/browser/img/Screenshot_2025-09-09_at_17.42.47.png",
       "size": 81631
     },
     {
-      "path": "browser/img/Screenshot_2025-09-09_at_17.43.14.png",
+      "path": "features/browser/img/Screenshot_2025-09-09_at_17.43.14.png",
       "size": 334403
     },
     {
-      "path": "browser/img/Screenshot_2025-09-10_at_10.39.20.png",
+      "path": "features/browser/img/Screenshot_2025-09-10_at_10.39.20.png",
       "size": 109821
     },
     {
-      "path": "browser/img/Screenshot_2025-09-10_at_10.39.46.png",
+      "path": "features/browser/img/Screenshot_2025-09-10_at_10.39.46.png",
       "size": 119627
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_15.35.14.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_15.35.14.png",
       "size": 200036
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_16.48.45.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_16.48.45.png",
       "size": 165778
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_16.55.19.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_16.55.19.png",
       "size": 158327
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_17.03.36.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-09_at_17.03.36.png",
       "size": 241624
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.39.20.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.39.20.png",
       "size": 0
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.39.46.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.39.46.png",
       "size": 0
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.54.16.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.54.16.png",
       "size": 875069
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.54.24.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_10.54.24.png",
       "size": 1829596
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.00.50.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.00.50.png",
       "size": 228936
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.34.37.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_11.34.37.png",
       "size": 241443
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.51.32.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.51.32.png",
       "size": 212973
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.54.30.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.54.30.png",
       "size": 236032
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.57.22.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_13.57.22.png",
       "size": 248144
     },
     {
-      "path": "browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_14.22.00.png",
+      "path": "features/browser/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_14.22.00.png",
       "size": 281116
     },
     {
-      "path": "browser/overview.md",
+      "path": "features/browser/overview.md",
       "size": 1132
     },
     {
-      "path": "browser/private-mode.md",
+      "path": "features/browser/private-mode.md",
       "size": 788
     },
     {
-      "path": "browser/reading-list.md",
+      "path": "features/browser/reading-list.md",
       "size": 798
     },
     {
-      "path": "browser/README.md",
+      "path": "features/browser/README.md",
       "size": 52
     },
     {
-      "path": "browser/search.md",
+      "path": "features/browser/search.md",
       "size": 723
     },
     {
-      "path": "browser/share.md",
+      "path": "features/browser/share.md",
       "size": 908
     },
     {
-      "path": "browser/tab-operations.md",
+      "path": "features/browser/tab-operations.md",
       "size": 1343
     },
     {
-      "path": "browser/web3-dapp-support.md",
+      "path": "features/browser/web3-dapp-support.md",
       "size": 1177
     },
     {
-      "path": "getting-started.md",
-      "size": 1581
-    },
-    {
-      "path": "home/browser-shortcuts.md",
+      "path": "features/home/browser-shortcuts.md",
       "size": 702
     },
     {
-      "path": "home/i18n/ja/browser-shortcuts.md",
+      "path": "features/home/i18n/ja/browser-shortcuts.md",
       "size": 959
     },
     {
-      "path": "home/i18n/ja/img/Screenshot_2025-09-08_at_14.42.33.png",
+      "path": "features/home/i18n/ja/img/Screenshot_2025-09-08_at_14.42.33.png",
       "size": 155912
     },
     {
-      "path": "home/i18n/ja/img/Screenshot_2025-09-08_at_14.46.55.png",
+      "path": "features/home/i18n/ja/img/Screenshot_2025-09-08_at_14.46.55.png",
       "size": 150417
     },
     {
-      "path": "home/i18n/ja/img/Screenshot_2025-09-08_at_14.48.33.png",
+      "path": "features/home/i18n/ja/img/Screenshot_2025-09-08_at_14.48.33.png",
       "size": 600125
     },
     {
-      "path": "home/i18n/ja/img/Screenshot_2025-09-08_at_16.29.57.png",
+      "path": "features/home/i18n/ja/img/Screenshot_2025-09-08_at_16.29.57.png",
       "size": 195791
     },
     {
-      "path": "home/i18n/ja/img/Screenshot_2025-09-08_at_16.31.15.png",
+      "path": "features/home/i18n/ja/img/Screenshot_2025-09-08_at_16.31.15.png",
       "size": 415395
     },
     {
-      "path": "home/i18n/ja/img/Screenshot_2025-09-08_at_16.31.44.png",
+      "path": "features/home/i18n/ja/img/Screenshot_2025-09-08_at_16.31.44.png",
       "size": 335759
     },
     {
-      "path": "home/i18n/ja/img/Screenshot_2025-09-08_at_16.33.33.png",
+      "path": "features/home/i18n/ja/img/Screenshot_2025-09-08_at_16.33.33.png",
       "size": 463667
     },
     {
-      "path": "home/i18n/ja/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28 1.png",
+      "path": "features/home/i18n/ja/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28 1.png",
       "size": 672207
     },
     {
-      "path": "home/i18n/ja/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28.png",
+      "path": "features/home/i18n/ja/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28.png",
       "size": 1519002
     },
     {
-      "path": "home/i18n/ja/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28%201.png",
+      "path": "features/home/i18n/ja/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28%201.png",
       "size": 0
     },
     {
-      "path": "home/i18n/ja/news.md",
+      "path": "features/home/i18n/ja/news.md",
       "size": 884
     },
     {
-      "path": "home/i18n/ja/overview.md",
+      "path": "features/home/i18n/ja/overview.md",
       "size": 1393
     },
     {
-      "path": "home/i18n/ja/quick-search.md",
+      "path": "features/home/i18n/ja/quick-search.md",
       "size": 1295
     },
     {
-      "path": "home/i18n/ja/README.md",
+      "path": "features/home/i18n/ja/README.md",
       "size": 41
     },
     {
-      "path": "home/i18n/ja/tool-menu.md",
+      "path": "features/home/i18n/ja/tool-menu.md",
       "size": 1188
     },
     {
-      "path": "home/i18n/ja/wallets.md",
+      "path": "features/home/i18n/ja/wallets.md",
       "size": 1153
     },
     {
-      "path": "home/img/Screenshot_2025-09-08_at_14.42.33.png",
+      "path": "features/home/img/Screenshot_2025-09-08_at_14.42.33.png",
       "size": 83698
     },
     {
-      "path": "home/img/Screenshot_2025-09-08_at_14.46.55.png",
+      "path": "features/home/img/Screenshot_2025-09-08_at_14.46.55.png",
       "size": 89807
     },
     {
-      "path": "home/img/Screenshot_2025-09-08_at_14.48.33.png",
+      "path": "features/home/img/Screenshot_2025-09-08_at_14.48.33.png",
       "size": 166605
     },
     {
-      "path": "home/img/Screenshot_2025-09-08_at_16.29.57.png",
+      "path": "features/home/img/Screenshot_2025-09-08_at_16.29.57.png",
       "size": 124302
     },
     {
-      "path": "home/img/Screenshot_2025-09-08_at_16.31.15.png",
+      "path": "features/home/img/Screenshot_2025-09-08_at_16.31.15.png",
       "size": 190414
     },
     {
-      "path": "home/img/Screenshot_2025-09-08_at_16.31.44.png",
+      "path": "features/home/img/Screenshot_2025-09-08_at_16.31.44.png",
       "size": 275812
     },
     {
-      "path": "home/img/Screenshot_2025-09-08_at_16.33.33.png",
+      "path": "features/home/img/Screenshot_2025-09-08_at_16.33.33.png",
       "size": 136026
     },
     {
-      "path": "home/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28 1.png",
+      "path": "features/home/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28 1.png",
       "size": 771830
     },
     {
-      "path": "home/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28.png",
+      "path": "features/home/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28.png",
       "size": 1219896
     },
     {
-      "path": "home/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28%201.png",
+      "path": "features/home/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.25.28%201.png",
       "size": 0
     },
     {
-      "path": "home/news.md",
+      "path": "features/home/news.md",
       "size": 692
     },
     {
-      "path": "home/overview.md",
+      "path": "features/home/overview.md",
       "size": 1101
     },
     {
-      "path": "home/quick-search.md",
+      "path": "features/home/quick-search.md",
       "size": 952
     },
     {
-      "path": "home/README.md",
+      "path": "features/home/README.md",
       "size": 49
     },
     {
-      "path": "home/tool-menu.md",
+      "path": "features/home/tool-menu.md",
       "size": 875
     },
     {
-      "path": "home/wallets.md",
+      "path": "features/home/wallets.md",
       "size": 831
     },
     {
-      "path": "i18n/ja/getting-started.md",
-      "size": 2172
-    },
-    {
-      "path": "lunascape-docs.json",
-      "size": 479
-    },
-    {
-      "path": "news/default-rss-sources.md",
-      "size": 873
-    },
-    {
-      "path": "news/i18n/ja/default-rss-sources.md",
-      "size": 1104
-    },
-    {
-      "path": "news/i18n/ja/img/IMG_3420_2.png",
-      "size": 87683
-    },
-    {
-      "path": "news/i18n/ja/img/IMG_3421_2.png",
-      "size": 268372
-    },
-    {
-      "path": "news/i18n/ja/img/IMG_3422_2.png",
-      "size": 222497
-    },
-    {
-      "path": "news/i18n/ja/img/IMG_3424.png",
-      "size": 162050
-    },
-    {
-      "path": "news/i18n/ja/img/IMG_3426.png",
-      "size": 227081
-    },
-    {
-      "path": "news/i18n/ja/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.23.09.png",
-      "size": 920487
-    },
-    {
-      "path": "news/i18n/ja/news-setting.md",
-      "size": 1136
-    },
-    {
-      "path": "news/i18n/ja/news-sources-selection.md",
-      "size": 890
-    },
-    {
-      "path": "news/i18n/ja/overview.md",
-      "size": 1257
-    },
-    {
-      "path": "news/i18n/ja/README.md",
+      "path": "features/i18n/ja/README.md",
       "size": 44
     },
     {
-      "path": "news/img/IMG_3420_2.png",
-      "size": 80685
+      "path": "features/news/default-rss-sources.md",
+      "size": 873
     },
     {
-      "path": "news/img/IMG_3421_2.png",
-      "size": 171490
+      "path": "features/news/i18n/ja/default-rss-sources.md",
+      "size": 1104
     },
     {
-      "path": "news/img/IMG_3422_2.png",
+      "path": "features/news/i18n/ja/img/IMG_3420_2.png",
+      "size": 87683
+    },
+    {
+      "path": "features/news/i18n/ja/img/IMG_3421_2.png",
+      "size": 268372
+    },
+    {
+      "path": "features/news/i18n/ja/img/IMG_3422_2.png",
       "size": 222497
     },
     {
-      "path": "news/img/IMG_3424.png",
-      "size": 138564
+      "path": "features/news/i18n/ja/img/IMG_3424.png",
+      "size": 162050
     },
     {
-      "path": "news/img/IMG_3426.png",
+      "path": "features/news/i18n/ja/img/IMG_3426.png",
       "size": 227081
     },
     {
-      "path": "news/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.23.09.png",
+      "path": "features/news/i18n/ja/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.23.09.png",
+      "size": 920487
+    },
+    {
+      "path": "features/news/i18n/ja/news-setting.md",
+      "size": 1136
+    },
+    {
+      "path": "features/news/i18n/ja/news-sources-selection.md",
+      "size": 890
+    },
+    {
+      "path": "features/news/i18n/ja/overview.md",
+      "size": 1257
+    },
+    {
+      "path": "features/news/i18n/ja/README.md",
+      "size": 44
+    },
+    {
+      "path": "features/news/img/IMG_3420_2.png",
+      "size": 80685
+    },
+    {
+      "path": "features/news/img/IMG_3421_2.png",
+      "size": 171490
+    },
+    {
+      "path": "features/news/img/IMG_3422_2.png",
+      "size": 222497
+    },
+    {
+      "path": "features/news/img/IMG_3424.png",
+      "size": 138564
+    },
+    {
+      "path": "features/news/img/IMG_3426.png",
+      "size": 227081
+    },
+    {
+      "path": "features/news/img/Simulator_Screenshot_-_iPhone_14_Pro_-_2025-10-01_at_17.23.09.png",
       "size": 1797187
     },
     {
-      "path": "news/news-setting.md",
+      "path": "features/news/news-setting.md",
       "size": 839
     },
     {
-      "path": "news/news-sources-selection.md",
+      "path": "features/news/news-sources-selection.md",
       "size": 729
     },
     {
-      "path": "news/overview.md",
+      "path": "features/news/overview.md",
       "size": 991
     },
     {
-      "path": "news/README.md",
+      "path": "features/news/README.md",
       "size": 49
     },
     {
-      "path": "settings/bookmarks.md",
-      "size": 1265
-    },
-    {
-      "path": "settings/default-browser.md",
-      "size": 759
-    },
-    {
-      "path": "settings/display.md",
-      "size": 3795
-    },
-    {
-      "path": "settings/general.md",
-      "size": 3665
-    },
-    {
-      "path": "settings/history.md",
-      "size": 1157
-    },
-    {
-      "path": "settings/i18n/ja/bookmarks.md",
-      "size": 1777
-    },
-    {
-      "path": "settings/i18n/ja/default-browser.md",
-      "size": 984
-    },
-    {
-      "path": "settings/i18n/ja/display.md",
-      "size": 4815
-    },
-    {
-      "path": "settings/i18n/ja/general.md",
-      "size": 4834
-    },
-    {
-      "path": "settings/i18n/ja/history.md",
-      "size": 1567
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-10_at_16.45.03.png",
-      "size": 126486
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-10_at_17.02.09.png",
-      "size": 151087
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-10_at_17.27.51.png",
-      "size": 131433
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-10_at_17.33.21.png",
-      "size": 405652
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-10_at_17.37.26.png",
-      "size": 100310
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_09.31.59.png",
-      "size": 130595
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_10.10.18.png",
-      "size": 520768
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_10.12.02.png",
-      "size": 371288
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_10.14.54.png",
-      "size": 213741
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_10.17.47.png",
-      "size": 169810
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_10.44.06.png",
-      "size": 46777
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_10.44.38.png",
-      "size": 25125
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_13.23.57.png",
-      "size": 270071
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_13.35.05.png",
-      "size": 232874
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_13.46.33.png",
-      "size": 136761
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_13.47.06.png",
-      "size": 180230
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_13.56.09.png",
-      "size": 31852
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_14.24.58.png",
-      "size": 163692
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_14.28.15.png",
-      "size": 275660
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_14.33.17.png",
-      "size": 122933
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_14.35.29.png",
-      "size": 449309
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_14.41.15.png",
-      "size": 317918
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_14.42.55.png",
-      "size": 320541
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_15.49.35.png",
-      "size": 176450
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_16.29.06.png",
-      "size": 269780
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_16.31.31.png",
-      "size": 132448
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_16.52.12.png",
-      "size": 109960
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_17.08.09.png",
-      "size": 105732
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_17.16.34.png",
-      "size": 117778
-    },
-    {
-      "path": "settings/i18n/ja/img/Screenshot_2025-09-11_at_17.21.33.png",
-      "size": 261395
-    },
-    {
-      "path": "settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_16.40.24.png",
-      "size": 170345
-    },
-    {
-      "path": "settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_17.34.35.png",
-      "size": 125179
-    },
-    {
-      "path": "settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_10.03.33.png",
-      "size": 99832
-    },
-    {
-      "path": "settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.03.04.png",
-      "size": 212490
-    },
-    {
-      "path": "settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.03.17.png",
-      "size": 218049
-    },
-    {
-      "path": "settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.06.46.png",
-      "size": 107456
-    },
-    {
-      "path": "settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.22.45.png",
-      "size": 215197
-    },
-    {
-      "path": "settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.24.47.png",
-      "size": 292625
-    },
-    {
-      "path": "settings/i18n/ja/overview.md",
-      "size": 1412
-    },
-    {
-      "path": "settings/i18n/ja/privacy.md",
-      "size": 1415
-    },
-    {
-      "path": "settings/i18n/ja/README.md",
-      "size": 38
-    },
-    {
-      "path": "settings/i18n/ja/reset-to-default.md",
-      "size": 749
-    },
-    {
-      "path": "settings/i18n/ja/search.md",
-      "size": 1385
-    },
-    {
-      "path": "settings/i18n/ja/support.md",
-      "size": 1492
-    },
-    {
-      "path": "settings/i18n/ja/wallet.md",
-      "size": 1101
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-10_at_16.45.03.png",
-      "size": 73273
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-10_at_17.02.09.png",
-      "size": 99382
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-10_at_17.27.51.png",
-      "size": 72787
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-10_at_17.33.21.png",
-      "size": 143962
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-10_at_17.37.26.png",
-      "size": 53973
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_09.31.59.png",
-      "size": 51124
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_10.10.18.png",
-      "size": 147151
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_10.12.02.png",
-      "size": 116219
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_10.14.54.png",
-      "size": 128421
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_10.17.47.png",
-      "size": 162796
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_10.44.06.png",
-      "size": 46777
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_10.44.38.png",
-      "size": 25125
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_13.23.57.png",
-      "size": 302185
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_13.35.05.png",
-      "size": 118705
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_13.46.33.png",
-      "size": 58158
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_13.47.06.png",
-      "size": 77299
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_13.56.09.png",
-      "size": 30916
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_14.24.58.png",
-      "size": 74441
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_14.28.15.png",
-      "size": 132427
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_14.33.17.png",
-      "size": 72426
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_14.35.29.png",
-      "size": 157621
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_14.41.15.png",
-      "size": 175379
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_14.42.55.png",
-      "size": 130643
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_15.49.35.png",
-      "size": 102481
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_16.29.06.png",
-      "size": 157199
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_16.31.31.png",
-      "size": 64692
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_16.52.12.png",
-      "size": 43041
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_17.08.09.png",
-      "size": 51591
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_17.16.34.png",
-      "size": 51487
-    },
-    {
-      "path": "settings/img/Screenshot_2025-09-11_at_17.21.33.png",
-      "size": 71460
-    },
-    {
-      "path": "settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_16.40.24.png",
-      "size": 201774
-    },
-    {
-      "path": "settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_17.34.35.png",
-      "size": 178134
-    },
-    {
-      "path": "settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_10.03.33.png",
-      "size": 197354
-    },
-    {
-      "path": "settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.03.04.png",
-      "size": 212490
-    },
-    {
-      "path": "settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.03.17.png",
-      "size": 218049
-    },
-    {
-      "path": "settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.06.46.png",
-      "size": 165138
-    },
-    {
-      "path": "settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.22.45.png",
-      "size": 290612
-    },
-    {
-      "path": "settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.24.47.png",
-      "size": 359163
-    },
-    {
-      "path": "settings/overview.md",
-      "size": 1123
-    },
-    {
-      "path": "settings/privacy.md",
-      "size": 1030
-    },
-    {
-      "path": "settings/README.md",
+      "path": "features/README.md",
       "size": 53
     },
     {
-      "path": "settings/reset-to-default.md",
+      "path": "features/settings/bookmarks.md",
+      "size": 1265
+    },
+    {
+      "path": "features/settings/default-browser.md",
+      "size": 759
+    },
+    {
+      "path": "features/settings/display.md",
+      "size": 3795
+    },
+    {
+      "path": "features/settings/general.md",
+      "size": 3665
+    },
+    {
+      "path": "features/settings/history.md",
+      "size": 1157
+    },
+    {
+      "path": "features/settings/i18n/ja/bookmarks.md",
+      "size": 1777
+    },
+    {
+      "path": "features/settings/i18n/ja/default-browser.md",
+      "size": 984
+    },
+    {
+      "path": "features/settings/i18n/ja/display.md",
+      "size": 4815
+    },
+    {
+      "path": "features/settings/i18n/ja/general.md",
+      "size": 4834
+    },
+    {
+      "path": "features/settings/i18n/ja/history.md",
+      "size": 1567
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-10_at_16.45.03.png",
+      "size": 126486
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-10_at_17.02.09.png",
+      "size": 151087
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-10_at_17.27.51.png",
+      "size": 131433
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-10_at_17.33.21.png",
+      "size": 405652
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-10_at_17.37.26.png",
+      "size": 100310
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_09.31.59.png",
+      "size": 130595
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_10.10.18.png",
+      "size": 520768
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_10.12.02.png",
+      "size": 371288
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_10.14.54.png",
+      "size": 213741
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_10.17.47.png",
+      "size": 169810
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_10.44.06.png",
+      "size": 46777
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_10.44.38.png",
+      "size": 25125
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_13.23.57.png",
+      "size": 270071
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_13.35.05.png",
+      "size": 232874
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_13.46.33.png",
+      "size": 136761
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_13.47.06.png",
+      "size": 180230
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_13.56.09.png",
+      "size": 31852
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_14.24.58.png",
+      "size": 163692
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_14.28.15.png",
+      "size": 275660
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_14.33.17.png",
+      "size": 122933
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_14.35.29.png",
+      "size": 449309
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_14.41.15.png",
+      "size": 317918
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_14.42.55.png",
+      "size": 320541
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_15.49.35.png",
+      "size": 176450
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_16.29.06.png",
+      "size": 269780
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_16.31.31.png",
+      "size": 132448
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_16.52.12.png",
+      "size": 109960
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_17.08.09.png",
+      "size": 105732
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_17.16.34.png",
+      "size": 117778
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Screenshot_2025-09-11_at_17.21.33.png",
+      "size": 261395
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_16.40.24.png",
+      "size": 170345
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_17.34.35.png",
+      "size": 125179
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_10.03.33.png",
+      "size": 99832
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.03.04.png",
+      "size": 212490
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.03.17.png",
+      "size": 218049
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.06.46.png",
+      "size": 107456
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.22.45.png",
+      "size": 215197
+    },
+    {
+      "path": "features/settings/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.24.47.png",
+      "size": 292625
+    },
+    {
+      "path": "features/settings/i18n/ja/overview.md",
+      "size": 1412
+    },
+    {
+      "path": "features/settings/i18n/ja/privacy.md",
+      "size": 1415
+    },
+    {
+      "path": "features/settings/i18n/ja/README.md",
+      "size": 38
+    },
+    {
+      "path": "features/settings/i18n/ja/reset-to-default.md",
+      "size": 749
+    },
+    {
+      "path": "features/settings/i18n/ja/search.md",
+      "size": 1385
+    },
+    {
+      "path": "features/settings/i18n/ja/support.md",
+      "size": 1492
+    },
+    {
+      "path": "features/settings/i18n/ja/wallet.md",
+      "size": 1101
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-10_at_16.45.03.png",
+      "size": 73273
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-10_at_17.02.09.png",
+      "size": 99382
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-10_at_17.27.51.png",
+      "size": 72787
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-10_at_17.33.21.png",
+      "size": 143962
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-10_at_17.37.26.png",
+      "size": 53973
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_09.31.59.png",
+      "size": 51124
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_10.10.18.png",
+      "size": 147151
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_10.12.02.png",
+      "size": 116219
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_10.14.54.png",
+      "size": 128421
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_10.17.47.png",
+      "size": 162796
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_10.44.06.png",
+      "size": 46777
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_10.44.38.png",
+      "size": 25125
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_13.23.57.png",
+      "size": 302185
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_13.35.05.png",
+      "size": 118705
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_13.46.33.png",
+      "size": 58158
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_13.47.06.png",
+      "size": 77299
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_13.56.09.png",
+      "size": 30916
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_14.24.58.png",
+      "size": 74441
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_14.28.15.png",
+      "size": 132427
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_14.33.17.png",
+      "size": 72426
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_14.35.29.png",
+      "size": 157621
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_14.41.15.png",
+      "size": 175379
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_14.42.55.png",
+      "size": 130643
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_15.49.35.png",
+      "size": 102481
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_16.29.06.png",
+      "size": 157199
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_16.31.31.png",
+      "size": 64692
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_16.52.12.png",
+      "size": 43041
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_17.08.09.png",
+      "size": 51591
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_17.16.34.png",
+      "size": 51487
+    },
+    {
+      "path": "features/settings/img/Screenshot_2025-09-11_at_17.21.33.png",
+      "size": 71460
+    },
+    {
+      "path": "features/settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_16.40.24.png",
+      "size": 201774
+    },
+    {
+      "path": "features/settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-10_at_17.34.35.png",
+      "size": 178134
+    },
+    {
+      "path": "features/settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_10.03.33.png",
+      "size": 197354
+    },
+    {
+      "path": "features/settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.03.04.png",
+      "size": 212490
+    },
+    {
+      "path": "features/settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.03.17.png",
+      "size": 218049
+    },
+    {
+      "path": "features/settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_14.06.46.png",
+      "size": 165138
+    },
+    {
+      "path": "features/settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.22.45.png",
+      "size": 290612
+    },
+    {
+      "path": "features/settings/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-11_at_17.24.47.png",
+      "size": 359163
+    },
+    {
+      "path": "features/settings/overview.md",
+      "size": 1123
+    },
+    {
+      "path": "features/settings/privacy.md",
+      "size": 1030
+    },
+    {
+      "path": "features/settings/README.md",
+      "size": 53
+    },
+    {
+      "path": "features/settings/reset-to-default.md",
       "size": 609
     },
     {
-      "path": "settings/search.md",
+      "path": "features/settings/search.md",
       "size": 1208
     },
     {
-      "path": "settings/support.md",
+      "path": "features/settings/support.md",
       "size": 1230
     },
     {
-      "path": "settings/wallet.md",
+      "path": "features/settings/wallet.md",
       "size": 819
     },
     {
-      "path": "wallet/asset-list.md",
+      "path": "features/wallet/asset-list.md",
       "size": 1889
     },
     {
-      "path": "wallet/create-wallet.md",
+      "path": "features/wallet/create-wallet.md",
       "size": 1962
     },
     {
-      "path": "wallet/i18n/ja/asset-list.md",
+      "path": "features/wallet/i18n/ja/asset-list.md",
       "size": 2385
     },
     {
-      "path": "wallet/i18n/ja/create-wallet.md",
+      "path": "features/wallet/i18n/ja/create-wallet.md",
       "size": 2808
     },
     {
-      "path": "wallet/i18n/ja/img/IMG_0823.png",
+      "path": "features/wallet/i18n/ja/img/IMG_0823.png",
       "size": 186236
     },
     {
-      "path": "wallet/i18n/ja/img/IMG_0869.png",
+      "path": "features/wallet/i18n/ja/img/IMG_0869.png",
       "size": 243685
     },
     {
-      "path": "wallet/i18n/ja/img/IMG_0870.png",
+      "path": "features/wallet/i18n/ja/img/IMG_0870.png",
       "size": 268468
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-16_at_17.44.58.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-16_at_17.44.58.png",
       "size": 136449
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-16_at_17.47.14.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-16_at_17.47.14.png",
       "size": 215102
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.40.26.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.40.26.png",
       "size": 95590
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.42.43.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.42.43.png",
       "size": 86561
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.50.24.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.50.24.png",
       "size": 374583
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.51.06.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.51.06.png",
       "size": 301309
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.54.08.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-18_at_15.54.08.png",
       "size": 519898
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.09.42.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.09.42.png",
       "size": 69903
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.19.50.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.19.50.png",
       "size": 281987
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.20.11.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.20.11.png",
       "size": 256806
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.24.08.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.24.08.png",
       "size": 216274
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.26.33.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.26.33.png",
       "size": 145031
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.41.46.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.41.46.png",
       "size": 124020
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.45.17.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.45.17.png",
       "size": 233061
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.50.27.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_17.50.27.png",
       "size": 421602
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_18.05.31.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_18.05.31.png",
       "size": 176782
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-24_at_18.06.12.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-24_at_18.06.12.png",
       "size": 330343
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-25_at_14.20.08.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-25_at_14.20.08.png",
       "size": 383311
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-25_at_15.53.37.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-25_at_15.53.37.png",
       "size": 630230
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-25_at_16.03.10.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-25_at_16.03.10.png",
       "size": 382452
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-25_at_16.44.42.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-25_at_16.44.42.png",
       "size": 344985
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-25_at_16.52.44.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-25_at_16.52.44.png",
       "size": 130854
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-25_at_17.04.04.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-25_at_17.04.04.png",
       "size": 359796
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-26_at_13.23.25.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-26_at_13.23.25.png",
       "size": 460592
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-26_at_13.28.15.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-26_at_13.28.15.png",
       "size": 81726
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-26_at_13.29.08.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-26_at_13.29.08.png",
       "size": 65412
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-26_at_14.01.56.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-26_at_14.01.56.png",
       "size": 521625
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-26_at_15.41.37.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-26_at_15.41.37.png",
       "size": 324289
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-26_at_15.41.54.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-26_at_15.41.54.png",
       "size": 351016
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-26_at_15.42.13.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-26_at_15.42.13.png",
       "size": 405566
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-26_at_15.42.29.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-26_at_15.42.29.png",
       "size": 379123
     },
     {
-      "path": "wallet/i18n/ja/img/Screenshot_2025-09-29_at_15.39.10.png",
+      "path": "features/wallet/i18n/ja/img/Screenshot_2025-09-29_at_15.39.10.png",
       "size": 189393
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.11.36.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.11.36.png",
       "size": 235562
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.18.56.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.18.56.png",
       "size": 250404
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.49.50.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.49.50.png",
       "size": 335829
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.49.59.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.49.59.png",
       "size": 365733
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-16_at_17.36.39.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-16_at_17.36.39.png",
       "size": 175766
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.16.01.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.16.01.png",
       "size": 160597
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.28.58.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.28.58.png",
       "size": 152477
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.33.59.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.33.59.png",
       "size": 132479
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-25_at_14.53.30.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-25_at_14.53.30.png",
       "size": 174738
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.08.19.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.08.19.png",
       "size": 285393
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.14.31.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.14.31.png",
       "size": 280760
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.15.34.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.15.34.png",
       "size": 806253
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.18.21.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.18.21.png",
       "size": 1225463
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.42.00.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.42.00.png",
       "size": 484462
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.42.59.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.42.59.png",
       "size": 573150
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.43.10.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.43.10.png",
       "size": 223783
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.24.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.24.png",
       "size": 285393
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.30.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.30.png",
       "size": 227623
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.32.35.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.32.35.png",
       "size": 283364
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.33.47.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.33.47.png",
       "size": 1229025
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.49.21.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.49.21.png",
       "size": 187791
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.52.47.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.52.47.png",
       "size": 518162
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.56.57.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.56.57.png",
       "size": 199591
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.15.03.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.15.03.png",
       "size": 354167
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.16.03.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.16.03.png",
       "size": 343897
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.09.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.09.png",
       "size": 236655
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.16.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.16.png",
       "size": 100228
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.12.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.12.png",
       "size": 182826
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.25.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.25.png",
       "size": 184884
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.31.33.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.31.33.png",
       "size": 99498
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.43.40.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.43.40.png",
       "size": 144442
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.03.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.03.png",
       "size": 125505
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.15.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.15.png",
       "size": 258187
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.30.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.30.png",
       "size": 147230
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.46.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.46.png",
       "size": 173167
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.33.55.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.33.55.png",
       "size": 183923
     },
     {
-      "path": "wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.36.47.png",
+      "path": "features/wallet/i18n/ja/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.36.47.png",
       "size": 148700
     },
     {
-      "path": "wallet/i18n/ja/overview.md",
+      "path": "features/wallet/i18n/ja/overview.md",
       "size": 1573
     },
     {
-      "path": "wallet/i18n/ja/README.md",
+      "path": "features/wallet/i18n/ja/README.md",
       "size": 47
     },
     {
-      "path": "wallet/i18n/ja/wallet-dashboard.md",
+      "path": "features/wallet/i18n/ja/wallet-dashboard.md",
       "size": 3785
     },
     {
-      "path": "wallet/i18n/ja/wallet-operations.md",
+      "path": "features/wallet/i18n/ja/wallet-operations.md",
       "size": 9066
     },
     {
-      "path": "wallet/i18n/ja/wallet-settings.md",
+      "path": "features/wallet/i18n/ja/wallet-settings.md",
       "size": 9573
     },
     {
-      "path": "wallet/i18n/ja/walletconnect.md",
+      "path": "features/wallet/i18n/ja/walletconnect.md",
       "size": 4552
     },
     {
-      "path": "wallet/img/IMG_0823.png",
+      "path": "features/wallet/img/IMG_0823.png",
       "size": 186236
     },
     {
-      "path": "wallet/img/IMG_0869.png",
+      "path": "features/wallet/img/IMG_0869.png",
       "size": 243685
     },
     {
-      "path": "wallet/img/IMG_0870.png",
+      "path": "features/wallet/img/IMG_0870.png",
       "size": 268468
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-16_at_17.44.58.png",
+      "path": "features/wallet/img/Screenshot_2025-09-16_at_17.44.58.png",
       "size": 129819
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-16_at_17.47.14.png",
+      "path": "features/wallet/img/Screenshot_2025-09-16_at_17.47.14.png",
       "size": 193382
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-18_at_15.40.26.png",
+      "path": "features/wallet/img/Screenshot_2025-09-18_at_15.40.26.png",
       "size": 110979
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-18_at_15.42.43.png",
+      "path": "features/wallet/img/Screenshot_2025-09-18_at_15.42.43.png",
       "size": 70774
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-18_at_15.50.24.png",
+      "path": "features/wallet/img/Screenshot_2025-09-18_at_15.50.24.png",
       "size": 117602
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-18_at_15.51.06.png",
+      "path": "features/wallet/img/Screenshot_2025-09-18_at_15.51.06.png",
       "size": 184680
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-18_at_15.54.08.png",
+      "path": "features/wallet/img/Screenshot_2025-09-18_at_15.54.08.png",
       "size": 177322
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_17.09.42.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_17.09.42.png",
       "size": 50597
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_17.19.50.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_17.19.50.png",
       "size": 193694
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_17.20.11.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_17.20.11.png",
       "size": 176676
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_17.24.08.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_17.24.08.png",
       "size": 163328
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_17.26.33.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_17.26.33.png",
       "size": 97681
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_17.41.46.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_17.41.46.png",
       "size": 79541
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_17.45.17.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_17.45.17.png",
       "size": 151914
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_17.50.27.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_17.50.27.png",
       "size": 140305
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_18.05.31.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_18.05.31.png",
       "size": 74209
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-24_at_18.06.12.png",
+      "path": "features/wallet/img/Screenshot_2025-09-24_at_18.06.12.png",
       "size": 95888
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-25_at_14.20.08.png",
+      "path": "features/wallet/img/Screenshot_2025-09-25_at_14.20.08.png",
       "size": 181381
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-25_at_15.53.37.png",
+      "path": "features/wallet/img/Screenshot_2025-09-25_at_15.53.37.png",
       "size": 126831
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-25_at_16.03.10.png",
+      "path": "features/wallet/img/Screenshot_2025-09-25_at_16.03.10.png",
       "size": 115859
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-25_at_16.44.42.png",
+      "path": "features/wallet/img/Screenshot_2025-09-25_at_16.44.42.png",
       "size": 115881
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-25_at_16.52.44.png",
+      "path": "features/wallet/img/Screenshot_2025-09-25_at_16.52.44.png",
       "size": 130854
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-25_at_17.04.04.png",
+      "path": "features/wallet/img/Screenshot_2025-09-25_at_17.04.04.png",
       "size": 123855
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-26_at_13.23.25.png",
+      "path": "features/wallet/img/Screenshot_2025-09-26_at_13.23.25.png",
       "size": 460592
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-26_at_13.28.15.png",
+      "path": "features/wallet/img/Screenshot_2025-09-26_at_13.28.15.png",
       "size": 81726
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-26_at_13.29.08.png",
+      "path": "features/wallet/img/Screenshot_2025-09-26_at_13.29.08.png",
       "size": 51212
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-26_at_14.01.56.png",
+      "path": "features/wallet/img/Screenshot_2025-09-26_at_14.01.56.png",
       "size": 521625
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-26_at_15.41.37.png",
+      "path": "features/wallet/img/Screenshot_2025-09-26_at_15.41.37.png",
       "size": 324289
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-26_at_15.41.54.png",
+      "path": "features/wallet/img/Screenshot_2025-09-26_at_15.41.54.png",
       "size": 351016
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-26_at_15.42.13.png",
+      "path": "features/wallet/img/Screenshot_2025-09-26_at_15.42.13.png",
       "size": 405566
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-26_at_15.42.29.png",
+      "path": "features/wallet/img/Screenshot_2025-09-26_at_15.42.29.png",
       "size": 379123
     },
     {
-      "path": "wallet/img/Screenshot_2025-09-29_at_15.39.10.png",
+      "path": "features/wallet/img/Screenshot_2025-09-29_at_15.39.10.png",
       "size": 190119
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.11.36.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.11.36.png",
       "size": 168678
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.18.56.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.18.56.png",
       "size": 178491
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.49.50.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.49.50.png",
       "size": 227743
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.49.59.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_15_-_2025-09-15_at_17.49.59.png",
       "size": 228964
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-16_at_17.36.39.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-16_at_17.36.39.png",
       "size": 232759
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.16.01.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.16.01.png",
       "size": 226098
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.28.58.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.28.58.png",
       "size": 208220
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.33.59.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-24_at_17.33.59.png",
       "size": 199968
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-25_at_14.53.30.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-25_at_14.53.30.png",
       "size": 177760
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.08.19.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.08.19.png",
       "size": 434663
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.14.31.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.14.31.png",
       "size": 280760
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.15.34.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.15.34.png",
       "size": 806253
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.18.21.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_11.18.21.png",
       "size": 1225463
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.42.00.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.42.00.png",
       "size": 484462
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.42.59.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.42.59.png",
       "size": 573150
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.43.10.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_13.43.10.png",
       "size": 223783
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.24.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.24.png",
       "size": 360179
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.30.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.29.30.png",
       "size": 227623
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.32.35.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.32.35.png",
       "size": 283364
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.33.47.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-26_at_17.33.47.png",
       "size": 1229025
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.49.21.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.49.21.png",
       "size": 189186
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.52.47.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.52.47.png",
       "size": 924080
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.56.57.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_10.56.57.png",
       "size": 199591
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.15.03.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.15.03.png",
       "size": 354167
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.16.03.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.16.03.png",
       "size": 343897
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.09.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.09.png",
       "size": 236655
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.16.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_11.21.16.png",
       "size": 129736
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.12.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.12.png",
       "size": 231474
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.25.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.15.25.png",
       "size": 218314
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.31.33.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.31.33.png",
       "size": 126481
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.43.40.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.43.40.png",
       "size": 199511
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.03.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.03.png",
       "size": 184406
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.15.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_14.45.15.png",
       "size": 426715
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.30.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.30.png",
       "size": 230444
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.46.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.30.46.png",
       "size": 244539
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.33.55.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.33.55.png",
       "size": 266478
     },
     {
-      "path": "wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.36.47.png",
+      "path": "features/wallet/img/Simulator_Screenshot_-_iPhone_16_-_2025-09-29_at_15.36.47.png",
       "size": 204305
     },
     {
-      "path": "wallet/overview.md",
+      "path": "features/wallet/overview.md",
       "size": 1118
     },
     {
-      "path": "wallet/README.md",
+      "path": "features/wallet/README.md",
       "size": 51
     },
     {
-      "path": "wallet/wallet-dashboard.md",
+      "path": "features/wallet/wallet-dashboard.md",
       "size": 2880
     },
     {
-      "path": "wallet/wallet-operations.md",
+      "path": "features/wallet/wallet-operations.md",
       "size": 7455
     },
     {
-      "path": "wallet/wallet-settings.md",
+      "path": "features/wallet/wallet-settings.md",
       "size": 7337
     },
     {
-      "path": "wallet/walletconnect.md",
+      "path": "features/wallet/walletconnect.md",
       "size": 3700
+    },
+    {
+      "path": "getting-started/download.md",
+      "size": 269
+    },
+    {
+      "path": "getting-started/i18n/ja/download.md",
+      "size": 300
+    },
+    {
+      "path": "getting-started/i18n/ja/README.md",
+      "size": 50
+    },
+    {
+      "path": "getting-started/i18n/ja/troubleshooting.md",
+      "size": 1434
+    },
+    {
+      "path": "getting-started/README.md",
+      "size": 60
+    },
+    {
+      "path": "getting-started/troubleshooting.md",
+      "size": 1014
+    },
+    {
+      "path": "i18n/ja/introduction.md",
+      "size": 679
+    },
+    {
+      "path": "introduction.md",
+      "size": 505
+    },
+    {
+      "path": "lunascape-docs.json",
+      "size": 476
     }
   ]
 }
