@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> このリポジトリは [gu-corp/lunascape-user-guide](https://github.com/gu-corp/lunascape-user-guide) の  に移行し、アーカイブされました。
+> 閲覧: <https://docs.lunascape.org/?source=github:gu-corp/lunascape-user-guide@main/mobile> ／ 修正の提案も移行先へお願いします。
+
 # Lunascape Mobile User Manual
 
 This repository contains the Lunascape Mobile user manual in the canonical Lunascape Docs format. The Markdown and image files under `docs/` are the source of truth, and the manual itself needs no site generator and no build step.
