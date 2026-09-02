@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> このリポジトリは [gu-corp/lunascape-user-guide](https://github.com/gu-corp/lunascape-user-guide) の  に移行し、アーカイブされました。
+> このリポジトリは [gu-corp/lunascape-user-guide](https://github.com/gu-corp/lunascape-user-guide) の `mobile/` に移行し、アーカイブされました。
 > 閲覧: <https://docs.lunascape.org/?source=github:gu-corp/lunascape-user-guide@main/mobile> ／ 修正の提案も移行先へお願いします。
 
 # Lunascape Mobile User Manual
